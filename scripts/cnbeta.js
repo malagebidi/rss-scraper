@@ -39,7 +39,7 @@ async function scrapeCnbeta() {
         const $detail = cheerio.load(detailHtml);
         
         // 2. 提取摘要：单独提取 .article-summ
-        const summary = $detail('.article-summ').text().trim();
+        const summary = $detail('.article-summ p').text().trim();
         
         // 3. 提取全文：拼接摘要和正文内容
         // 我们先拿到两部分的 HTML，然后拼接在一起
