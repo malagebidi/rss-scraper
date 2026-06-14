@@ -25,7 +25,7 @@ async function scrapeCnbeta() {
   const items = $('.info_list li');
   
   // 使用 for...of 循环来逐个抓取详情页
-  for (let i = 0; i < Math.min(items.length, 5); i++) { // 为了演示，先抓前 5 条，避免运行过久
+  for (let i = 0; i < Math.min(items.length, 25); i++) { // 抓前 25 条，避免运行过久
     const el = items[i];
     const link = $(el).find('.txt_area a').attr('href');
     const title = $(el).find('.txt_detail').text().trim();
