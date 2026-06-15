@@ -8,7 +8,7 @@ const client = axios.create({
 });
 
 async function scrapeCnbeta() {
-  const targetUrl = 'https://m.cnbeta.com.tw/list/latest_1.htm';
+  const targetUrl = 'https://m.cnbeta.com.tw/';
   const { data } = await client.get(targetUrl);
   const $ = cheerio.load(data);
   
@@ -22,10 +22,10 @@ async function scrapeCnbeta() {
   });
 
   // 获取列表
-  const items = $('.info_list li');
+  const items = $('#it_tech .info_list li');
   
   // 使用 for...of 循环来逐个抓取详情页
-  for (let i = 0; i < Math.min(items.length, 25); i++) { // 抓前 25 条，避免运行过久
+  for (let i = 0; i < Math.min(items.length, 15); i++) { // 抓前 15 条，避免运行过久
     const el = items[i];
     const link = $(el).find('.txt_area a').attr('href');
     const title = $(el).find('.txt_detail').text().trim();
