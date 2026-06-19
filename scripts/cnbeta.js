@@ -7,7 +7,7 @@ const client = axios.create({
   headers: { 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15' }
 });
 
-async function scrapeCnbeta() {
+async function scrapeCnbeta(keywords = ['散户']) {
   const targetUrl = 'https://m.cnbeta.com.tw/';
   const { data } = await client.get(targetUrl);
   const $ = cheerio.load(data);
@@ -29,8 +29,15 @@ async function scrapeCnbeta() {
     const el = items[i];
     const link = $(el).find('.txt_area a').attr('href');
     const title = $(el).find('.txt_detail').text().trim();
-    
-    if (title && link) {
+
+    // --- 关键字过滤逻辑 ---
+    let isMatch = true; // 默认匹配
+    if (keywords && keywords.length > 0) {
+      // 只要标题包含关键字数组中的任意一个词，就将其标记为匹配
+      isMatch = keywords.some(keyword => title.includes(keyword));
+    }
+
+    if (title && link && isMatch) {
       const fullLink = link.startsWith('http') ? link : `https://m.cnbeta.com.tw${link}`;
       
       try {
