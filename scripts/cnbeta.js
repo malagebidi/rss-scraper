@@ -44,6 +44,23 @@ async function scrapeCnbeta(keywords = ['散户']) {
         // 1. 获取详情页内容
         const { data: detailHtml } = await client.get(fullLink);
         const $detail = cheerio.load(detailHtml);
+
+        // --- 新增：提取并转换真实发布时间 ---
+        // 使用正则直接提取 "2026-06-19 01:46:27" 这种格式的字符串
+        const timeMatch = detailHtml.match(/\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2}/);
+        let articleDate = new Date(); // 默认使用当前时间兜底
+        
+        if (timeMatch) {
+          // 将空格替换为 T，并补上北京时间后缀，拼成符合 ISO 8601 标准的格式
+          // 最终拼成：2026-06-19T01:46:27+08:00
+          const timeString = timeMatch[0].replace(' ', 'T') + '+08:00';
+          const parsedDate = new Date(timeString);
+          
+          // 校验日期是否合法，合法才替换
+          if (!isNaN(parsedDate.getTime())) {
+            articleDate = parsedDate;
+          }
+        }
         
         // 2. 提取摘要：单独提取 .article-summ
         const summary = $detail('.article-summ p').text().trim();
@@ -60,7 +77,7 @@ async function scrapeCnbeta(keywords = ['散户']) {
           link: fullLink,
           description: summary,
           content: fullContent,
-          date: new Date(), 
+          date: articleDate,
         });
         
         // 简单延迟，防止被封 IP
