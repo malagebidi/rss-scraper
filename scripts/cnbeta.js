@@ -31,13 +31,13 @@ async function scrapeCnbeta(keywords = ['散户']) {
     const title = $(el).find('.txt_detail').text().trim();
 
     // --- 关键字过滤逻辑 ---
-    let isMatch = true; // 默认匹配
+    let hasBlockedKeyword = false; // 默认不包含屏蔽词
     if (keywords && keywords.length > 0) {
       // 只要标题包含关键字数组中的任意一个词，就将其标记为匹配
-      isMatch = keywords.some(keyword => title.includes(keyword));
+      hasBlockedKeyword = keywords.some(keyword => title.includes(keyword));
     }
 
-    if (title && link && isMatch) {
+    if (title && link && !hasBlockedKeyword) {
       const fullLink = link.startsWith('http') ? link : `https://m.cnbeta.com.tw${link}`;
       
       try {
