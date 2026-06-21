@@ -73,7 +73,7 @@ async function scrapeCnbeta(keywords = ['散户', '汽车', '特斯拉', '纯电
         
         // 兜底逻辑，如果没抓到具体的作者，就默认显示 "cnBeta"
         if (!authorName) {
-            authorName = "cnBeta";
+            authorName = "cnBeta 业界资讯";
         }
         
         // 2. 提取摘要：单独提取 .article-summ
