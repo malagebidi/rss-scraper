@@ -61,6 +61,20 @@ async function scrapeCnbeta(keywords = ['散户', '汽车', '特斯拉', '纯电
             articleDate = parsedDate;
           }
         }
+
+        // --- 新增：提取作者/来源 ---
+        let authorName = $detail('.article-byline > span').first().text();
+
+        if (authorName) {
+            // Cheerio 的 .text() 会把底下的 "&nbsp;&nbsp;" 也抓出来（变成特殊的空白字符 \xA0）
+            // 我们用正则把所有普通空格和不可见的实体空格全部替换掉，并去除首尾空白
+            authorName = authorName.replace(/[\s\xA0]+/g, '').trim();
+        }
+        
+        // 兜底逻辑，如果没抓到具体的作者，就默认显示 "cnBeta"
+        if (!authorName) {
+            authorName = "cnBeta";
+        }
         
         // 2. 提取摘要：单独提取 .article-summ
         const summary = $detail('.article-summ p').text().trim();
@@ -77,6 +91,11 @@ async function scrapeCnbeta(keywords = ['散户', '汽车', '特斯拉', '纯电
           link: fullLink,
           description: summary,
           content: fullContent,
+          author: [
+            {
+              name: authorName
+            }
+          ],
           date: articleDate,
         });
         
