@@ -7,7 +7,7 @@ const client = axios.create({
   headers: { 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15' }
 });
 
-async function scrapeCnbeta(keywords = ['散户', '汽车', '特斯拉', '纯电', '财务', '回购', '收购', '交易', '广告', '任命', '盗版', 'edge', '股价', '市值', '估值', '逝世', '债券', 'WPS']) {
+async function scrapeCnbeta(keywords = ['散户', '汽车', '特斯拉', '纯电', '财务', '回购', '收购', '交易', '广告', '任命', '盗版', 'edge', '股价', '市值', '估值', '逝世', '空客', '上市', '募资', '债券', 'WPS']) {
   const targetUrl = 'https://m.cnbeta.com.tw/';
   const { data } = await client.get(targetUrl);
   const $ = cheerio.load(data);
