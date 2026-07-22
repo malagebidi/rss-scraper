@@ -64,9 +64,7 @@ async function scrapeGeekPark(keywords = ['散户飞到费佛瑞']) {
         const summary = $detail('.topic-cover > p').text().trim();
         
         // 3. 提取全文
-        const summHtml = $detail('.article-summ p').html() || '';
-        const contHtml = $detail('#artibody').html() || '';
-        const fullContent = `<div>${summHtml}</div><div>${contHtml}</div>`;
+        const fullContent = $detail('.article-content').html() || '';
 
         feed.addItem({
           title: title,
