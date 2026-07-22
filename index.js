@@ -1,15 +1,15 @@
 const fs = require('fs');
 const path = require('path');
-const scrapeCnbeta = require('./scripts/cnbeta');
+const scrapeGeekPark = require('./scripts/geekpark');
 
 async function main() {
   const distPath = path.join(__dirname, 'dist');
   if (!fs.existsSync(distPath)) fs.mkdirSync(distPath);
 
   try {
-    const cnbetaRss = await scrapeCnbeta();
-    fs.writeFileSync(path.join(distPath, 'cnbeta.xml'), cnbetaRss, 'utf8');
-    console.log('✅ cnBeta 抓取成功！');
+    const geekParkRss = await scrapeGeekPark();
+    fs.writeFileSync(path.join(distPath, 'geekpark.xml'), geekParkRss, 'utf8');
+    console.log('✅ 极客公园抓取成功！');
   } catch (error) {
     console.error('❌ 抓取错误:', error);
     process.exit(1);
