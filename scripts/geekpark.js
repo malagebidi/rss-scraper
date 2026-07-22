@@ -7,14 +7,14 @@ const client = axios.create({
   headers: { 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15' }
 });
 
-async function scrapeGeekPark(keywords = ['散户', '汽车', '蔚来', '福特', '比亚迪', '特斯拉', '三菱', '纯电', '财务', '回购', '收购', '私募', '交易', '币安', '比特币', '加密货币', '广告', '任命', '政府', '盗版', 'edge', '股价', '市值', '估值', '逝世', '空客', '上市', '募资', '资产', '债券', '捐赠', 'WPS', 'windows']) {
+async function scrapeGeekPark(keywords = ['散户飞到费佛瑞']) {
   const targetUrl = 'https://www.geekpark.net/column/74';
   const { data } = await client.get(targetUrl);
   const $ = cheerio.load(data);
   
   const feed = new Feed({
-    title: "极客早知道 - 极客公园",
-    description: "极客公园 - 极客早知道专栏",
+    title: "极客早知道",
+    description: "第一时间掌握最新科技资讯",
     id: targetUrl,
     link: targetUrl,
     language: "zh-CN",
@@ -22,13 +22,13 @@ async function scrapeGeekPark(keywords = ['散户', '汽车', '蔚来', '福特'
   });
 
   // 获取列表 (这里的选择器还没改，只是留着框架)
-  const items = $('#it_tech .info_list li');
+  const items = $('.article-list > article');
   
   // 使用 for...of 循环来逐个抓取详情页
-  for (let i = 0; i < Math.min(items.length, 25); i++) { // 抓前 25 条，避免运行过久
+  for (let i = 0; i < Math.min(items.length, 15); i++) { // 抓前 15 条，避免运行过久
     const el = items[i];
-    const link = $(el).find('.txt_area a').attr('href');
-    const title = $(el).find('.txt_detail').text().trim();
+    const link = $(el).find('.img-cover-wrap').attr('href');
+    const title = $(el).find('h3.multiline-text-overflow').text().trim();
 
     // --- 关键字过滤逻辑 ---
     let hasBlockedKeyword = false; // 默认不包含屏蔽词
@@ -58,18 +58,10 @@ async function scrapeGeekPark(keywords = ['散户', '汽车', '蔚来', '福特'
         }
 
         // --- 提取作者/来源 ---
-        let authorName = $detail('.article-byline > span').first().text();
-
-        if (authorName) {
-            authorName = authorName.replace(/[\s\xA0]+/g, '').trim();
-        }
-        
-        if (!authorName) {
-            authorName = "极客早知道";
-        }
+        const authorName = "极客早知道";
         
         // 2. 提取摘要
-        const summary = $detail('.article-summ p').text().trim();
+        const summary = $detail('.topic-cover > p').text().trim();
         
         // 3. 提取全文
         const summHtml = $detail('.article-summ p').html() || '';
