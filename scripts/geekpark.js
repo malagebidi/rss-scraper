@@ -60,7 +60,8 @@ async function scrapeGeekPark(keywords = ['散户飞到费佛瑞']) {
         // --- 提取作者/来源 ---
         const authorName = "极客早知道";
         
-        // 2. 提取摘要
+        // 2. 提取封面图和摘要
+        const coverImage = $detail('img#topic-cover').attr('src');
         const summary = $detail('.topic-cover > p').text().trim();
         
         // 3. 提取全文
@@ -78,6 +79,7 @@ async function scrapeGeekPark(keywords = ['散户飞到费佛瑞']) {
             }
           ],
           date: articleDate,
+          image: coverImage,
         });
         
         // 简单延迟，防止被封 IP
