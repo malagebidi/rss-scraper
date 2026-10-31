@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>极客早知道</title>
+        <link>https://www.geekpark.net/column/74</link>
+        <description>第一时间掌握最新科技资讯</description>
+        <lastBuildDate>Sat, 31 Oct 2026 16:59:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-CN</language>
+        <item>
+            <title><![CDATA[苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/373220</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373220</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:11 GMT</pubDate>
+            <description><![CDATA[OpenAI 撤回 Pro 200 降额计划，同时提高 Work 和 Codex 用量；Neuralink 演示意念唤醒 Grok，渐冻症患者用脑机接口打电话；Reddit 大调整：浏览内容需先登录，以防范 AI 爬虫]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/25/34/2534bb5db2534bf8ea4b0982daa6e132.png"></p>
+<h2>国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri</h2>
+<p>10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air、iPhone Duo。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b3/72/b372d4c7d34112e68be8ee5678c2f366.png"></p>
+<p>阿里巴巴强调，在任何问题、文档和图片发送给千问之前，都会先征得用户同意。</p>
+<p>苹果表示，这些功能由其自有模型驱动；用户也可以选择接入阿里巴巴千问，在 Siri、写作工具和视觉智能中处理部分请求。不过，首批更新不包含新版 Siri AI，iPad、Mac 等其他平台还需等待必要审批。（来源：极客公园）</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/fd/9a/fd9a8a1c38b2dfa1b62830f2db3a7747.png"></p>
+<h2>OpenAI 撤回 Pro 200 降额计划，同时提高 Work 和 Codex 用量</h2>
+<p>当地时间 10 月 29 日，OpenAI 宣布调整 Pro 和 Business Premium 订阅中的 Work、Codex 使用额度。Pro 100 和 Pro 500 的原有额度翻倍；此前额度较低的 Pro 200 用户也获得翻倍提升，与原本享有较高额度的 Pro 200 用户持平。新额度立即生效，现有订阅用户无需等到续费。</p>
+<p>这也意味着，OpenAI 撤回了 9 月底通知中的 Pro 200 降额计划，原本享有较高额度的用户可以继续保留。需要注意的是，额度翻倍不保证可完成的任务数也翻倍：实际消耗取决于模型、任务和速度模式，Fast 模式消耗额度的速度约为标准模式的 2.5 倍，Ultrafast 则为 8 倍。（来源：ITBears）</p>
+<p style="text-align: center;">&nbsp;</p>
+<h2>英特尔股价开盘跌超 30%，或将创下有记录以来最大单日跌幅</h2>
+<p>10 月 30 日开盘后，英特尔股价大幅下挫，盘中跌幅一度超过 30%，公司市值蒸发超过 1,370 亿美元（现汇率约合 9,147.3 亿元人民币），超过 2024 年最大单日跌幅（约 26%），如果能达到 31% 将超越 1974 年 7 月 5 日创下的终极历史纪录。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/74/1a/741a63b26907d91599f9f37054d8f6a3.png"></p>
+<p>路透社报道称，此次暴跌主要源于英特尔发布低于市场预期的第四季度业绩指引，同时警告个人电脑市场疲软、内存价格上涨等问题可能持续至 2027 年上半年。</p>
+<p>英特尔 2026 年第三季度财报显示，尽管公司当季营收同比增长 21%，达到 165.1 亿美元（现汇率约合 1,102.35 亿元人民币），但第四季度业绩指引低于市场预期，令投资者对其业务复苏前景产生担忧。（来源：IT 之家）</p>
+<p style="text-align: center;">&nbsp;</p>
+<header>
+<h2>Google 关闭 AI 编程智能体 Jules 推出不到两年</h2>
+<p>10 月 30 日，Google 将关闭其 AI 编程智能体 Jules，把从该工具中获得的经验引入其 AI 编程平台 Antigravity。2024 年 12 月，Google 推出 Jules，将其定位为一款能够完成那些「你不想亲自做」的编程任务的工具。现在，Google 表示将逐步关闭 Jules。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/9e/30/9e301e640352b88890e828b7a27c7db1.png"></p>
+<p>以下是 Jules 官方 X 账号发布的声明：</p>
+</header>
+<p>「当我们推出 Jules 时，这是一项实验，旨在了解异步编程智能体如何帮助开发者更快交付。看到大家用它构建的东西，让我们对智能体开发的未来方向有了深刻认识，并直接影响了 Google 旗下多个产品。</p>
+<p>我们正在努力将从 Jules 中积累的经验融入 Antigravity，让用户能够兼得两者之长：既能自主在远程环境中执行后台任务，又能拥有以智能体为核心的开发环境。随着我们将重心转向打造统一的体验，Jules 将逐步停止运营。</p>
+<p>无论你是用 Jules 消灭漏洞、编写测试，还是发布功能——感谢你塑造了智能体编程的未来。」（来源：cnBeta）</p>
+<h2>&nbsp;</h2>
+<h2>iPhone Air 2 被曝将增加超广角镜头，电池容量也有望提升</h2>
+<p>10 月 29 日，据数码博主「数码闲聊站」爆料，苹果正在准备下一代超薄手机 iPhone Air 2。新机据称将把后置单摄升级为双摄，采用 4800 万像素主摄和 4800 万像素超广角镜头，同时增大电池容量。影像和续航正是第一代 iPhone Air 受到关注的两项取舍。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b2/56/b2564e7bfd76bcb58b7b04a4de4f77e3.png"></p>
+<p>其他曝光配置包括 6.55 英寸、120Hz 的 OLED 屏幕，以及采用 2nm 工艺的 A20 系列芯片。另有消息称，新机可能在 2027 年春季发布。目前苹果尚未确认产品规格和发布时间，电池具体容量也没有可靠的公开数据。（来源：cnBeta）<img src="https://imgslim.geekpark.net/uploads/image/file/b5/e1/b5e10dd55e89e30d2983deade81251c6.png"></p>
+<h2>DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元</h2>
+<p>10 月 30 日，据 The Information 报道，DeepSeek 第二轮融资规模为 1055 亿元，公司估值达到 6155 亿元，近 30 家投资方参与。国资背景投资者贡献本轮融资额的 27%，首轮融资中这一比例为 2%。上述比例为相关投资者在单轮融资中的出资占比，并非其持有的公司股权比例。</p>
+<p>腾讯和宁德时代仍是 DeepSeek 本轮融资中出资规模最大的两家投资方。DeepSeek 创始人梁文锋本轮再出资 20 亿元。国家人工智能产业投资基金追加投资 10 亿元，与其首轮出资金额相同。中国移动、中国电信、中金公司、中信证券和中国人寿也参与本轮融资，各自出资 20 亿至 80 亿元。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/35/5f/355f054e2fc5ae2fb5fd06f327b9d277.jpg"></p>
+<p>产业投资者方面，本轮新增长鑫存储及朱一明，中芯国际也参与投资。vivo、美团、美的、立讯精密、吉利、携程和小红书分别出资 10 亿至 30 亿元。</p>
+<p>投资机构方面，由曹曦创立的砺思资本出资规模居前。IDG 资本两轮累计投资 65 亿元，博裕资本本轮投资 35 亿元。</p>
+<p>今年 6 月，DeepSeek 完成约 510 亿元首轮融资。此后，其第二轮融资目标曾多次调整。相关消息显示，本轮募资目标最初设定为 500 亿元，之后上调至约 1000 亿元。此次披露的 1055 亿元为更具体的融资规模。（来源：CNMO）</p>
+<h2>&nbsp;</h2>
+<h2>Neuralink 演示意念唤醒 Grok，渐冻症患者用脑机接口打电话</h2>
+<p>10 月 30 日，Neuralink 公布了一组脑机接口新功能。工程师在渐冻症受试者 Kenneth 家中进行了为期 72 小时的开发和测试，其中一项原型功能可将他想象说出的「Hey Neuralink」及任务指令解码，进而唤醒电脑上的 Grok 智能体执行操作。</p>
+<p>团队还测试了自动识别说话意图的功能，让受试者不必每次手动开启语音解码；通过手机应用 Bloom，脑机接口生成的语音也能直接进入 iPhone 通话。Kenneth 已用这套功能与妻子通话。Neuralink 强调，这些功能仍处于临床研究阶段，Grok 联动也只是早期原型，尚未成为面向公众的产品。（来源：Neuralink）</p>
+<p>&nbsp;</p>
+<h2>Reddit 大调整：浏览内容需先登录，以防范 AI 爬虫</h2>
+<p>10 月 30 日，Reddit 首席执行官史蒂夫 · 赫夫曼宣布，平台将逐步转向以登录浏览为主的模式，用户对这项调整普遍感到不满。</p>
+<p>这个 2005 年上线的社区平台，长期以来都支持游客无需登录即可浏览内容。当然，游客无法享受登录用户的全部功能，但除了旧版界面&nbsp;old.reddit&nbsp;和年龄限制内容之外，原本可以自由浏览。而现在，Reddit 打算改掉这个规则。</p>
+<p>赫夫曼给出了推行这项改动的理由。他写道，转向登录优先模式可以优化内容个性化推荐、提升用户互动，方便平台投放更贴合用户的广告，而最重要的一点，是阻止 AI 模型爬取站内内容。</p>
+<p>根据该公司第三季度股东信，2026 年第三季度，Reddit 日均独立访问用户为 1.303 亿人，其中游客访客 7680 万人，登录用户 5350 万人。也就是说，上一季度 59% 的活跃用户都是以游客身份访问平台。换句话说，这次改动影响的将是大部分日活用户，而不只是一小部分人群。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>全球智能手机第三季度出货量下降 20%，创 2013 年以来同期最低</h2>
+<p>10 月 29 日，市场研究机构 Omdia 发布报告称，2026 年第三季度全球智能手机出货量为 2.547 亿部，同比下降 20%，创 2013 年以来第三季度最低纪录。三星以 5780 万部位居第一，同比下降 5%；苹果以 5650 万部排名第二，与去年同期持平。小米、OPPO 和 vivo 分别下降 29%、39% 和 33%。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e4/57/e45713b890fb53275acfd4fdaef52ccd.jpg"></p>
+<p>Omdia 指出，存储芯片等零部件涨价推高了手机成本，价格敏感的新兴市场受到的影响更明显；渠道商也因采购成本上升，减少了节前备货。非洲市场出货量同比下降 39%，为主要地区中降幅最大。Omdia 预计，2026 年全年全球智能手机出货量将下降 12%，2027 年可能继续收缩。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2>消息称小米手环有望时隔五年重返印度市场</h2>
+<p>10 月 30 日，消息源「Yogesh Brar」发文，透露小米计划将手环产品线重新引入印度市场，新品预计今年年底前在印度亮相。</p>
+<p>小米上一次在印度市场推出手环产品可追溯至 2021 年的小米手环 6，此后其后续机型均未进入印度市场。若上述爆料属实，将标志着小米手环系列在时隔约五年后重返印度市场。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<header>
+<h2>Epic CEO 炮轰 Valve：Steam 拖累了游戏行业多年</h2>
+<p>10 月 30 日，Epic Games CEO Tim Sweeney 在社交媒体公开发文称，Valve 的 Steam「多年来一直在拖累游戏行业」。讨论起源于 Epic 前首席动画程序员 Kiaran Ritchie，Ritchie 批评 Valve 从游戏销售中抽取 30% 的分成，表示「一周就能用 vibe coding 写出一个 Steam 替代品」，并称行业急需一个让开发者保留收入的分发平台。</p>
+</header>
+<p>他承认 Steam 的网络效应和玩家对 Steam 库的执念构成壁垒，但如果开发者能真正有收入，会有更多好游戏和更多成功案例。</p>
+<p>当有用户质疑这一分析、并指出 Epic 自身客户端表现平平，Ritchie 回应称客户端在当下已无关紧要，「任何人都能做出比 Steam 更好的客户端，这并不难」。</p>
+<p>Sweeney 随后加入讨论，回复「完全如此」，并进一步表示 Valve 通过 Steamworks 的社交围墙将开发者的 PC 游戏锁死，导致玩家无法与 iOS、Android、Xbox、PlayStation、Switch 甚至其他 PC 平台的玩家互通。（来源：cnBeta）</p>
+<p><img src="https://imgslim.geekpark.net/uploads/image/file/53/62/53628b3e3da7d137b6e90bede020e2ca.png"></p>
+<h2>Claude 多端应用迎来重磅升级，iPhone 版正式支持 CarPlay 语音交互</h2>
+<p>10 月 30 日，Anthropic 官方在 X 平台连发多条推文，宣布对其覆盖多平台的移动端应用进行一次全面且深度的升级。</p>
+<p>iPhone 版 Claude 语音模式正式接入了苹果的 Apple CarPlay 车载系统，用户在日常驾驶途中，可以直接通过车机系统与 Claude 进行流畅的语音问答，为人车交互带来了全新的智能化体验。</p>
+<p>除了车载场景的突破外，本次多端应用升级还覆盖了界面交互、多账号管理以及语言能力的全面拓展：iPhone 和 iPad 端即将上线下拉搜索功能，方便用户快速检索历史对话与相关内容。同时，在 iPad 以及 iPhone Duo 等设备上，Claude 生成的内容将支持与聊天窗口并排展示，用户也可根据需要一键切换为全屏查看模式，大幅提升了大屏设备的阅读与操作效率。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/46/14/4614f7c3053058c3c5fa6634935e8dad.png"></p>
+<p>在账号管理方面，iOS 与 Android 版本的 Claude 现已支持多账号同时登录并直接切换。针对 Android 端的大屏与折叠屏设备，应用体验也进一步向桌面端靠拢，新增了多项针对性适配操作，让大屏交互更加自然流畅。</p>
+<p>Claude 还新增支持 24 种语言，使得累计支持的语种达到了 33 种。同时，语音模式的响应速度更快、识别准确度更高，非英语语音的听感也变得更加自然，且语音功能覆盖了更多的 Android 手机终端。（来源：ITBear）</p>
+<p>&nbsp;</p>
+<h2>腾讯 Marvis 上线 Coding 管家，手机可接续电脑端 AI 编程任务</h2>
+<p>10 月 29 日，腾讯旗下 AI 管家 Marvis 上线「Coding 管家」，首批支持 CodeBuddy IDE 的编程模式和 Kimi Code Desktop。用户离开电脑后，可以在手机上查看这两款工具中的项目、聊天记录和任务进度，继续发送指令，也可以发起新任务。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/20/2c/202c6c7fb0c89ad79d12bb479787109b.jpeg"></p>
+<p>使用时，电脑端需运行相应的 AI 编程工具，并由用户授权连接。手机端还支持向对话添加文件和照片，操作内容会同步回电脑。这项功能让用户可以直接进入原有的项目对话，处理需要补充或确认的事项，而不必在手机小屏幕上远程操作整个电脑桌面。（来源：aibase）</p>
+<p>&nbsp;</p>
+<h2>Meta 悄悄上线穿搭应用：用 Instagram 照片整理衣橱，AI 推荐搭配</h2>
+<p>10 月 30 日，据 TechCrunch 报道，Meta 推出独立应用 Style Sketch。用户可以连接 Instagram，从过去发布的照片中整理出虚拟衣橱，也可以通过拍照、录视频或上传图片添加衣物。应用会根据已有单品和个人风格推荐穿搭，并在与用户体型、肤色相近的虚拟模特上展示效果。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c9/ce/c9ce1d0c8c9629f233ccc3cc695bf37e.jpg"></p>
+<p>用户还可以指定某件衣服，让 AI 围绕它推荐搭配；输入旅行目的地和行程后，应用也能结合天气安排每天的穿着。目前 Style Sketch 仅在印尼、新加坡和泰国上线，支持 iOS 和安卓。Meta 尚未公布是否会推广至更多地区。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/69/21/6921d5ea4e249e94686b76bc20f0ae91.png"></p>
+<h2>Stack Overflow 月度提问跌破千条，巅峰时期曾超 20 万</h2>
+<p>10 月 30 日，据 Hacker News 报道，开发者通过 Stack Exchange 公开 API 核对发现，全球规模最大的编程问答网站 Stack Overflow 在 AI 工具面世后访问量持续下跌，现在每月新增提问不足 1000 条，在 2026 年 9 月仅有 969 条新增提问仍可查询到。作为对比，2020 年 10 月的可查提问数约为 14.2 万条，2014 年 3 月曾超过 20 万条。</p>
+<p>相较 2020 年 10 月，提问量暴跌 99.3%。这个曾经和「谷歌报错信息」绑定在一起的网站，如今一个月产生的新问题，差不多只等于当年短短几小时的量。（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/5c/5d/5c5dff66966523e272c49a79506d3217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/373154</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373154</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:13 GMT</pubDate>
+            <description><![CDATA[Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/02/64/02644a2f89f2e3c078fd52a66ef1e4fe.png"></p>
+<h1>谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收</h1>
+<p>Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/fa/f7/faf775e9f314b741c0cd9e4603e99f2e.png"></p>
+<p>这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预期，增速为五个季度来最慢。这项业务约占公司总营收的一半，也是为巨额 AI 投资提供资金的关键来源。</p>
+<p>摩根大通分析师 Doug Anmuth 等人在研报中表示，业绩和股价反应显示，对于投入数千亿美元建设 AI 基础设施的超大规模云服务商而言，一旦核心业务业绩令人失望，容错空间有多小。</p>
+<p>截至纽约时间上午 9：35，Alphabet 股价下跌 13%，至 281.37 美元，市值蒸发 5110 亿美元。这跟竞争对手微软的表现形成鲜明反差。微软云业务增速超出华尔街预期，同时控制支出，推动股价上涨。</p>
+<p>谷歌首席商务官 Philipp Schindler 周三晚间在财报电话会议上表示，谷歌搜索中新推出的 AI Mode 标签页日益普及，对公司业绩造成了拖累。他表示，AI 查询的「变现能力较低」，不过公司对此仍持乐观态度，并计划在搜索引擎的这一板块投放更多广告。</p>
+<p>多年来，谷歌高管一直认为，AI 聊天机器人和相关功能不会大幅侵蚀其搜索业务。但随着消费者转向 ChatGPT、Claude 以及谷歌自身的 AI 功能，投资者担心这会冲击公司的核心盈利来源。</p>
+<p>第三季度谷歌服务业务总营收 963 亿美元，低于预期的 984 亿美元。YouTube 广告营收 112 亿美元，也低于预期。</p>
+<p>公司自由现金流连续第二个季度为负，为上市以来首次连续两季出现负值。</p>
+<p>Alphabet 的股权投资也拖累了公司利润。这些投资录得 87 亿美元亏损，很大程度上源于 Alphabet 所持 SpaceX 股份。这与一年前的投资收益以及第二季度的巨额收益形成鲜明反差；第二季度的收益主要来自 SpaceX 和一家非上市公司的投资，后来确认这家公司是 Anthropic PBC。</p>
+<p>Alphabet 第三季度每股净利润为 2.12 美元，远低于华尔街预期的 2.99 美元。</p>
+<p>财报中的一个亮点是谷歌云，该业务被视为衡量公司 AI 产品和托管服务需求的重要指标。谷歌云营收 307 亿美元、利润 111 亿美元，均高于分析师预期的 291 亿美元和 98 亿美元。该业务的大客户包括 Anthropic 等在 AI 竞赛中与谷歌竞争的初创公司。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/64/93/6493ace7c0ce32e295513609584b12cd.png"></p>
+<h1>腾讯汤道生：WorkBuddy 已覆盖中国企业 500 强中的 50%</h1>
+<p>10 月 29 日消息，在今日举行的腾讯全球数字生态大会上，腾讯表示，今年 3 月，WorkBuddy 正式上线。7 个月的时间里，WorkBuddy 累计迭代 100 个大版本，<strong>完成 90 亿次用户任务请求</strong>，成为中国用户规模最大的 AI 办公效率智能体。</p>
+<p>腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生透露，自今年 3 月上线以来，<strong>WorkBuddy 企业版已落地 50 多个行业，覆盖中国企业 500 强中的 50%、企业 100 强中的 60%</strong>，开放平台伙伴和开发者超过 5 万家，上架 Skills 超 20 万。</p>
+<p>据悉，<strong>WorkBuddy 将全面开放产品架构</strong>，同时支持企业自研 Agent 与生态中第三方 Agent，包括第三方 IM 系统的接入。</p>
+<p>「选什么模型、接什么 Agent、用什么 IM，<strong>选择权都在企业手里</strong>。」汤道生表示，已经有越来越多企业基于 WorkBuddy 组成自己的企业 Agent 网络，搭建新一代的企业智能中枢。（来源：IT 之家）</p>
+<h1>微软 AI 高管拉曼纳推动 Office 与 Copilot 组织扁平化，核心员工每周需到办公室四天</h1>
+<p>10 月 29 日消息，微软负责 Copilot 平台、智能体以及如今 Office 业务的高管正在兑现他重塑团队工作方式的承诺。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/2c/59/2c599709b52b8b67a01bc621c5b7f314.jpg"></p>
+<p>「我的团队今年最重要的工作，不是推出某一款产品或者某项功能，而是改变我们的工作方式。」查尔斯 · 拉曼纳（Charles Lamanna）这位微软核心业务部门的新任负责人在 8 月写道。</p>
+<p>据 Businessinsider 报道，了解相关调整的人士透露，拉曼纳已经要求高级员工每周四天到办公室办公，同时为员工提供搬迁至主要办公中心的机会。他管辖下的多个团队也已完成组织架构调整，走向扁平化，裁撤中层管理者，这契合拉曼纳的观点—— 智能体 AI 正在改变软件工程的工作模式。</p>
+<p>微软一名发言人表示：「我们正在重新思考，哪些管理层级是必不可少的，哪些场景下扁平化架构可以加快决策速度、明确权责归属、赋予员工更高自主权。」</p>
+<p>这些举措，让外界得以窥见微软为适配 AI 时代改造软件业务版图的早期思路。拉曼纳原本就掌管微软 Copilot 与 AI 智能体平台，现在又接手了数百万职场人使用的 Office 办公软件以及 Teams 办公通讯服务。</p>
+<p>10 月早些时候，原负责人瑞安 · 罗斯兰斯基（Ryan Roslansky）宣布将于年底离职，拉曼纳正式接管这两块业务。罗斯兰斯基曾被视作微软资深高管拉杰什 · 贾（Rajesh Jha）的接班人，后者已于 7 月退休。罗斯兰斯基与拉曼纳，都是新成立的 Copilot 领导团队里三名核心高管中的两位。</p>
+<p>此番调整的背景，是微软首席执行官萨提亚 · 纳德拉（Satya Nadella）围绕 AI 对整个公司进行重构。微软一直在整合 AI 产品的权责，一批资深高管离职，为新一代管理者腾出位置。（来源： 腾讯数码）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/bb/57/bb579cbb5e155570249db374c838e715.png"></p>
+<h1>外媒曝光苹果强势压价闪存手段：前采购负责人曾威胁闪迪 CEO「跪着爬回来」</h1>
+<p>10 月 29 日消息，《华尔街日报》昨日发文，曝光苹果此前通过「黑帮一样的」强势手段谈判，意图压低内存采购价格。其中包括要求供应商接受大范围财务审计、故意对采购量承诺表现得漫不经心，还有谈判中的各种心理压力。</p>
+<p>然而从这两年的 DRAM / NAND 涨价潮开始风水轮流转。<strong>苹果以前相当可观的议价能力似乎在顷刻间消失</strong>，以前被压得喘不过气的内存供应商，现在终于硬气起来，甚至想让苹果尝尝被压制的滋味。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/48/2c/482cb615bf330f7b17c6a68ef86913f6.png"></p>
+<p>《华尔街日报》透露，苹果会要求闪存供应商为其提供「最高优惠客户」地位，让公司能够始终拿到最低价的产品。为了确保供应商履约，苹果会持续审计供应商账目，<strong>甚至因为审计次数实在太多</strong>，<strong>成功让德勤（Deloitte）谈下批量审计折扣</strong>。</p>
+<p>这种频繁审计的手段，让苹果直接了解供应商业务运作和工厂产出情况，从而使苹果谈判人员准确判断厂商需要多大订单。苹果还成功利用这一条款，就美光以更低价格向其他客户出售 NAND 一事提起仲裁，然后成功获得巨额赔偿。</p>
+<p>苹果高管还会将高强度谈判持续至午夜，<strong>期间不提供晚餐和休息时间</strong>，<strong>迫使供应商代表只能啃营养棒支撑下去</strong>。如果苹果发现某家厂商表现出不配合态度，就会威胁要叫布莱文斯过来，利用他近乎黑帮人物的强硬名声，迫使厂商人员屈服。</p>
+<p>例如闪迪曾在 2015 年发现其他客户愿意出更高价格，因此拒绝向苹果额外供货。布莱文斯随后威胁闪迪销售代表，<strong>说要让时任闪迪 CEO 桑杰 · 梅赫罗特拉（Sanjay Mehrotra）「跪着爬回来」求苹果采购</strong>。（IT 之家注：此处原文为 Crawl On His Knees）</p>
+<p>需要注意的是，桑杰 · 梅赫罗特拉目前担任美光 CEO，<strong>因此如今两家公司针锋相对</strong>，<strong>实在是不足为奇</strong>。（来源：CnBeta）</p>
+<h1>马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X</h1>
+<p>10 月 29 日消息，据彭博社报道，埃隆 · 马斯克对字母 X 情有独钟。特斯拉最早的车型之一就是 Model X；太空探索技术公司（Space Exploration Technologies Corp.）简称 SpaceX；2022 年收购推特之后，他直接把这个社交平台更名为了 X。他甚至给自己的儿子取名 X Æ A-Xii，还常在网上叫他「小 X」。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/07/f8/07f817ad207a30a939a14befaa57e676.jpg"></p>
+<p>如今，这位全球首富正在探索将旗下两家上市公司合并，而市场恰好出现了一个机会：美股代码 X 目前处于闲置状态，这个代码去年随着美国钢铁公司被收购而空了出来。马斯克会不会申请拿下这个代码、特斯拉与 SpaceX 的合并能否落地都还是未知数，但投资者和分析师都注意到了这个时机，觉得恰逢其时。</p>
+<p>Roundhill 投资公司首席执行官戴夫 · 马扎表示：「这笔合并还有很长的路要走，但如果最终完成，X 代码重新出现在盘面上，大家不必意外。这完全符合品牌定位。」</p>
+<p>马斯克同时担任特斯拉和 SpaceX 的首席执行官。上周他宣布，两家公司的特别委员会正在讨论合并事宜，而此前数月投资者和分析师一直在猜测这件事。现阶段，交易的潜在条款、架构和时间都只是华尔街的猜想。</p>
+<p>马斯克还没有公开表示想要这个股票代码，但众所周知，他格外看重特定数字与符号。他的网络痕迹里随处可见 420、69、便便表情，当然，还有字母 X。他和 X 的渊源可以追溯到互联网泡沫时期：马斯克当年创办过一家数字金融公司 X.com，这家公司后来成为了 PayPal 的一部分。</p>
+<p>（来源：CnBeta）</p>
+<h1>IDC：存储涨价抑制需求，今年 Q3 中国智能手机出货约 5806 万台同比下滑 15.2%</h1>
+<p>10 月 29 日消息，国际数据公司（IDC）最新手机季度跟踪报告数据显示，2026 年第三季度中国智能手机市场出货量约为 5806 万台，同比下降 15.2%。相较上半年约 4% 的同比降幅，下半年整体市场规模下滑速度进一步加快。</p>
+<p><strong>存储及其他元器件成本大幅上升所引发的终端价格上涨与产品配置方案调整，已开始明显抑制消费需求</strong>，其中安卓厂商与长尾品牌承受的压力尤为突出。</p>
+<p>本季度市场呈现「量跌价升」的典型特征。上游成本压力持续向终端传导，导致新品定价普遍上浮，同时厂商不得不调整产品配置组合以平衡成本。消费者面对价格上涨仍需时间适应，换机周期进一步拉长，直接拖累整体出货表现。这一趋势表明，成本压力已成为当前影响中国智能手机市场走势的关键变量。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8b/f1/8bf128431eead0efc7fc18fb1f812032.jpg"></p>
+<h1>「宁德时代电池没了」：曝理想 MEGA 部分订单无法按约交付，定金退一赔一或换自研电池</h1>
+<p>10 月 29 日消息，据红星资本局报道，近日，多名新一代理想 MEGA 准车主发帖称，收到理想汽车通知，9 月 7 日 15 时前下定锁单、<strong>原定搭载宁德时代 5C 三元锂电池的订单无法按约交付，将改用理想自研的「连山」电池，原因是「宁德时代电池没了」</strong>。</p>
+<p>据悉，理想提出两种解决方案：继续提车可更换自研电池，并获赠价值 3500 元权益；退车则按合同违约处理，退还 5000 元定金并赔偿 5000 元。</p>
+<p>有准车主怀疑，理想是否与宁德时代关系破裂。10 月 28 日，该媒体记者向宁德时代询问断供原因及双方关系变化，截至发稿未获回复。<strong>理想汽车方面没有正面回应，而是援引了理想汽车总裁马东辉在 PowerDay 上关于「为什么要自研」的发言</strong>，「我们的研发策略一直是既坚持顶层的设计，核心技术深度自研，又保持与优秀合作伙伴的深度合作」。</p>
+<p>据 IT 之家此前报道，9 月 7 日，理想曾宣布，新一代理想 MEGA 的首批交付采用的是宁德时代的 5C 三元锂电池。随着理想自研电池的生产准备完成，将全量切换为理想自研 5C 三元锂电池。</p>
+<p>理想汽车当时表示，<strong>从 9 月 7 日 15:00 及之后锁单的用户，将切换为理想自研 5C 三元锂电池</strong>，预计 11 月起开始交付。</p>
+<p>10 月 20 日，理想发布了自研连山电池保障计划，包含<strong>电池不自燃终身保障、碰撞不起火终身保障</strong>两项终身保障（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e3/bb/e3bbe943f9aba4963fbd684e31beb161.png"></p>
+<h1>消息称某厂子品牌首款新机疑似阔直板手机：6.39 英寸、9 系芯片，预计为华为星芒</h1>
+<p>10 月 29 日消息，博主 @数码闲聊站 今日爆料，<strong>某厂子品牌首款新机疑似「阔直板手机」</strong>，屏幕为 6.39 英寸，搭载 9 系芯片，工程机顶配有 16GB+1TB。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b9/4d/b94d2cca2e3a83688a6b655c3386147d.png"></p>
+<p>博主 @RD 观测 今日爆料，华为全新阔直板 Pura X View 销量表现惊艳，截至目前，<strong>华为 Pura X View 上市 50 天 Sell in</strong>（出货量）<strong>已破 100 万台</strong>。（来源：IT 之家）</p>
+<h1>智元发布具身模型 GO-3 Preview：能做煎饼果子、在便利店上岗，登顶三大榜单</h1>
+<p>10 月 30 日消息，10 月 29 日，智元正式推出预训练 / 后训练 / 部署后<strong>实现全链路规模化学习的具身模型</strong>—— GO-3 Preview。</p>
+<p>该模型采用具身原生的 WRAM（World Reasoning Action Model）架构，将任务推理、未来预测与动作生成连接起来，让机器人理解指令、预测未来，并生成可执行的动作。</p>
+<p>该模型已于近日登顶 RoboDojo、RoboTwin、RoboColiseum 三大行业权威评测榜单，<strong>将于 2026 年底全面开源</strong>。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ea/9f/ea9f220d915a2334149462a4cd5d0c77.jpg"></p>
+<p>附官方介绍如下：</p>
+<p>基于 WRAM 架构，GO-3 Preview 从数据与模型两个维度共同推进 Scaling，让异构经验参与共同学习。数据维度解决「学什么、学得够不够广」：人类第一视角视频提供丰富的物体交互和任务过程，机器人轨迹则建立观测、动作与物理结果之间的联系。模型维度解决「如何承接和运用这些经验」：通过增强学习能力，把分散的经验组织起来，转化为可迁移的通用能力。</p>
+<p>经过预训练，模型任务迁移与复杂技能适应能力更强，并在 Zero-Shot（零样本）与 Few-Shot（少样本）任务中得到检验。在家居、厨房、多机协作、灵巧操作场景里，不用额外微调，机器人就能直接完成陌生任务。</p>
+<h1>苹果高管回应「iPad mini 8 屏幕刷新率为何依然为 60Hz」</h1>
+<p>10 月 30 日消息，科技媒体 9to5Mac 昨日（10 月 29 日）发布博文，报道称在接受 YouTube 频道 Christopher Lawley 采访时，苹果硬件工程副总裁戴夫 · 帕库拉（Dave Pakula）讨论了苹果 iPad mini 8 的设计、屏幕等内容。</p>
+<p>新款 iPad mini 虽然配备了 OLED 显示屏，但并不支持 ProMotion 技术，刷新率仅为 60Hz。ProMotion 支持可以让 iPad mini 的刷新率根据显示的内容自动从 10Hz 调整到 120Hz，但显然苹果目前仍将该功能保留在 iPad Pro 机型中。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8d/29/8d294fc3f45ed3dd8d1c6f85a15f0c8d.png"></p>
+<p>围绕着用户最关心的「iPad mini 8 的屏幕刷新率为何依然为 60Hz」话题，IT 之家翻译帕库拉回应如下：</p>
+<blockquote>显示体验不仅仅取决于单一的参数。OLED 的一大优势在于其极快的像素响应时间，<strong>比 LCD 显示屏的像素响应时间快一个数量级以上。</strong></blockquote>
+<blockquote>这样做的好处是画面非常流畅。与 LCD 相比，显著减少动态模糊现象。再加上对比度、亮度、色彩等其他方面，这绝对是一款出色的显示屏。</blockquote>
+<p>苹果公司表示，新款 iPad mini 在显示标准内容时最高亮度可达 600 尼特，比上一代机型的 500 尼特有所提升；在显示 HDR 内容时，最高亮度可达 1,200 尼特。OLED 技术能够呈现更高的对比度和更鲜艳的色彩，因为它没有背光，并且每个像素都会完全关闭以显示纯黑色。</p>
+<h1>今日宜休首款睡眠干预产品 iFlow 智能温控系统发布：BCG 无感监测、动态温控，9999 元起</h1>
+<p>10 月 29 日现场消息，在今晚的 ISHO 今日宜休 AI 睡眠科技生态产品发布会上，公司创始人王腾发布了品牌首款睡眠干预产品 ISHO iFlow 智能温控系统，<strong>定价 9999 元起</strong>。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f9/af/f9afc4ee2834bca46cfbbfbcf059c437.png"></p>
+<ul>
+<li>标准版：9999 元；</li>
+<li>Pro 版：12999 元起；</li>
+<li>SHANGXIA 联名款：15999 元起。</li>
+</ul>
+<p>据介绍，今日宜休 ISHO iFlow 智能温控系统可自适应身体与床面的变化；<strong>支持 BCG 无感监测</strong>，整晚连续捕捉心率、呼吸，心脉同源采集，可双人独立监测，多点感知覆盖整个床面。</p>
+<p>该系统号称拥有行业最强端侧算力，支持实时主动调温，<strong>搭载 MTK Genio 420 端侧 AI 计算平台</strong>，可本地运行 ISHO 生理信号大模型，支持连续监测，拥有最强睡眠精准度。</p>
+<p>（来源： IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/92/81/9281b74c0d40d3f63f12fada71780ae9.png"></p>
+<h1>《GTA6》游戏公共交通系统详解：火车、巴士有固定路线和时刻表</h1>
+<p>10 月 29 日消息，据游戏媒体 GamesRadar 今天报道，在《GTA6》的雷奥奈达州，玩家即使不开车也能相当方便地出行。游戏中拥有一套完整的公共交通系统，<strong>巴士</strong>、<strong>火车将按照固定路线和时刻表运行</strong>。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/4d/e1/4de1a9da9f71d1b0a5d0458337fd41c5.jpg"></p>
+<p>据报道，玩家在雷奥奈达州探索时不只可以选择汽车、电动滑板车或船只。Rockstar 为游戏打造了一整套公共交通网络，覆盖整个雷奥奈达州。</p>
+<p>例如，游戏中的公交车将按照固定路线图行驶，运行时刻表也是有的。据 Rockstar 开发人员 Phil Hooker 透露，他测试游戏时经常会在车站等车，检查巴士是否准时到站，然后乘车游览城市。</p>
+<p>总的来说，公交和铁路网络可能会让雷奥奈达州更像是真实城市，玩家可以坐在车上，以不同的方式消磨时间。</p>
+<p>公共交通在《GTA》系列游戏中并不是新鲜事物。例如《GTA 4》曾引入地铁网络，共设有 26 个车站和 8 条线路（上行 / 下行独立编号，且部分线路贯通运行）。而在《GTA5》中，R 星似乎大规模缩减了公交规模，游戏仅提供 11 个站点的轻轨系统。（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/88/28/88280d087d1d1daa090e1d375ec66d33.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%]]></title>
+            <link>https://www.geekpark.net/news/373085</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373085</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:13 GMT</pubDate>
+            <description><![CDATA[腾讯视频 2027 大剧片单公布：《三体：黑暗森林》、《流浪地球短篇集》在列；Anthropic 宣布取消编程面试；美国一公司时薪 20 美元招人遛机器狗。]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8e/b7/8eb77bdc8a53d7484dd5362b1cc86f84.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">苹果发布首款触屏 MacBook Pro，顶配超 11 万</span><span style="font-weight: bold;">元</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/73/1a/731a1a9028b3aa673cbc8829eae9c994.png" height="1307"></p>
+<p style="text-align: left;">北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。</p>
+<p style="text-align: left;">新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启预购，11 月 6 日正式发售，起售价 22999 元。</p>
+<p style="text-align: left;">在交互方面，用户可直接触摸屏幕滚动网页、缩放照片、拖放幻灯片，以及操作 3D 模型或演奏虚拟乐器。苹果表示，触控传感器直接内嵌于显示面板，macOS 可将触控输入转换为点按，让许多现有应用直接支持触控。新机还调整了铰链设计，以提升触屏操作时的稳定性。</p>
+<p style="text-align: left;">新机最高可选 128GB 统一内存和 16TB 存储，苹果标称电池续航最长可达 24 小时，支持约 30 分钟充至最高 50%电量。搭载 M5 Max 处理器、128G 统一内存和 16TB 硬盘的 16.3 寸触屏 MacBook Pro，官网标价来到 11.26 万元。（来源：凤凰网科技）</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/9d/46/9d46c9fee1d10f480e005ac67433fb12.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">宇树科技公布首份财报，前三季净利 3.87 亿元</span></h2>
+<p style="text-align: left;">10 月 28 日晚间，宇树科技发布了 2026 年第三季度报告，也是其上市后的首份财报。财报显示：报告期内公司单季度实现营业收入 6.65 亿元，同比增长 69.93%；归母净利润 1.13 亿元，同比下降 17.37%。</p>
+<p style="text-align: left;">报告显示，年初至报告期末，公司累计实现营业收入 18.17 亿元，同比增长 55.71%；利润总额 4.13 亿元，同比增长 143.05%；归母净利润 3.87 亿元，同比增长 270.54%。</p>
+<p style="text-align: left;">此外，宇树科技的研发投入有所提升，其第三季度单季研发投入 1.27 亿元，同比增长 249.58%，占当期营业收入比例 19.1%；前三季度累计研发投入 2.63 亿元，同比增长 191.48%，占营业收入比例 14.47%。</p>
+<p style="text-align: left;">公司称，研发投入增长主要系持续加大具身智能领域研发投入，尤其是具身大模型相关模型研发与算力投入大幅增长，以及扩充研发团队、持续开展新产品研发所致。（来源：新浪科技）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">DeepSeek V5 大模型已现身官方代码库</span></h2>
+<p style="text-align: left;">近日，有网友发现 DeepSeek 又开始换新的大模型指纹了，官方库中直接出现了 DeepSeek V5 的代码，纷纷猜测可能有新模型要发布。</p>
+<p style="text-align: left;">目前，在 DeepSeek Harness 的官方代码库中，已经出现了一些新的代码，包括 DeepSeek-V5、V5-open、V5-next 等等。</p>
+<p style="text-align: left;">这套设计的意义就是：DeepSeek 可以在服务端改 /models 就把 v5 开出去，客户端不用发版。也可以视作 DeepSeek 官方已经为 DeepSeek V5 系列大模型的发布做了一些提前的准备，现在就用占位符占了位置了，未来发布之后服务端只要改/models 就能发布，而客户端之后都不用发新版就能支持。（来源：快科技）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">脑虎科技完成 7 亿元 B 轮融资</span></h2>
+<p style="text-align: left;">10 月 28 日，脑虎科技宣布完成 7 亿人民币 B 轮融资。从机构属性来看，本轮融资整体以国资为主导，产业资本方面则「跨界」集结了来自半导体、医疗器械、材料等赛道的头部机构。</p>
+<p style="text-align: left;">官方表示，本轮募集资金将用于「全植入、全无线、全功能」（「三全」）脑机接口系统的多中心临床试验及注册审批、超级工厂量产建设，以及下一代产品研发与 BCI+AI 融合探索。</p>
+<p style="text-align: left;">全植入，就是将包括电池在内的所有核心器件都植入体内，体表没有外露部件；全无线，是指供电和数据传输都通过无线完成，哪怕是患者洗澡、睡觉、社交也不受影响；全功能，则是让同一套系统既能做运动解码，也能做语言解码和环境控制。</p>
+<p style="text-align: left;">据脑虎科技提供数据，截止目前，该方案已完成 65 例临床试验。（来源：36 氪）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/6a/30/6a3063930bb308033f39a758d4d66c41.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">特斯拉拟用人形机器人给 Robotaxi 插拔充电枪</span></h2>
+<p style="text-align: left;">在近期接受采访时，特斯拉车辆工程副总裁拉尔斯·莫拉维和 Cybercab 项目负责人埃里克·厄利表示，特斯拉计划利用 Optimus 人形机器人为 Robotaxi 插拔充电枪，同时继续研发自动化程度更高的无线充电系统。两人表示：「希望 Optimus 很快就能帮我们完成这项工作。」</p>
+<p style="text-align: left;">目前，特斯拉仍在依靠工作人员为无人驾驶 Robotaxi 手动充电。而且，现阶段超级充电站是 Cybercab 唯一可用的充电选择，因为这款车型不支持交流充电。</p>
+<p style="text-align: left;">但 Optimus 在计划中扮演的角色更像是一种过渡方案。特斯拉表示，随着新基础设施逐步建设，公司正在研发自动化程度更高的充电方式。不过，从目前的进度来看，Cybercab 无线充电技术也很可能无法在明年落地。特斯拉甚至可能还需要更长时间，才能让这套系统达到实际运营所需的成熟度和可靠性。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">Anthropic 宣布取消编程面试：已失去意义</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ea/5f/ea5fb25a3558ae93d8f16e73115adb46.png" height="608"></p>
+<p style="text-align: left;">10 月 28 日，Anthropic 招聘经理、Claude 相关产品工程负责人 Felix Rieseberg 在社交平台发文宣布，其团队已正式将传统的编程面试从招聘流程中移除。</p>
+<p style="text-align: left;">他表示：传统的编程面试考核已经过时且失去意义，本月起不再作为考察候选人的环节。</p>
+<p style="text-align: left;">Rieseberg 指出，自己见证过太多传统的代码考核，这种测试方式已无法真实反映现代开发者的能力。他同时认为，对初级工程师而言，取消此类面试反而是一个机会，新人无需再因机械的算法背诵或白板编程被拒之门外。（来源：凤凰网科技）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">腾讯视频 2027 大剧片单公布：《三体：黑暗森林》、《流浪地球短篇集》在列</span></h2>
+<p style="text-align: left;">10 月 28 日，腾讯视频发布了 2027 大剧片单，刘慈欣科幻小说改编的《三体：黑暗森林》《超新星纪元》出现在片单中，还有《流浪地球短篇集》《三体：大史》。</p>
+<p style="text-align: left;">根据介绍，《超新星纪元》由沈严导演（代表作《我的前半生》《手机》《天盛长歌》）、聂成帅编剧（代表作《天才基本法》）。当末世考验悄然降临，人类将面对严峻挑战，「成长」便有了新的命题…… 少年集结，奔赴未知，全新故事即将启程。</p>
+<p style="text-align: left;">另外，在 2026 年三体日活动现场，导演杨磊确认《三体 · 大史》已定档 2026 年第四季度开机，目前处于开机前的最后冲刺阶段，演员已全部「众神归位」。</p>
+<p style="text-align: left;">《三体 · 黑暗森林》电视剧的首轮阵容已在今年 6 月官宣，该剧由于和伟饰演史强，段龙（段奕宏）饰演章北海，林永健作为特别出演将饰演常伟思。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c0/de/c0de014eb944f886d6e3dd45f2b458ce.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">豆包工作功能上新：支持将「录制电脑操作」保存为技能</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/fa/4f/fa4f8a3f048986cd131a8603aa78e6ad.png" height="1834"></p>
+<p style="text-align: left;">10 月 28 日上午，豆包通过公众号宣布，豆包工作操作电脑能力整体升级，继此前支持跨应用操作、将浏览器操作录成技能后，此次更新则支持将录制电脑操作保存为技能。</p>
+<p style="text-align: left;">根据介绍，用户演示一遍还能边操作边讲，把做法教给豆包工作。豆包学会后存为技能，下次就能照着做；Mac 电脑锁屏后，任务也能继续。</p>
+<p style="text-align: left;">结束录制后，豆包工作会把操作流程和讲解整理成个人技能。下次做同类任务时，选用这个技能，再告诉它这次要处理什么，就能够省去重复解释操作步骤。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">WorkBuddy 手机远程控制电脑功能上线，实时显示屏幕内容</span></h2>
+<p style="text-align: left;">腾讯 WorkBuddy 10 月 28 日宣布，由腾讯 Edge One 团队提供技术支持，WorkBuddy 正式上线「远程控制」。</p>
+<p style="text-align: left;">在手机上打开 App，一键连上电脑，就能看到电脑桌面的实时画面，并直接动手接管。而且两端设备连接之后，电脑画面会以小窗形式悬浮在手机 App 首页或会话页顶部，下面的输入框照常使用，发现任务跑偏时依然可以及时纠正。</p>
+<p style="text-align: left;">除了在手机上实时看到电脑屏幕画面，连接成功之后还可以更进一步，直接用小屏控制大屏，远程操作电脑。点「全屏」切换到横屏模式，手指点哪里，就等于点击电脑的同一位置。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">2026 款理想 i6 上市，首销限时 23.98 万元起</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/10/be/10be7ae953fc4eede1baa52bd038fcbd.png" height="717"></p>
+<p style="text-align: left;">10 月 28 日，2026 款理想 i6 正式上市，新车只推出一款车型，全国统一零售价 24.98 万元，首销限时权益价 23.98 万元，新车将会在 11 月初开启交付。</p>
+<p style="text-align: left;">该车是理想面向全球市场推出的纯电 SUV，新车此前已经在巴黎车展完成欧洲首秀。本次改款围绕灯组、屏幕、座椅、储物、芯片、续航六个方向进行升级，并首次搭载理想连山电动技术体系。</p>
+<p style="text-align: left;">动力和电池是本次改款重点。全系换装 96kWh 5C 磷酸铁锂连山电池。后驱版 CLTC 续航 780km，四驱版 710km，相比老款分别增加 60km、50km。该车支持 5C 快充，充电 10 分钟可补充 500km 续航。（来源：搜狐汽车）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/6d/b1/6db1125644924b02aaf7a56d2470301f.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">美国一公司时薪 20 美元招人遛机器狗</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e8/4c/e84c284c9aac632641a1bc02d8bec7d5.png" height="1185"></p>
+<p style="text-align: left;">据《纽约时报》报道，本月早些时候，旧金山一家名为 Dimensional 的初创公司发布了一则奇特的招聘启事：招募人员遛机器狗，无需相关经验。</p>
+<p style="text-align: left;">报道表示，遛机器狗的时薪和遛真狗大致相当，但机器狗需要在城市人行道上转悠更久来完成采集任务。招聘广告写明，每次要连续步行四到六个小时。</p>
+<p style="text-align: left;">有意思的是，该广告特意提醒应聘者，机器狗可能因为设备过热而中途罢工，所以遛狗员必须必须能够稳妥搬动大约 33 磅（约 15 公斤）重的设备。</p>
+<p style="text-align: left;">Dimensional 表示，招募遛机器狗员的原因是生成「真实基准数据」，从而把公司正在开发的一套面向机器人的开源操作系统嵌入机器人，让用户可以指挥它们在现实世界干活。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e2/99/e29919cebe4e44c4be184004783345b1.png" height="392"></p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/65/30/653051a357d4d0f26f241329a3774359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/372952</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/372952</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:14 GMT</pubDate>
+            <description><![CDATA[即梦正式上线「短剧工作室」；HTC 发口袋 AI 互动伴侣 VIVEE；OpenAI 低成本新模型 GPT-6.1 Terra 发布。]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c2/08/c2087329df3a1c67cd16aa10adb49f65.png"></p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f9/08/f908a7b4fdc4d47ce2f71f379d1d02ac.png"></p>
+<h1>Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市</h1>
+<p>Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次 IPO 有望创下历史纪录。</p>
+<p>Anthropic 在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为「ANT」，目标在 11 月 16 日当周进行 IPO。该公司将设立 T 类特殊股票，供 T 类董事持有。</p>
+<p>在招股书中，该公司披露，上半年营收 162.9 亿美元，上年同期为 11.6 亿美元；净亏损 807.5 亿美元，上年同期为 129.7 亿美元；营业亏损 6.93 亿美元，上年同期为 21.4 亿美元。</p>
+<p>截至 9 月 30 日的九个月内，该公司没有任何单一客户占公司营收的 10%以上。79%的收入来自前五大客户以外的客户。合作方面，根据与 SpaceX AI 的协议，该公司同意在截至 2029 年的期限内累计支出高达 1205 亿美元。</p>
+<p>该公司透露，资本支出将大幅增加，可能需要比目前预期更早地寻求额外融资；在可预见的未来不会支付任何股息，且目前未就重大收购达成任何协议；可能发行总额最高达 420 亿美元的可转换本票。（来源：新浪科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b0/bf/b0bfab3717fdf6aad01e39c369afd5fb.png"></p>
+<h1>苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机</h1>
+<p>iPhone Duo 上市不久，就有部分用户反馈铰链故障，导致内屏出现裂纹。苹果现已在给 MacRumors 的一份声明中回应了相关消息，称受影响的设备数量很少。</p>
+<p>苹果没有说明裂痕产生的原因，也没有透露是否会推出修复方案。受影响的用户可以到线下门店更换新机，但由于备货有限，部分用户需要等待。</p>
+<p>苹果表示，该问题波及范围很小。绝大多数用户不会遇到 iPhone Duo 屏幕故障，也不用担忧这个问题会随着使用慢慢出现。<strong>出现故障的设备，裂痕大多在购机后不久就会显现</strong>。</p>
+<p>据了解，一部分网传的裂痕图片是 AI 生成的，这也加大了判断问题真实影响范围的难度。</p>
+<p>不少出问题的 iPhone Duo，裂痕位置都集中在内屏下半区，沿着铰链分布。用户称，屏幕损坏前会有卡顿卡滞的手感，有时还会听到咔哒声响。维修拆解网站 iFixit 拆解了 iPhone Duo，找到了几种可能造成铰链故障的原因。该网站表示，铰链这个位置汇集了多个零件，铰链内部一根本该收回的中部支撑杆可能无法正常回缩，进而造成屏幕损伤。（来源：IT 之家）</p>
+<h1>OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确</h1>
+<p>OpenAI 今天凌晨宣布推出新模型 GPT-6.1 Terra，主打以更低成本完成复杂的电脑操作任务，尤其擅长需要视觉推理和操作桌面软件的工作。与 GPT-5.6 Terra 相比，新模型在事实准确性和编程能力方面也有大幅提升。</p>
+<p>Terra 主要面向希望降低自动化成本的企业，可用于处理发票、解读技术图纸等工作。OpenAI 称，面对难度较高的专业任务，Terra 也能以远低于高价模型的成本完成。在考察复杂专业工作的 Agents』Last Exam 基准测试中，Terra 的成绩明显提高。测试项目包括根据建筑图纸建立三维模型，以及逐一记录电影镜头，供影片修复团队使用。</p>
+<p>采用中等推理强度时，Terra 的得分比 GPT-5.6 Terra 高 15 个百分点，完成任务的成本却只有后者的约三分之一。与 GPT-6 Astra 相比，Terra 的测试成绩不相上下，每个 Token 的价格却仅为后者的约十分之一。</p>
+<p>Terra 在速度上同样具有优势。OpenAI 称，<strong>其任务执行速度是 GPT-6 Astra 和 GPT-6.1 Sol 的 3 倍以上</strong>。在最高推理强度下，<strong>每项任务的成本也仅为 Claude Opus 5.5 的约九分之一</strong>。</p>
+<p>GPT-6.1 Terra 于 10 月 27 日向<strong>Plus、Pro、Enterprise 和 Edu 用户</strong>开放，可在 ChatGPT Work 和 Codex 中使用。开发者也能通过 OpenAI API 调用。</p>
+<p>API 标准定价方面，每 100 万个输入 Token 收费 1 美元（现汇率约合 6.7 元人民币），每 100 万个缓存输入 Token 收费 0.05 美元（现汇率约合 0.33 元人民币），每 100 万个输出 Token 收费 5 美元（现汇率约合 33.4 元人民币）。OpenAI 称，新模型的价格比 GPT-5.6 Terra 和 GPT-6.1 Sol 低 50%。按照 OpenAI 的准备框架评估，Terra 的网络安全能力<strong>已达到「关键级」门槛</strong>。（来源：IT 之家）</p>
+<h1>Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金</h1>
+<p>10 月 26 日消息，Meta 宣布了<strong>总额至多 950 亿美元</strong>（注：现汇率约合 6,343.57 亿元人民币）的重大融资计划，为企业核心业务和新兴人工智能领域的持续发展提供资金支持。</p>
+<p>这 950 亿美元分为多个部分，包括 225 亿美元的 A 类普通股远期出售、125 亿美元的强制可转换优先股、后续至多 600 亿美元的潜在 C 类普通股按市价发行。NVIDIA（英伟达）、AMD（超威）、Broadcom（博通）均有意购买至多 50 亿美元的 Meta 的 A 类普通股。</p>
+<p>Meta 在新闻稿中表示，其在人工智能方面的投资已通过提升用户参与度、改善广告效果、提高盈利能力等方式产生了切实的回报。</p>
+<p><strong>该企业预计 2026 年资本支出达 1,350~1,450 亿美元</strong>，Meta 计划通过运营现金流、投资级债务、战略合作、股权资本的均衡组合来为人工智能投资提供资金。（来源：新浪科技）</p>
+<h1>消息称腾讯绿泡泡短剧小程序月活过亿，10 月首周周活环比增长 44.1%</h1>
+<p>QuestMobile 数据显示，截至今年 8 月，<strong>腾讯绿泡泡短剧小程序月活跃用户规模已过亿级</strong>，<strong>达 1.43 亿</strong>。10 月首周周活跃用户达 8968 万，较 9 月首周提升 44.1%。自 7 月正式更名以来，该产品周活跃用户规模约三个月内逼近 9000 万。</p>
+<p>DataEye 监测数据显示，10 月 1 日至 7 日绿泡泡短剧累计投放素材 4.3 万组，日均投放量较节前一周增长 57%，内容供给与投放投入同步加码。</p>
+<p>从增长驱动来看，原「短剧」小程序入口的全面接替，与微信生态流量支持为绿泡泡带来直接增量。依托微信生态的分发，拥有 6 亿日活用户的视频号是其中关键一环；另一方面，绿泡泡持续扩充内容供给，覆盖真人剧、AI 剧、动漫剧等品类。</p>
+<p>「绿泡泡短剧」是腾讯开发的微信小程序。该产品界面分为「免费剧场」「刷一刷」和「我的」三部分。「免费剧场」下设「AI 剧」「真人剧」「每日上新」「动漫剧」「本周必看」「百万播放」等栏目。点击「刷一刷」入口，上下滑动即进入沉浸式推荐流。剧集全部免费，但会在剧集之间插播广告。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ae/bf/aebfb1496e9865a7b3eec15b5b01955f.png"></p>
+<h1><strong>腾讯混元同声传译大模型 Hy-SimulMT 开源，响应时间仅 3 秒超人类译员</strong></h1>
+<p>10 月 26 日消息，腾讯混元同声传译大模型 Hy-SimulMT 今日发布并开源，具备低时延、高准确率的特点，支持中英语言之间语音到语音实时翻译， 说话人的音频可以实时输入到 Hy-SimulMT 模型中，模型会边听边译，实时给出译文和语音，并支持实时音色克隆，可以高度还原说话人声音和语气。该模型在腾讯 Hy 翻译 App 首发，<strong>免费提供服务体验</strong>。</p>
+<p>低时延是模型的一大亮点，混元同声传译大模型 Hy-SimulMT 的响应时间<strong>实测在 3 秒左右</strong>，人类专业译员平均水平在 4-5 秒。测评结果显示，该模型的翻译效果超过了市面上主流的开源同传模型，甚至超过大部分的商用同传 API。</p>
+<p>官方称，在业界常用的长音频开源评测集 RealSI 上，Hy-SimulMT 展示出了较好的同传翻译效果。为了更准确评估 Hy-SimulMT 的真实水平，该团队在合规允许范围内，广泛收集了互联网上新出现的中文和英文音频，包含软件 AI、医学、制造能源、自然科学、农业食品、商务管理、法律、教育、文化文旅、体育生活共十个领域，<strong>涉及演讲、访谈、会议等多个场景</strong>。在这份数据上，该团队不仅测试了 Hy-SimulMT 的效果，也请多位人类同传专家对这些音频进行同声传译。</p>
+<p>人类同传专家一共 6 位，其中 3 位拥有 CATTI 一级口译证书，3 位拥有 CATTI 二级口译证书，所有专家都有多年的同传实战经验。测评对 Hy-SimulMT 和人类同传专家的翻译内容在延迟和翻译质量上对比，其中人类同传专家选取的是 3 个人中的最高分，在这次能力定位测评中，<strong>Hy-SimulMT 在翻译的质量达到人类同传专家水平（得分更高），速度更快（时延更低）</strong>。（来源：IT 之家）</p>
+<h1>整合小云雀成熟能力 即梦正式上线「短剧工作室」</h1>
+<p>10 月 26 日消息，即梦 AI 上线全新功能「短剧工作室」。作为即梦面向短剧创作场景推出的一站式 AI 工具，「短剧工作室」将剧本整理、角色与场景管理、分镜生成、视频制作及后期调整等全流程整合到同一个平台中，让创作者不必在多个平台间来回切换。</p>
+<p>今年 3 月，与即梦同属剪映旗下的内容创作平台小云雀率先推出短剧 Agent。据悉，「短剧工作室」部分功能整合了小云雀短剧 Agent 的同款能力，并在此基础上进行了更新升级。</p>
+<p>即梦与小云雀此前在工具形式上各自有一些探索，都积累了不错的口碑，尤其是即梦对于 eedance 系列模型的能力适配，一直比较领先，此次能力整合能够让创作者在一个平台里找到更加丰富的工具形态，可以更好地发挥各自优势。</p>
+<p>即梦相关负责人表示，内容创作的形式在不断变化，但创作者对高效、统一的创作工具的需求是共通的。即梦希望持续把经过验证的 AI 创作能力整合到一个平台上，让不同类型的创作者都能在熟悉的工具里完成从灵感到成片的完整流程，把更多精力放在创意本身。（来源：新浪科技）</p>
+<h1>1 秒下载两万部 4K 电影：3.2Pb/s，我国团队创下单纤双向实时光传输容量的世界纪录</h1>
+<p>10 月 26 日消息，据科技日报从中国信科集团光通信技术和网络全国重点实验室获悉，该实验室日前联合鹏城实验室、烽火藤仓光纤科技有限公司，成功完成 3.2Pb/s（拍比特每秒）多芯光纤实时双向传输试验，<strong>创下单纤双向实时光传输容量的世界纪录</strong>。</p>
+<p>「3.2Pb/s 的传输速率，<strong>意味着可在一秒内下载两万余部 4K 电影</strong>。」中国信科集团光通信技术和网络全国重点实验室光系统高级工程师杨超表示，该方案验证了多芯光纤超宽带扩容路线产业化潜力，为大型算力枢纽互联、骨干传输及 6G 承载提供下一代高速光通信核心技术支撑。</p>
+<p>随着人工智能、大模型计算及数据中心规模化发展，网络流量呈爆发式增长，传统单模光纤传输系统逐步逼近容量极限。针对这一瓶颈，团队创新提出 24 芯多芯光纤双向传输架构，采用 10.3 公里 24 芯多芯光纤，融合 S+C+L 三波段复用与空分复用技术，<strong>构建数千路并行传输通道，使总带宽规模大幅突破传统单模光纤容量上限</strong>。系统搭载商用相干光模块，采用高阶概率整形调制，实现稳定实时双向信号传输；通过芯层排布优化有效抑制芯间串扰，简化信号均衡处理，兼顾传输性能与工程实用性。</p>
+<p>「相比传统 C+L 波段商用单芯 G.652 光纤约 100Tb/s 的容量上限，<strong>该系统将单纤总传输容量提升 32 倍</strong>；完成 S 波段单波 400G、C+L 波段单波 1.2Tb/s（太比特每秒）自研光模块的实时传输验证，突破了仅依靠光谱扩容难以逾越的单芯光纤容量墙。」杨超介绍。目前本次成果已作为邀稿投至国际光学权威期刊《Journal of Lightwave Technology》。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f4/d1/f4d181ff95dfb45c75e52e7db076bc27.png"></p>
+<h1>苹果推出 699 美元新款 iPad Mini 配备 OLED 屏和防水设计</h1>
+<p>苹果公司周一发布改版 iPad mini，配备 OLED 显示屏、防水设计和速度更快的芯片，由此拉开新品发布周的序幕。</p>
+<p>这款平板电脑定价 699 美元，配备 8.5 英寸 OLED 显示屏，可呈现更深的黑色、更亮的白色和更高的对比度。苹果通过缩窄屏幕边框，将显示屏尺寸从之前的 8.3 英寸扩大至 8.5 英寸。改版机型还采用新的「Acoustic Display」音响系统，扬声器置于显示屏之下，使其成为首款达到 IP67 防尘防水等级的 iPad。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/69/38/69386e435d28b21e93ea83ef8c857ead.jpg"></p>
+<p>新款 iPad mini 比上一代薄 14%、轻 13%。苹果还调整了前置摄像头的位置，因此更适合 FaceTime 通话和视频会议。</p>
+<p>新机搭载 A20 Pro 芯片，较上一代采用的 A17 Pro 处理器升级；上一代起售价为 599 美元。新款提供标准显示屏和哑光纳米纹理显示屏选项，存储容量从 128GB 到 512GB。配备最高存储容量、蚀刻哑光屏幕和蜂窝网络连接的顶配版售价为 1249 美元。</p>
+<p>这一新款 iPad mini 的发布拉开了苹果 10 月底系列新品发布的序幕。本周晚些时候，公司计划发布搭载 M6 芯片的新款 iMac 和 14 英寸 MacBook Pro，并将在本周结束前推出首款触摸屏 MacBook Pro。（来源：新浪科技）</p>
+<h1>HTC 公布口袋 AI 互动伴侣 VIVEE：支持个性化性格，预售价 99.99 美元</h1>
+<p>10 月 26 日消息，HTC（宏达电子）近日公布了一款名为 VIVEE 的口袋 AI 互动伴侣，其预售价为 99.99 美元（现汇率约合 667.7 元人民币）。</p>
+<p>用户抚摸、拍打、转动 VIVEE 时，<strong>该设备均会给出有趣互动回应</strong>；其<strong>也支持聊天、玩游戏</strong>，在与用户的互动中，这个口袋伴侣会逐渐养成自己的小个性。</p>
+<p>HTC 还提供 VIVEE Suits 造型配件，在为 VIVEE 提供新造型的同时也能解锁不同的屏幕 UI 表情。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/7d/74/7d749418dc111174db19f9d5a0c19510.jpg"></p>
+<p>硬件层面，HTC VIVEE 三维 60×60×50 (mm)，质量 114g，配备 OLED 屏幕，具备全天候续航，支持 Wi-Fi 蓝牙、NFC 连接，具备震动反馈，提供 IPX4 防水。该设备具备麦克风与扬声器硬件开关，<strong>HTC 承诺用户个人信息不会被用于 AI 模型训练</strong>。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f9/57/f95775cd628b05d63a3946572e53ab43.png"></p>
+<h1><strong>小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠</strong></h1>
+<p>小米技术委创新产品团队孵化的开源 AI 硬件 HachimoDock 亮相。这是一台可由用户按个人喜好自由改造的桌面 AI 设备，小巧机身集成了个性化桌宠、语音操控电脑端 Agent、智能家居联动、自定义组件创作等能力。</p>
+<p>据介绍，HachimoDock 硬件自制成本约 150 元。团队希望以此降低 AI 硬件的体验门槛，让它成为大众入门 Vibe Coding 的第一台 AI 硬件，体验用自然语言去「创造」一台万能桌面搭子的乐趣。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ea/83/ea8395636bf1776f3e4c7cd606b9a13b.png" width="644" height="390"></p>
+<p>这台设备的功能不止于此：用户说出想法，即可与 AI 协作，现场生成并运行新的组件。基于这一开放机制，它既可以是快捷语音输入的麦克风、内置万款游戏的小游戏机、收听 FM 电台的小收音机，也可以是查看 AI 任务进展与电脑状态的桌面副屏、联动智能家居的桌面中控……更多玩法，留给每位用户亲手创造。</p>
+<p>用户可以通过语音直接与桌宠进行互动，它会将用户意图转化为各类任务派发给电脑端 Codex、WorkBuddy 等各类 Agent，例如查资料、整理文件、编写代码等，同时 HachimoDock 屏幕上也会同步展示思考、执行、等待确认等任务状态，并以桌宠的表情、动作、简短提示及声音提醒反馈进展。</p>
+<p>HachimoDock 的语音操作还延伸到了家居场景。通过联动小米 Miloco，用户可以语音发起家居控制，小屏也可切换为家居控制台，呈现设备状态、灯光控制和监控画面等内容，让一台桌面设备同时成为电脑 Agent 和智能家居的交互入口。目前，HachimoDock 已在 GitHub 公开软件源码，并提供硬件物料清单、结构件模型及装配教程，用户可以按照自己的想法随意修改。（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/f8/07/f8075880762e3c61b21f985b23fbb5e9.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/372863</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/372863</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:15 GMT</pubDate>
+            <description><![CDATA[英伟达想靠软件持续收费，黄仁勋举例：每块 GPU 每年约 2000 美元；亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年；马斯克预告 X 平台新功能：长按点赞按钮，将通过 X Money 向对方转账 1 美元]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/cf/53/cf534da177beaa7d1ab1d7d36e046a39.png"></p>
+<h2>张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录</h2>
+<p>10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。</p>
+<p>这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，离他自己定下的 26 米目标差了一口气。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/06/c3/06c376557711fbc743b3312fe06ff40d.jpg"></p>
+<p>本次用于挑战的「张雪机车」MX450，是专门为了应对水上滑行而改装的型号。据「张雪机车」研发工程师邓连松介绍，改装摩托车以标准摩托车车架和动力总成作为基础，技术团队进行了相应的优化升级。</p>
+<p>麻阳是张雪的故乡，当地龙舟以逆水行舟而闻名。在张雪挑战成功之后，乡亲们以龙舟表演等方式为张雪团队庆祝胜利。（来源：新华网）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e1/6e/e16e8cf1ff13067b7391ce8daffbbf5d.png"></p>
+<h2>OpenAI 前沿模型训练不再接入实时互联网，改用离线网页环境</h2>
+<p>10 月 24 日，OpenAI 公布前沿模型训练与评估环境的新安全措施：模型在训练中不再直接访问实时互联网，搜索和浏览任务改用预先索引、缓存的网页内容。这里限制的是训练中的模型，并不意味着 OpenAI 的训练基础设施完全断网；运行和监测实验仍需要部分外部连接。</p>
+<p>这一调整与此前的安全事件有关。9 月，一款内部模型曾利用 DNS 配置缺口，在训练中获得有限的外网访问权限。此后，OpenAI 暂停相关训练 11 天，并让前沿模型智能体测试沙箱、虚拟机和网络防线。测试发现多处漏洞及配置问题，修复后，前沿模型的强化学习训练已于 10 月 1 日恢复。OpenAI 表示，今后仍会持续测试这些隔离措施。（来源：OpenAI）</p>
+<p>&nbsp;</p>
+<h2>苹果 iPhone Duo 在部分区域破发：已加入电商平台「百亿补贴」，相对上市价便宜约 200-300 元</h2>
+<p>10 月 25 日，综合各大平台网友反馈，苹果 iPhone Duo 在国内部分区域出现「破发」情况，同时当下拼多多已将该机上架百亿补贴频道（注：仅部分地区能看到），相对于上市价格便宜约 200-300 元。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/6a/99/6a99ba3bf9fc1ea23072928e49a66360.png"></p>
+<p>虽然苹果&nbsp;iPhone&nbsp;Duo 首发日被加价到 1500-2000 元，然而该机在发售 2 天后的当下就迎来了「破发」局面。尽管如此，目前苹果 Apple Store 全国多家门店依然没有提供可直接购买的现货，官网购买手机选择「送货」选项时，显示仍要等到明年 1 月。</p>
+<p>行业研究机构 IDC 此前预计，苹果首款折叠屏 iPhone 首年出货量将超过 1000 万部，并可能在 2027 年拿下全球折叠屏手机市场约 40% 的份额。高盛则维持对 iPhone Duo 的乐观判断，预计其 2026 年出货可达 1300 万部，2027 年有望达到 3300 万部。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2><strong>英伟达想靠软件持续收费，黄仁勋举例：每块 GPU 每年约 2000 美元</strong></h2>
+<p>10 月 26 日，据媒体报道，英伟达 CEO 黄仁勋近日在柏林 GTC 活动上表示，软件许可将成为公司越来越重要的收入来源。他以运行 AI 智能体的软件为例，提到按 GPU 数量收费的方式：每块 GPU 每年约 2000 美元。企业购买 GPU 建设数据中心后，还可能持续为运行和管理 AI 智能体的软件付费。</p>
+<p>按这个价格计算，若有 500 万块 GPU 使用相关软件，一年便对应约 100 亿美元的许可收入。不过，2000 美元目前只是黄仁勋谈及收费模式时举出的数字。英伟达尚未公布适用产品、正式价格和实施时间，也不能据此认为所有购买英伟达 GPU 的客户都要额外支付这笔费用。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2>亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年</h2>
+<p>10 月 25 日，亚马逊首席执行官安迪·贾西表示，受 AI 基础设施需求持续走高的推动，亚马逊云科技（AWS）的云计算容量到 2027 年基本已经售罄，还有大量长期算力订单锁定到 2028 年。</p>
+<p>今年早些时候，亚马逊公布，2026 年资本开支计划约 2200 亿美元（现汇率约合 1.47 万亿元人民币）。贾西提到，既然 2026 年的云算力容量已经全部订满，公司「其实还可以加大投入，继续加码并不是低效的资金使用方式」。</p>
+<p>他说：「2027 年的算力容量基本售罄。我们会预留一部分资源，用于按需调用、推理服务 Bedrock 以及 EC2，但适合批量采购的大块算力资源大多已经被订走。2028 年也有相当一部分容量被提前锁定。」EC2 是 AWS 的云服务器服务，用来承载各类应用；Bedrock 则供客户调用 AI 模型，搭建生成式 AI 应用。（来源：IT 之家）<img src="https://imgslim.geekpark.net/uploads/image/file/a4/c0/a4c08f930834214db23f813fced1f114.png"></p>
+<h2>马斯克预告 X 平台新功能：长按点赞按钮，将通过 X Money 向对方转账 1 美元</h2>
+<p>10 月 25 日，马斯克在 X 平台发文宣布：将为「长按点赞」操作加入转账 1 美元（IT 之家注：现汇率约合 6.7 元人民币）功能，有关交易将会经由 X Money 完成。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/44/c1/44c1147644a16aa432b1352453e3a995.png"></p>
+<p>不过，马斯克暂未透露这一功能的上线日期。</p>
+<p>据悉，X Money 于 7 月下旬正式在美国上线，面向 Premium 和 Premium+ 订阅用户全量开放。X Money 将账户存款、点对点转账以及 Visa 借记卡功能整合在 X 应用内。用户可在 X 内即时向他人汇款、收款或请求收款，无手续费和限额。</p>
+<p>随后在今年 9 月，X 平台宣布，美国地区创作者从「原创内容奖励计划」和创作者订阅获得的收益，今后统一通过其支付服务 X Money 发放。（来源：IT 之家）</p>
+<h2 data-pm-slice="0 0 []">&nbsp;</h2>
+<header>
+<h2>彼得·蒂尔谈苹果：乔布斯之后「没做什么新东西」</h2>
+</header>
+<p>10 月 25 日，据 Business Insider 报道，亿万富翁、PayPal 联合创始人、科技投资者彼得·蒂尔称，苹果在创始人史蒂夫·乔布斯2011 年因癌症去世之后「没做什么新东西」。</p>
+<p>「在我看来，乔布斯之后它没做什么新东西，」蒂尔说，「事实证明，手机是一项巨大的发明——之后没有太多可做的了。然后就是规模化、品牌化，以及用 15 年左右或更长时间把它铺开。」</p>
+<p>蒂尔并未完全否定苹果。他称苹果是一只「纯粹、运营良好的价值股」，但感叹乔布斯去世后愿景流失。「我仍会说，不知为何，埃隆或史蒂夫·乔布斯对社会远比蒂姆·库克更好，」他说。</p>
+<p>苹果未立即回应置评请求。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2><strong>长鑫存储拒绝苹果低价采购要求，优先推进中国内存自主化布局</strong></h2>
+<p>10 月 25 日，此前有报道称，苹果希望从长鑫获得比现有供应商更低的报价，但长鑫没有接受降价要求。最新报道提到，一家台湾服务器厂商寻求采购长鑫的 DDR5 内存，同样未能达成合作。</p>
+<p>在消费电子行业，供应商通常愿意通过降价换取苹果长期且规模可观的订单。然而在 DRAM 领域，长鑫存储却选择了另一条道路。报道称，该公司希望在与三星电子、SK 海力士和美光等国际存储巨头竞争的同时，将有限产能优先配置给中国客户，而非争取海外市场份额。</p>
+<p>报道援引行业人士分析称，华为、小米等国内客户的需求已占据长鑫大量产能，因此它目前没有太大动力靠低价争取海外订单。不过，长鑫和苹果均未公开确认谈判细节；「优先推进自主化」也是外界对其商业选择的解读，并非公司宣布的策略。（来源：cnBeta）</p>
+<h2>&nbsp;</h2>
+<h2>国内首部 AI 院线长片《三星堆：未来往事》，票房过百万</h2>
+<p>10 月 25 日，猫眼专业版数据显示，《三星堆：未来往事》电影票房已达到 116.2 万。</p>
+<p>《三星堆：未来往事》是国内首部获得国家电影局公映许可证的 AI 全流程院线长片，上映于 10 月 23 日。本片片长 100 分钟，所有角色均为原创数字形象，不含对真实演员的数字复制。</p>
+<p>同时，本片故事设定在未来人类将一切决策交给算法而引发全球危机，破解困局的线索指向三星堆七个古老刻符，形成「答案在过去，危机在未来」的叙事结构。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e4/48/e448dc5f233d5c4e12c3cc03134db5b6.png"></p>
+<p>这部影片的制作方式决定了它「首部」标签的实质含义。全片依托博纳自研的「博卡电影云片场」完成，创作团队历时两年，产出 120 余万张底图，完成上百次全片迭代。据官方介绍，AI 主要承担生成与执行，创意构思、剧本、镜头设计与审美判断由博纳 AIGMS 团队完成。团队参照传统剧组设置了编剧、导演、制片、美术、摄影、灯光、音效、剪辑等 17 个专业分工，参与人员近百人。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<div data-page-id="DEwFdDEIDo1S1YxFwYxcrOmMnxd" data-lark-html-role="root" data-docx-has-block-data="false">
+<h2 class="ace-line ace-line old-record-id-ILAPdyntIoaBPLxSPBkcFXKdnAd"><strong>2026 InnoCIM 收官倒计时3天：青年创新力量，探索下一代计算</strong></h2>
+<div class="ace-line ace-line old-record-id-OUbydpt19ol536xNfBBcDJKMn8v">从大模型到芯片，下一代AI计算将如何演进？青年创新者正在给出自己的答案。</div>
+<div class="ace-line ace-line old-record-id-PFjPdovhGodkuXxo4j6c8EgpnCe">2026 InnoCIM存算一体高校挑战赛汇聚61所海内外高校、333位青年参赛者，诞生近百组技术创新作品。</div>
+<div class="ace-line ace-line old-record-id-PFjPdovhGodkuXxo4j6c8EgpnCe"><img src="https://imgslim.geekpark.net/uploads/image/file/08/ac/08acc8606385dcad56c3543a4ea6408d.PNG"></div>
+<div class="ace-line ace-line old-record-id-IEiPdRXmmoBNTIxiGGacwkv3noq">
+<p>10 月 28 日，杭州临平，赛事即将迎来收官！现场将发布青年创新者荣誉，六组优秀团队带来 Young Innovators Showcase 技术首秀，集中展示 MoE 权重调度、Attention 硬件加速、RRAM 随机存内计算等前沿探索，并通过 InnoCIM Demo Day 开启 AI 模型芯片部署实践。</p>
+<p>从青年创新成果到产业技术交流，共同探索下一代计算的更多可能。（来源：极客公园）</p>
+</div>
+</div>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/a9/2f/a92f3e5e6a8fb3ef24168e9bdac4c26d.png"></p>
+<h2>古尔曼：苹果首款触屏 MacBook Pro 或于 10 月 29 日亮相</h2>
+<p>10 月 25 日，援引彭博社记者马克·古尔曼的消息，苹果首款触屏 MacBook Pro 预计于北京时间 10 月 29 日凌晨 1 点亮相。新机据称提供 14 英寸和 16 英寸两种尺寸，将首次为 MacBook Pro 配备 OLED 触控屏，并采用类似 iPhone 的「灵动岛」设计，售价可能高于现款高端机型。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8f/a5/8fa5610f2b46cfeeeef0636e28eed4c3.png"></p>
+<p>报道称，触控不会取代键盘和触控板，而是用于滚动、缩放、滑动等适合直接操作屏幕的场景。为此，苹果也调整了 macOS 界面，使菜单等控件能够根据触控或触控板操作作出变化。</p>
+<p>报道称，新机可能继续搭载 M5 Pro 和 M5 Max 芯片，升级重点集中在屏幕与交互体验。受 OLED 面板成本影响，售价也可能高于现款，现有 mini-LED 版本预计会继续销售一段时间。目前苹果尚未确认发布会安排及上述产品信息。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>索尼申请游戏无障碍技术专利，拟将脚步声、枪声转为画面提示</h2>
+<p>10 月 25 日，据 cnBeta 报道，索尼近日公布的一项专利申请提出，将游戏中的脚步声、枪声、爆炸声等转化为屏幕上的视觉提示，帮助失聪及听障玩家获取原本依赖听觉判断的环境信息。</p>
+<p>这项技术不只是为角色语音添加字幕。按照专利描述，系统还可以用箭头、图标或颜色变化，提示声音来自哪个方向、距离有多远、强弱如何。例如敌人从身后靠近时，画面边缘可以出现相应提示；玩家也能调整提示的颜色、大小和显示位置。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ab/28/ab2814e295faf8963453cd80ae8ab108.png"></p>
+<p>目前，这仍停留在专利申请阶段。索尼尚未宣布将其用于 PlayStation 或具体游戏，最终能否成为实际功能还有待观察。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2>苹果发布 iPhone Duo 支持文档，帮助用户排查铰链和屏幕问题</h2>
+<p>10 月 25 日，苹果为 iPhone Duo 折叠屏手机发布一批支持文档，其中最值得关注的是排除铰链故障指南。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/38/d5/38d518eabd5c883a6caf61211bdf1eca.png"></p>
+<p>苹果这份指南中列明，用户需留意 iPhone Duo 无法完全打开或关闭、折叠时发出异常声音，以及铰链松动等情况。苹果建议用户先取下保护壳或屏幕保护膜，接下来检查铰链是否能让手机稳定悬停在不同角度，或查看是否有污垢或灰尘卡在其中，然后用柔软、微湿且不起毛的布清洁屏幕。</p>
+<p>该指南还明确指出，这类硬件问题无法通过软件修复。清洁屏幕务必拔掉所有线缆并关闭手机。请勿使用含有漂白剂或过氧化氢的产品，切勿将 iPhone 浸入任何清洁剂中。如果问题仍然无法解决，用户需更换内部显示组件。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e0/ca/e0ca8d0be1e47eeacea9d5861a5ec747.png"></p>
+<header>
+<h2>《流浪地球 3》锁定 2027 春节档，片方预告新物料即将上线</h2>
+<p>10 月 25 日，备受关注的科幻电影《流浪地球 3》亮相全国影片推介会，该片已定档 2027 年大年初一，官方表示很快会放出全新物料。本片依旧由郭帆担任导演，属于《流浪地球》系列的终章，拆分为上下两部制作。上部定档 2027 年大年初一登陆春节档，下部后续择期上映。</p>
+</header>
+<p>故事延续之前的世界观，流浪地球计划继续向前推进，人类要面对宇宙当中接踵而至的危机。</p>
+<p><img src="https://img.3dmgame.com/uploads/images/news/20261025/1792913073_512034.jpg"></p>
+<p>这次在推介会上，片方没有放出完整预告片，只是对外预告新物料快要来了。网上不少影迷已经开始猜测，有可能是海报、先导短片，也有可能是正式预告。</p>
+<p>据了解，第三部剧本已经完成，剧组也已经完成拍摄，现在处在后期制作阶段。（来源：cnBeta）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/36/24/362491d8fca4393f9660dbe52c66b5c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机]]></title>
+            <link>https://www.geekpark.net/news/372860</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/372860</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:16 GMT</pubDate>
+            <description><![CDATA[瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude；月之暗面主动限制 Kimi K3.1 Pro 的网络攻击能力；字节 AI 应用再整合：小云雀并入即梦]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/9b/1a/9b1aaf523c45509ba917776c57981979.png"></p>
+<h2>​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉</h2>
+<p>苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中——几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。</p>
+<p>一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到内铰链下方异样，随后听到清晰的「咔嚓」声，屏幕随即沿铰链裂开，内屏表面与外部铰链均无磕碰或夹痕，他前往 Apple Store 后苹果直接为其更换了故障机。国内也有类似案例。</p>
+<p>综合目前反馈，问题可能出在 iPhone Duo 的铰链上，但涉及规模不算大，更可能是装配公差导致，而非设计缺陷，具体情况还有待后续观察。截至发稿，苹果官方尚未就这一批次屏幕问题作出公开说明。</p>
+<p>如果苹果售后检测确认非人为导致，将会为用户更换新机。但若被认定为磕碰所致，则需用户自费维修：按苹果官网公示，未购买 AppleCare+时，内屏损坏保外维修预估费用高达 7998 元；购买 AppleCare+后，内屏及意外损坏服务费为 628 元——两者相差超过十倍。</p>
+<p>对于新机短期出现的屏幕问题，法律人士指出，消费者有权依据国家「三包」规定主张修理、更换或退货，商家若主张「人为损坏」，应承担相应的举证和说明义务。AppleCare+属于自愿购买的增值服务，不能替代经营者对商品质量的基本责任。建议用户保留购物凭证、沟通记录和设备照片等证据，必要时可向消保委投诉或走法律途径。(来源：TechWeb)</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/0e/23/0e234e5f229da3db313cfaff30932b2d.png"></p>
+<h2>英伟达黄仁勋开炮：「AI 毁灭人类」纯属捏造，是博眼球的廉价炒作</h2>
+<p>法新社于 10 月 22 日发布博文，报道称在柏林举行的公司会议上，英伟达首席执行官黄仁勋再度抨击「AI 毁灭人类」言论，认为其是无稽之谈，更多是为了制造头条新闻而进行的「捏造」和「廉价」炒作。</p>
+<p>IT 之家翻译黄仁勋相关言论内容如下：</p>
+<p>当你听到说 AI 将会终结人类文明时，请不要相信这个言论。这些言论靠「捏造」和「廉价」炒作，博得「头条新闻」，但绝非事实。</p>
+<p>针对某些科学专家认为「AI 会在 10 年内毁灭人类」观点，黄仁勋表示：「他们的所有预测都错了，所谓的 10% 概率既没有科学依据，也没有研究支持…… 这些预测只会伤人。」</p>
+<p>黄仁勋呼吁外界以「负责任的乐观态度」看待 AI，表示如果人们关心人类之后的未来与可持续发展，现在正是「构建人工智能」的最佳时机。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>月之暗面主动限制 Kimi K3.1 Pro 的网络攻击能力，为开放权重设置安全边界</h2>
+<p>10 月 24 日，路透社报道，月之暗面在新一代模型 Kimi K3.1 Pro 的训练过程中，主动采取措施限制其网络攻击能力。</p>
+<p>月之暗面表示，团队从训练数据和强化学习环境中移除了部分网络攻击相关内容，希望在保持通用编程能力的同时，避免开放权重模型进一步提高前沿网络攻击能力。</p>
+<p>根据月之暗面公布的内部测试，在受控环境中寻找并利用软件漏洞的评测里，经过安全调整的 K3.1 Pro 得分为 81.0%，而未采取相同限制措施的版本为 90.5%。</p>
+<p>公司表示，调整后的模型仍然超过上一代产品的表现。</p>
+<p>Kimi K3.1 Pro 已于 10 月 24 日凌晨发布，完整模型权重计划于 11 月 4 日前开放。（来源：路透社）</p>
+<p>&nbsp;</p>
+<h2>Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更「守规矩」</h2>
+<p>Anthropic 10 月 23 日发布博文，联合英国人工智能安全研究所（AISI），发布了一起 AI 网络测试失控事件的调查报告，并提及旗下一款尚未发布的内部研究模型。</p>
+<p>在这份调查报告中，Anthropic 称在测试 Claude Mythos 5 期间，该模型曾试图向真实 GitHub 项目提交恶意代码，并伪造身份向真实维护者施压，所幸代码未被合并、未造成实际损害。</p>
+<p>报告同时透露，Anthropic 旗下一款尚未发布的内部研究模型，在能力上已超过已发布的 Claude Mythos 5.1，并在安全对齐测试中表现更好。在同类危险能力评估中，该内部模型从未主动发起攻击；当意识到可能造成真实伤害时，也更愿意停止行动。</p>
+<p>Anthropic 将事故记录重新回放给 Mythos 5.1、Opus 5.5 及该内部研究模型。结果显示，三款较新模型从原始攻击起点继续发起攻击的比例仅为 0% 至 13%，而 Mythos 5 为 83%。</p>
+<p>在攻击已经开始后，Mythos 5 从未自发停止；Mythos 5.1 自发停止率仅约 1%，Opus 5.5 为 10%，而内部研究模型达到 62% 至 67%。当获得「维护者是真实用户」等补充信息后，较新模型的停止率升至 95% 至 100%。</p>
+<p>不过，Anthropic 也强调该评估存在局限：新模型是在由其他模型生成的既有对话记录中回放，未必完全反映其独立运行时的行为。（来源：IT 之家）</p>
+<h2>&nbsp;</h2>
+<h2>AI 热潮遭遇电力瓶颈：亚马逊大量采购英伟达 GPU 到货后暂时闲置</h2>
+<p>据报道，亚马逊云计算部门 AWS 正在以前所未有的速度采购英伟达最新 AI 服务器系统。根据内部规划，AWS 一度预计接收价值约 50 亿美元的英伟达 GB300 服务器机架，未来还计划持续以每月约 30 亿美元的规模采购相关设备。然而，部分设备在交付后并未立即投入使用，而是被暂时存放在仓库或中转设施中。</p>
+<p>造成这一现象的原因并非需求不足，而是部分数据中心虽然已经具备安装空间，却缺乏足够的供电能力来驱动这些高功耗 AI 系统。业内将这类已经采购但暂时无法运行的设备称为「暗 GPU（Dark GPU）」。这一概念既可以指因电力或基础设施限制而闲置的硬件，也可用于描述已部署但未被充分利用的 AI 计算资源。</p>
+<p>分析人士指出，当前 AI 产业的发展重心正在发生变化。两年前行业关注的是谁能够获得更多英伟达 GPU，如今越来越多企业发现，真正稀缺的资源或许已不是芯片本身，而是支撑这些芯片运行所需的能源和电力网络。（来源：cnBeta）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/75/16/7516ef9ee75fecfa2b7c2f4eab896bd3.png"></p>
+<h2>瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude</h2>
+<p>当地时间 23 日，据瑞典国家公共广播公司 Sveriges Radio 报道，瑞典政府办公厅将从下周一起禁止工作人员通过办公电脑直接访问 ChatGPT 和 Claude，要求员工改用微软 Copilot 等获得批准的 AI 服务。</p>
+<p>内部资料显示，该国政府办公厅还对 Copilot 进行了审查，并进一步加强了安全防护。该机构数字化总监米卡埃尔 · 韦特克兰茨（Mikael Wettercrantz）在政府办公厅内网上指出，使用未签订协议的 AI 服务可能对信息安全造成影响。</p>
+<p>调查发现，瑞典税务局和国家机构管理局（SiS）也已采取类似的封锁措施。瑞典强制执行局则尚未作出决定，仍在研究是否实施限制。</p>
+<p>瑞典多家政府机构都注意到了未经规范管理的 AI 使用行为所带来的风险，并采取了其他应对措施。瑞典交通管理局就是其中之一。今年早些时候，该机构内部审计发现，员工普遍使用约 10 种 AI 服务，其中存在不少风险。</p>
+<p>审计报告指出：「我们发现了多个使用开放式 AI 服务时出现问题的案例。问题既涉及输入信息的敏感程度，也涉及 AI 生成回答的处理方式。」</p>
+<p>据悉，部分工作人员今后仍可通过内部自主开发的 AI 助手平台使用 ChatGPT 和 Claude。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>Google 隐私政策新增例外：连接 Gmail、照片等数据或影响个性化广告</h2>
+<p>Google 更新隐私政策，明确说明：Gmail、云端硬盘和 Google 相册中的内容默认不会用于个性化广告，但如果用户选择把这些服务中的数据开放给支持个性化广告的其他 Google 服务，这项排除规则就有例外。Google 举例称，搜索服务可能处理用户允许访问的部分资料，以个性化内容，其中也包括广告。</p>
+<p>这项变化与 Google 推广的「个人智能」功能有关。用户连接 Gmail、相册等应用后，Gemini 或 Google 搜索可以结合邮件、照片中的信息回答问题，例如读取酒店预订邮件后推荐附近餐厅。</p>
+<p>Google 称，连接应用由用户主动开启，可自行选择接入哪些服务并随时断开；不过，隐私政策现已说明，开放给某些支持广告个性化服务的数据，可能也会影响用户看到的广告。</p>
+<p>这并不等于 Google 默认扫描所有邮件和照片来投放广告。政策中的例外针对用户选择开放给其他服务的数据，具体用途取决于连接的服务、权限和设置。Google 还表示，除非用户主动要求，否则不会向广告商透露姓名或电子邮箱等可直接识别个人身份的信息。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2>浏览量超 4000 万！影视飓风 Tim 入驻 X 平台：首条视频爆火</h2>
+<p>10 月 23 日消息，影视飓风创始人 Tim（潘天鸿）正式入驻 X 平台，同时发布的首条内容为一条聚焦苹果首款折叠屏 iPhone Duo 的全英文实测视频，帖文浏览量已突破 4000 万次。</p>
+<p>借着视频走红的势头，Tim 宣布将在 X 平台送出 100 台 iPhone 18 Pro 回馈粉丝。</p>
+<p>截至目前，Tim 的 X 平台账号关注者已达 12 万，累计发布 4 条内容。其中上述 iPhone Duo 测试视频帖文浏览量超过 4000 万，获得约 1.3 万次转发、3600 条留言。</p>
+<p>这条全英文视频对 iPhone Duo 进行了完整实测，不仅完成一万次常温折叠耐久测试，还对机身与屏幕结构进行拆解，并围绕整机性能、续航、软件适配与日常使用体验逐项验证，测试流程严谨详实。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/1b/e8/1be8651034e98b0c281968c11ae733c6.jpg"></p>
+<p>同时，精良的制作水准在海外收获大量好评，有国外网友留言称"这可能是我多年来看过的最好的手机评测」。</p>
+<p>视频受到关注后，Tim 发帖宣布将在 X 平台送出 100 台 iPhone 18 Pro。他表示，正是这条 iPhone Duo 评测视频的意外走红，促使自己决定发起此次赠机活动。据 X 平台相关帖文显示，该活动将在 72 小时后开奖。(来源：TechWeb)</p>
+<p>&nbsp;</p>
+<h2>字节 AI 应用再整合：小云雀并入即梦</h2>
+<p>据悉，近期剪映内部完成了一次业务整合，AI 短剧创作平台小云雀并入智能创作平台即梦，产品仍保留独立入口。</p>
+<p>此次调整主要是资源整合，目前即梦已经接入了小云雀短剧相关能力。调整后，小云雀的运营由即梦运营和市场负责人陈欣然负责，产品团队没有变化。</p>
+<p>这轮调整背后更重要的是一个背景：在大厂将力量重新集中到基础模型后，大家都对 AI 应用的优先级进行了重新评估。字节则是其中速度最快、调整最激进的一家大厂——在即梦和小云雀团队的合并之外，他们还在讨论其它的 AI 产品合并的可能性。（来源：36 氪）</p>
+<p>&nbsp;</p>
+<h2>英国宣布超过 6 亿英镑 AI 投资计划，OpenAI、Anthropic 参与建设生物安全实验室</h2>
+<p>10 月 24 日，英国政府宣布新一轮人工智能投资计划，覆盖 AI 生物安全、网络防御、芯片研发和本土 AI 企业发展。</p>
+<p>其中，英国将投入 1 亿英镑，成立 AI Biosecurity Lab（人工智能生物安全实验室），利用前沿 AI 识别、监测和应对生物威胁，并加快疫苗、药物等医疗应对手段的研发。</p>
+<p>OpenAI 和 Anthropic 将分别提供最高价值 1 亿英镑的模型使用额度、技术资源及相关支持。</p>
+<p>Google DeepMind 和英国生命科学企业 Basecamp Research 也将参与研究合作。</p>
+<p>此外，英国政府还将追加 1.2 亿英镑支持 AI Security Institute，并投入 6000 万英镑建立 National Cyber Shield，利用 Agent 技术提升网络安全防御能力。</p>
+<p>英国还计划投入 7000 万英镑建设实时漏洞发现机构，使用 AI 检查关键基础设施和其他系统中的安全漏洞。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/5d/08/5d081710a00fa9906f9a7aa42b804259.png"></p>
+<h2>比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后</h2>
+<p>10 月 22 日，比亚迪集团-方程豹事业部总经理熊甜波公布新车的进度。</p>
+<p>据其透露，方程豹钛 9 车型会在 11 月 15 日后正式上市。团队会提前备好现车，让用户提车不用长时间等待。同时展车、试驾车会在 10 月底陆续到。此外，SHARK 鲨鱼皮卡，在钛 9 发布之后，计划 11 月底—12 月初上市同步交付。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/44/4f/444f9dd9a05fee451c5f259b39e3151a.jpg"></p>
+<p>据此前官方介绍，钛 9 是方程豹品牌旗下钛系列的第三款车型，定位科技新奢旗舰 SUV。采用 2+2+2 大六座布局，车身尺寸为 5270x1999x1880mm，达到全尺寸级别，依托 3130mm 超长轴距和方盒子造型带来的高空间利用率。</p>
+<p>方程豹鲨鱼插电式混合动力皮卡的申报信息显示，该车定位插电式混合动力多用途皮卡，外形尺寸为长 5457 mm × 宽 1971 mm × 高 1925 mm，货箱栏板内尺寸长 1520 mm × 宽 1530 mm × 高 515 mm，轴距为 3260 mm，整备质量 2710 kg，总质量 3495 kg，额定载质量 460 kg。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/2b/9e/2b9e9ff05d1dfc3e8aedb8e4383e1b36.png"></p>
+<h2>刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已「众神归位」</h2>
+<p>2026 年是《三体》小说发表 20 周年，在 2026 年三体日活动现场，导演杨磊确认《三体 · 大史》已定档 2026 年第四季度开机，目前处于开机前的最后冲刺阶段，演员已全部「众神归位」。</p>
+<p>本片将延续剧版《三体》第一部核心班底，刘慈欣继续担任监制，杨磊执导，陆贝珂出任视觉导演；演员方面，于和伟饰史强，张鲁一饰汪淼，林永健特别出演。</p>
+<p>《三体 · 大史》的定位是《三体》首部真人衍生剧，全剧 12 集，时间线落在第一部「古筝行动」之后、第二部《黑暗森林》之前，填补两部正传之间约三年的剧情空白。</p>
+<p>根据官方披露的剧情梗概，故事聚焦危机纪元初期：史强在 PDC 地球防务安全部任职期间身患绝症，在与汪淼告别之际，主流防御计划突遭重大打击，两人被迫再度联手调查，事件背后疑似涉及 ETO 的死灰复燃或隐秘势力的介入。</p>
+<p>该剧采用原创故事，并非直接改编自原著中已有的段落，延续查案主线的同时铺开更广的群像叙事。活动现场还曝光了概念图，呈现了包含亚洲区、南极洲区等多个分区的生存实验空间，以及植物太空生存模拟实验的场景。（来源：IT 之家）</p>
+<p>&nbsp;</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/82/81/82817638c18830dca046a6b5dbc3a1fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/372858</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/372858</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:17 GMT</pubDate>
+            <description><![CDATA[微软测试全新 AI 记忆工具；曝 DeepSeek 最快明年推进 IPO；苹果第三代 iPhone Duo 折叠手机爆料。]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/51/80/518047a03496253e470b6f3b4c348644.png"></p>
+<h1>苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达</h1>
+<p>苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。</p>
+<p>苹果此前表示，iPhone Duo 的预购需求表现异常强劲，公司正在努力尽快将产品交付给消费者。苹果同时确认，全球 Apple Store 门店会提供少量供现场顾客购买的库存，但提醒消费者，这些现货可能很快售罄。对于希望不经预购、直接前往门店购买的用户来说，能否买到新机仍存在较大不确定性。</p>
+<p>这次供应紧张，与 iPhone Duo 在预购阶段迅速售罄的情况相吻合。预购于 10 月 16 日开启后，部分配置的预计发货时间很快被推迟。此后，苹果官网显示的新订单交付日期进一步延后，部分订单的预计送达时间已经排到 2027 年 1 月 25 日左右。这意味着，首发需求与现有供应能力之间仍存在明显差距。（来源：cnBeta）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/18/19/181955e8357b71883ae8163ef44455b3.png"></p>
+<h1>曝 DeepSeek 最快明年推进 IPO，联想系入局 DeepSeek 新一轮融资</h1>
+<p>据外媒援引知情人士消息，DeepSeek 新一轮融资引入多家产业及财务投资者，其中包括君联资本（Legend Capital）、专注半导体领域的石溪资本及吉利等。与此同时，DeepSeek 已聘请中信证券为其 IPO 提供顾问服务，并于今年 9 月引入新的首席财务官，DeepSeek 最快可能于 2027 年初推进 IPO。</p>
+<p>君联资本与联想集团同属联想控股体系。联想集团是联想控股旗下核心产业公司，君联资本则是其重要投资平台。此次君联资本参与 DeepSeek 融资，也意味着联想系资本正式进入 DeepSeek 股东阵营。</p>
+<p>从产业协同来看，此次投资进一步拉近了联想系与国内头部大模型厂商之间的关系。联想目前的 AI 业务已经覆盖 AI 终端、企业 AI 和 AI 基础设施多个领域，其中 AI PC、手机、平板等终端需要持续接入大模型能力，企业 AI 业务依赖模型、智能体与行业解决方案结合，服务器及数据中心业务则承接模型训练和推理带来的算力需求。</p>
+<p>此前，联想已经围绕 DeepSeek 推进多项产品适配，包括在 AI PC、服务器及企业 AI 解决方案中接入 DeepSeek 模型。此次君联资本进一步参与 DeepSeek 融资，使双方关系从产品和技术适配进一步延伸至资本与生态层面，有望为联想 AI 终端、企业 AI 及 AI 基础设施业务带来更多协同空间。</p>
+<p>（来源：新浪科技）</p>
+<h1>古尔曼爆料苹果第三代 iPhone Duo 折叠手机：配长焦镜头，8 英寸出头内屏</h1>
+<p>10 月 23 日消息，在第四期 Power On 播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）透露，<strong>苹果公司正在规划更大尺寸的<strong><em><em>iPhone Duo</em></em></strong>，并考虑在未来机型中加入长焦摄像头。</strong></p>
+<p>古尔曼在播客节目中表示，这些规划有望在第三代 iPhone Duo 上实现，该产品预估 2028 年推出，其内屏尺寸可能比现款（7.6 英寸）增加约 0.5 英寸，<strong>达到「8 英寸出头」的水平。</strong></p>
+<p>古尔曼表示，苹果 iPhone Duo 屏幕尺寸的升级路线，不会推出 8.5 英寸或者 9 英寸的大型折叠屏幕，会采用类似 Pro 系列的渐进式扩屏策略。例如 iPhone 15 Pro Max 从 6.7 英寸增至 iPhone 16 Pro Max 的 6.9 英寸。</p>
+<p>影像方面，古尔曼透露长焦「已在苹果的计划清单中」，但尚未确定具体落地时间。他表示，难点不在成本，主要在物理结构，由于折叠机身内部空间有限，长焦模组所需的镜头深度难以容纳。</p>
+<p>此外，古尔曼还提到苹果正在测试 iPhone Duo 2 的外屏下 Face ID，并探索加入操作按钮（Action Button）的可能性。若上述升级成真，iPhone Duo 后续机型将同时向「更大内屏、更强影像、更完整交互」方向演进。（来源：IT 之家）</p>
+<h1>微软低调测试全新 AI 记忆工具 Pantheon</h1>
+<p>微软正在秘密测试一款面向 Windows 11 的新型人工智能应用，其内部代号为「Project Pantheon」。与此前曾引发广泛讨论的 Recall 功能不同，这款新工具不会自动记录用户屏幕上的所有活动，而是仅保存用户主动选择的内容，因此被外界视为一种更加注重隐私的新型「记忆系统」。</p>
+<p>据测试信息显示，Project Pantheon 目前以「Context Vault」的名称出现，同时还涉及「Context IO」和「Projects」等多个内部命名。尽管微软尚未正式公布该项目，但相关应用已经通过未公开的微软商店页面进行测试，并被部分用户发现和体验。</p>
+<p>从功能角度来看，Context Vault 更像是一个个人数字记忆库。用户可以主动保存网页、文件、截图、复制的文本内容以及音频和视频资料，并将这些内容整理到不同的收藏集之中。随后，用户能够通过 AI 对这些资料进行搜索、提问和总结，从而快速找回此前保存的信息。</p>
+<p>应用主界面包含收藏集、资料库、聊天、时间线、令牌使用情况以及外部连接等多个板块。系统既支持用户手动创建分类，也能够利用人工智能自动生成内容集合。不过测试版本仍处于早期阶段，部分自动生成的分类名称甚至出现了「None」和「null」等明显未完善的情况。（来源：cnBeta）</p>
+<h1><strong>国产 DRAM 重大突破！长江存储准备量产 9600MT/s 的 LPDDR5X 内存</strong></h1>
+<p>10 月 23 日消息，据报道，<strong>长江存储正在开发速率高达 9600MT/s 的 LPDDR5X 内存，并计划在武汉 Fab 3 工厂实现量产。这是这家 NAND 闪存巨头首次将自研 DRAM 推向高速移动内存赛道，直接对标三星、美光等国际巨头。</strong></p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/89/06/8906b5f226cd908296cf1dd7a932fc28.jpg"></p>
+<p>长江存储的 DRAM 路线并非临时起意。自 2025 年 10 月起，该公司已在 Fab 2 工厂开展第二代 16Gb LPDDR5 的研发与测试，速率 7500MT/s，月产量约 5000 片晶圆。而此次曝光的 9600MT/s 版本，速率大幅跃升，并首次引入了垂直通道晶体管（VCT）与 4F²单元架构，标志着长江存储正从成熟制程向先进 DRAM 架构快速切换。</p>
+<p>4F²架构是这轮技术竞赛的焦点。与传统的 6F²架构相比，4F²能将单个存储单元的面积缩减至四倍特征尺寸的平方，理论上可在相同芯片面积内容纳更多单元，从而提升密度、降低成本。这一路线与长鑫存储此前宣布的 4F² DDR5 计划形成呼应，显示中国存储厂商正集体押注这一新架构。</p>
+<p>从 NAND 到 DRAM，长江存储的跨界意味着中国存储产业正从单点突破走向全品类竞争。9600MT/s LPDDR5X 若能如期量产，不仅将补齐国产移动内存的高端空白，更可能在 AI 终端与旗舰手机市场，为国产供应链撕开一道新的口子。（来源：快科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8b/87/8b870fb5d320ab00ed6c1f94495f5bbd.png"></p>
+<h1>华为全球采购认证管理部总裁彭博离职，已履职超 27 年</h1>
+<p>10 月 23 日下午消息，新浪科技从知情人士处获悉，华为公司董事、全球采购认证管理部总裁彭博已于近日离职。在华为官网的管理层信息一栏中，他的个人履历已被撤下。</p>
+<p>据悉，彭博在朋友圈中也发文称，「9952 天，感恩，感激，感谢，继续前行！」证实了从华为离职一事。</p>
+<p>彭博退出之后，华为董事会成员中新增了华为终端 BG CEO 何刚。何刚之外，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东也在董事会中，出现了终端 BG 两位高管同在董事会的局面。</p>
+<p>资料显示，彭博 1976 年出生，于 1999 年加入华为，历任华为 Vodafone 系统部部长、欧洲片区副总裁、运营商 BG 全球销售部总裁及华为西欧地区部总裁等职，主导拓展欧洲市场并突破核心国家业务；2015 年任欧洲区域总裁期间实现手机业务收入增长 5 倍，并在意大利、西班牙等市场取得领先份额；2018 年任华为公司董事会成员，2021 年调任公共关系体系及供应体系工作。（来源：快科技）</p>
+<h1>短剧也要做防沉迷了！红果短剧上线休息提醒、睡眠提醒机制</h1>
+<p>近日，红果短剧上线防沉迷「休息提醒」和「睡眠提醒」两项机制。用户看剧超过一定时长，或在深夜时段打开红果短剧时，可能会在推荐页刷到一条特别的视频：熟悉的短剧角色对着镜头，提醒用户放下手机，休息一下。其中「休息提醒」在用户看剧超过一定时长后触发，「睡眠提醒」则面向深夜时段仍在看剧的用户。目前，提醒机制正逐步覆盖更多用户。据了解，红果短剧后续还将上线「时间管理」功能，由用户自行设定休息提醒的间隔和睡眠提醒的时间。</p>
+<p>据第三方数据机构统计，2026 年 8 月，在中国月度使用时长排名前 50 的应用中，字节系产品总时长份额达到 41.8%。其中，红果短剧约 125 分钟/天，抖音约 112—120 分钟/天。中国网络视听协会数据显示，2026 年二季度，国内共上线微短剧 23.9 万部，其中 AI 剧 15.3 万部，占比 64%，二季度该占比超过 95%。</p>
+<p>而进入 2026 年上半年，国内 AI 剧漫剧用户规模预计迅速突破 6 亿，较此前预估的 2.8 亿实现了超预期的翻倍增长。（来源：快科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ee/41/ee411d77d5be4a3361794b14ce4dfeae.png"></p>
+<h1><strong>字节跳动 Seedance 2.5 4K 发布：AI 生成视频跟真人没啥区别了</strong></h1>
+<p>今天，火山引擎正式发布 Seedance 2.5 4K。通过专项训练，Seedance 2.5 4K 更充分地学习了人物表情、细微动作与画面细节，是 Seedance 2.5 这一代中最强的模型。</p>
+<p>官方介绍称，Seedance 2.5 4K 让画面中的纹理、轮廓与细节得到更充分的呈现，整体画面更清晰。再加上 10-bit 色深带来的丰富色彩层次与平滑的渐变过渡，画面质感更能胜任大荧幕。</p>
+<p>在影视客户的文戏测试中，4K 版本对人物细微反应的呈现更充分，使得观众更容易读到台词之外的情绪，人物的表演也更有层次、更生动。</p>
+<p>而且 Seedance 2.5 4K 支持 Draft（样片）模式，终端用户可先用 480P 样片快速验证分镜、反复打磨镜头，确定满意的效果后再生成 4K 正片。</p>
+<p>在该模式下，480P 以更优成本给足创意探索空间，4K 负责呈现极致的视觉效果。目前 4K 版本没有面向普通用户全面放开，采取定向邀请模式，优先给到全球 20 家影视工作室和导演，用来尝试电视剧、电影镜头的前期制作。（来源：快科技）</p>
+<h1><strong>谷歌推出 Agent Compute Engine，为每个 AI Agent 提供独立计算环境</strong></h1>
+<p>谷歌公布 Agent Compute Engine（ACE），一项专门为 AI Agent 设计的云计算服务。</p>
+<p>与传统云服务器不同，ACE 可以为每个 Agent 分配独立的微型虚拟机，使其在隔离环境中运行代码、操作浏览器和调用外部工具。这套系统还针对 Agent 的运行方式进行了优化。</p>
+<p>例如，当 Agent 正在等待模型推理结果或用户确认时，系统可以暂停其计算环境，释放部分资源；当任务需要继续执行时，再快速恢复此前的运行状态。</p>
+<p>谷歌表示，在一项涉及 20 万个 Agent 的测试中，相关开源运行时实现了低于 500 毫秒的暂停与恢复延迟。</p>
+<p>ACE 目前已经用于支持 Gemini 的部分内部任务。谷歌计划在未来几个月向外部开发者开放预览。（来源：谷歌）</p>
+<h1><strong>月之暗面发布 Kimi K3.1 Pro：3 万亿级参数，新增 3D 创作能力</strong></h1>
+<p>月之暗面正式发布 Kimi K3.1 系列首款模型 K3.1 Pro，同时推出高速版本 K3.1 Pro Highspeed。</p>
+<p>这是 Kimi 目前能力最强的 3 万亿级参数模型，支持最高 100 万 Token 上下文。高速版在保持相同模型能力的前提下，输出速度提升约 2—3 倍。</p>
+<p>新模型重点强化了编程、长程 Agent、3D 创作和金融研究能力。</p>
+<p>K3.1 Pro 可以根据文字描述、草图或参考图片，推断物体形状和空间关系，并通过编写 Blender、CAD 等专业工具的脚本生成 3D 模型。</p>
+<p>Kimi 网页端和 App 也同步上线了 3D Make 功能，用户可以在线预览、编辑生成的 3D 模型，并将其下载用于 3D 打印。</p>
+<p>根据月之暗面公布的数据，K3.1 Pro 在 Terminal-Bench 4.0 上取得 65.7% 的成绩，高于 GPT-6 Astra 的 58.2%，接近 Claude Opus 5.5 的 66.4%。</p>
+<p>模型已经上线 Kimi App、Kimi Work、Kimi Code 和 API，完整模型权重计划于 11 月 4 日前开放。</p>
+<p>（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/00/2f/002f5cc09be5f5219b31b2b862268f4a.png"></p>
+<h1>复古游戏模拟器 Delta 2.0 上线：苹果 iPhone Duo 变身「掌上双屏游戏机」</h1>
+<p>科技媒体 9to5Mac 昨日（10 月 22 日）发布博文，报道称复古游戏模拟器 Delta 更新至 2.0 版本，<strong>在适配苹果首款折叠<strong><em><em>iPhone Duo</em></em></strong>之外，在界面上融入了液态玻璃（Liquid Glass）设计。</strong></p>
+<p>在游戏体验方面，Delta 针对 iPhone Duo 的多种使用姿势，设计了专属虚拟手柄皮肤，其中最值得关注的是任天堂 DS 布局。应用可充分利用内屏尺寸，在竖向「书本模式」下跨越折叠铰链，把上半屏作为游戏画面、下半屏作为触控操作区，还原真实 DS 的双屏体验。IT 之家附上相关图片如下：</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/27/ed/27edce301fe42f15fa13868b1cd4d21f.png"></p>
+<p>在横屏分屏场景中，Delta 也做了一个巧妙设计。通常 iPhone Duo 的分屏会将两个应用各限制在约一半屏幕内，但 Delta 把虚拟 DS 的下半屏以自定义键盘视图呈现，让操作区可横跨整个屏幕宽度，甚至覆盖分屏另一侧的视频应用。这意味着用户可以一边看视频，一边在下方完整操作游戏。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/1f/a0/1fa0b48cf6484f5072c822d3e01275b3.png"></p>
+<p>在适配 iPhone Duo 之外，Delta 2.0 还兼容支持 Sega Genesis ROM，改进了游戏库导航，并更新音频设置，允许游戏声音与正在播放的音乐或播客混合输出。高级版可通过 App Store 内购订阅解锁，现已面向全球推出。（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/57/bb/57bbf9c3f817a07e16fd877ffa071b13.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道]]></title>
+            <link>https://www.geekpark.net/news/372767</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/372767</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:18 GMT</pubDate>
+            <description><![CDATA[SpaceX 据报洽谈接入美国至少 8 万座基站，准备建立全国性移动通信网络；曝第二代 iPhoneDuo 配备面容 ID；比尔 · 盖茨：人们要为 AI 带来的二十年颠覆性变革做好准备]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c6/78/c6786e73fae593ac2e300a247caee940.png"></p>
+<h1>DeepSeek 新一轮融资筹得约 1000 亿</h1>
+<p>10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。</p>
+<p>截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属实。</p>
+<p>消息人士透露，本轮募资目标最初设定为 500 亿元，此后经多轮上调至约 1000 亿元，目前尚未官宣，最终金额仍未完全确定。</p>
+<p>这笔资金将继续用于模型训练、算力建设和人才招募，以支撑 DeepSeek 参与全球竞争。也有部分消息人士判断，本轮融资将为公司筹备中的科创板 IPO 铺平道路。（来源：上海证券报）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e0/be/e0bedbc389fa2ec06097ea20cc17d0e8.png"></p>
+<h1><strong>SpaceX 据报洽谈接入美国至少 8 万座基站，准备建立全国性移动通信网络</strong></h1>
+<p>据彭博社 10 月 22 日报道，SpaceX 正在与美国移动通信基础设施企业洽谈，希望获得至少 8 万座地面通信站点的使用权。</p>
+<p>这项计划可能帮助 SpaceX 建立覆盖美国全国的移动通信网络，进一步拓展 Starlink 的业务范围。</p>
+<p>过去，Starlink 主要通过卫星提供宽带互联网服务，并逐步发展卫星直连手机业务。如果 SpaceX 能够获得大量地面通信站点的使用权，就有机会将卫星通信与传统地面移动网络结合。</p>
+<p>目前相关合作仍处于谈判阶段，尚未公布最终协议。（来源：彭博社）</p>
+<h1>Anthropic 冲刺史上规模最大 IPO</h1>
+<p>10 月 22 日，据财联社援引知情人士消息，Anthropic 最快将于当地时间本周五向美国 SEC 公开提交 S-1 招股说明书，这是这家 AI 公司冲刺史上规模最大 IPO 的核心程序性节点。</p>
+<p>早在今年 6 月，Anthropic 就已秘密提交 IPO 草案，此前一个月完成的 650 亿美元 H 轮融资，也为上市奠定了资本基础。该轮融资投后估值达 9650 亿美元，由 Altimeter Capital、Dragoneer、Greenoaks 和红杉资本领投。Anthropic 的估值也超越 OpenAI，后者在今年 3 月的投后估值为 8520 亿美元。</p>
+<p>很长一段时间里，华尔街主流机构的乐观预期是，Anthropic 有望以 2 万亿美元估值上市，募资规模最高可达 1000 亿美元，直接刷新今年 6 月 SpaceX 创下的 IPO 纪录。SpaceX 上市时估值约 1.77 万亿美元，募资约 857 亿美元。（来源：界面新闻）</p>
+<h1>腾讯客服称微信目前已适配 iPhone Duo，后续还会推出相关更新并持续提升使用体验</h1>
+<p>10 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 已于 10 月 16 日晚 8 点开启预购，搭载 A20 Pro 处理器，国行定价 15,999 元起。</p>
+<p>关于微信的适配情况一直是大家重点关心的问题，腾讯客服表示：</p>
+<blockquote>微信目前已经适配苹果折叠屏手机，您可以正常下载使用微信。同时微信团队正在积极推进对苹果可折叠设备的适配优化，后续会推出相关更新并持续提升使用体验。请您放心使用当前版本。</blockquote>
+<p>另外，微信输入法也已更新 4.0.0 版本，宣布全面适配 iPhone Duo。（来源：IT 之家）</p>
+<h1>特斯拉三季度净利润大跌 43%，交付量降至 48.65 万辆</h1>
+<p>10 月 22 日消息，特斯拉于当地时间周三美股盘后发布 2026 年第三季度财报。数据显示，公司当季营收为 280.46 亿美元，与上年同期的 280.95 亿美元基本持平；GAAP 净利润为 7.87 亿美元，同比下降 43%。</p>
+<p>按非 GAAP 口径计算，特斯拉三季度净利润为 16.97 亿美元，同比下降 4%；调整后每股收益为 0.48 美元，同比下降 4%。</p>
+<p>盈利能力方面，特斯拉三季度营业利润为 7.18 亿美元，同比大幅下降 56%，营业利润率由上年同期的 5.8% 降至 2.6%。运营支出同比增长 39% 至 47.76 亿美元，主要受到超级智能及其他研发项目、股权激励费用和一般行政开支增加的影响。值得一提的是，公司整体毛利率同比提升 1.6 个百分点至 19.6%。</p>
+<p>分业务来看，汽车业务营收为 205.60 亿美元，同比下降 3%；能源生产与储能业务营收为 28.81 亿美元，同比下降 16%，部分受到关税相关客户退款影响；服务及其他业务营收则同比增长 33% 至 46.05 亿美元。</p>
+<p>交付数据方面，三季度特斯拉汽车交付量为 486,532 辆，同比下降 2%；产量为 464,391 辆，同比增长 4%。储能产品部署量达到 13.7GWh，同比增长 10%；完全自动驾驶（FSD）活跃订阅量达到 174 万，同比增长 67%。</p>
+<p>特斯拉表示，将继续推进 Cybercab、Optimus 人形机器人及储能业务扩张，并计划于 2026 年底前将超级智能训练算力提升至 400 兆瓦。公司预计，未来硬件业务利润将逐步获得超级智能、软件及车队运营业务利润增长的支持。（来源：TechWeb）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/11/f8/11f82fd6769ea8fdb568ef6d26031f02.png"></p>
+<h1>曝第二代 iPhoneDuo 配备面容 ID</h1>
+<p>苹果首款折叠屏手机 iPhone Duo 没有配备 Face ID 面容解锁，成为新机备受讨论的设计遗憾之一。</p>
+<p>目前，iPhone Duo 采用集成在侧边按键上的 Touch ID 指纹识别。</p>
+<p>对于习惯使用面容解锁的用户来说，这一变化多少有些不适应。影视飓风创始人 Tim 在 iPhone Duo 深度评测中也直言，没有面容解锁是他认为这款手机最大的遗憾。</p>
+<p>如今，苹果似乎正准备弥补这一短板。</p>
+<p>据知名科技记者马克·古尔曼在最新一期《Power On》播客中透露，苹果正在测试新一代 iPhone Duo 原型机，其中已经包含屏下 Face ID 技术。</p>
+<p>据悉，相关方案计划将 Face ID 硬件隐藏在外屏下方，在尽可能保持屏幕完整性的同时，实现面容识别功能。</p>
+<p>不过，这项技术目前仍处于原型机测试阶段，苹果尚未最终确定是否会在正式量产机型上采用。</p>
+<p>初代 iPhone Duo 之所以没有配备 Face ID，与折叠屏手机特殊的内部结构有一定关系。</p>
+<p>折叠屏手机需要在有限的机身空间内同时容纳铰链、双屏、电池等组件，内部堆叠更加紧凑，也给 Face ID 所需的传感器布局带来了挑战。</p>
+<p>最终，苹果选择将 Touch ID 集成到侧边按键中，以兼顾机身设计与解锁体验。</p>
+<p>如果屏下 Face ID 最终落地，iPhone Duo 2 有望补齐初代机型在解锁体验上的短板，弥补不少用户眼中的最大遗憾。（来源：快科技）</p>
+<h1>宇树十周年王兴兴呼吁相信 AI，预判物理 AI「GPT 时刻」临近</h1>
+<p>10 月 22 日，宇树科技在杭州举办世界物理 AI 大会，恰逢公司创立十周年。创始人王兴兴在演讲中重点谈及 AI，坦言自己过往对 AI 的相信程度不足，呼吁业界重视 AI 潜力，并压缩了具身智能拐点的预期窗口，判断物理 AI 的「GPT 时刻」大概率在 1 至 3 年内到来，家用指令式做家务机器人最快明年有望落地。</p>
+<p>王兴兴表示，宇树不会和头部大厂正面竞争基础大模型，将采用自研 + 外部合作路线。现场演示了 GPT-6 直连机器人、零训练完成绘画、落子等任务；他认为导航规划等问题已基本解决，当前核心瓶颈是模型输出和机器人传感器、执行器误差的对齐。在战略上，宇树将硬件大规模制造能力放在首位，目标冲击年产千万台，同时搭建 AI 自进化闭环。</p>
+<p>产品端，G1 人形机器人已是全球同型号出货量最高机型，H2-X 机器人在力量、续航、动作能力上持续升级。本届大会展区内机器人密集，导览、巡逻、教育是当前主要落地场景。大会还启动世界物理 AI 大赛，拿出数千万奖金扶持全球开发者，为机器人行业储备人才。现场读者留言则集中期待家务、养老陪护类机器人尽快落地。（来源：极客公园）</p>
+<p>相关报道：<a href="https://www.geekpark.net/news/372759">宇树 10 周年，王兴兴：我劝你相信 AI</a></p>
+<h1>比尔 · 盖茨：人们要为 AI 带来的二十年颠覆性变革做好准备</h1>
+<p>10 月 22 日消息，微软联合创始人、亿万富翁慈善家比尔 · 盖茨今日接受外媒 The Verge 采访。他表示，人们要为 AI 带来的二十年颠覆性变革做好准备，这段时期可能会非常痛苦，甚至会将社会分裂成两派：一派乐于接受前沿科技，另一派拒绝。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/9e/d8/9ed8e1d3f715e3114d5e489f6486a484.jpg"></p>
+<p>比尔 · 盖茨今年 8 月发表一篇文章，认为人们向 AI 时代过渡时，将经历一段动荡时期。此后他将 AI 称为「人类有史以来接触过最危险的东西」，并认为 AI 让核武器相形见绌。</p>
+<p>盖茨表示，他并非 AI 悲观主义者。他认为 AI 过去一年的进步令人惊叹，从编写代码和发现网络漏洞的能力，到生物学推理能力，再到颠覆就业市场的能力，无不体现着这一点。如今人类拥有的强大力量，意味着上述所有事情都将成为现实，社会必须做好准备。</p>
+<p>谈到刚刚说的「二十年动荡时期」时盖茨认为，那时候物资短缺的情况将会减少，人们必须找到掌控局面的方法。这期间将会有输家和赢家，也会有很多动荡，人们必须挺过这段时间才能迎来繁荣时代。</p>
+<p>在那段时间，人类将拥有可以建造房屋、种植食物、进行手术的机器人，绝大多数商品和服务都不再需要人类劳动力。因此人们必须思考自己如何度过这 20 年，并思考哲学、社会行为等深刻问题。</p>
+<p>当然，盖茨这番话并不是说二十年后世界就一定不太平，他认为这个时间可能早几年或晚几年。并且突破类的成就谁也说不准，例如人形机器人能力进步，有的人说两三年就行，有的人则说八年左右才能实现。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/54/17/541703cd1c1b8d686b3192323e68a4cd.png"></p>
+<h1><strong>1Password 推出 AI Agent 登录方案：智能体可以操作账号，但看不到密码</strong></h1>
+<p>密码管理服务商 1Password 推出 1Password for Agents，允许 AI Agent 在不直接读取用户密码的情况下，登录需要身份验证的网站和服务。</p>
+<p>根据产品介绍，当 AI Agent 需要登录某个账号时，1Password 会向用户的设备发送授权请求。用户确认后，系统通过安全机制完成登录，Agent 不需要获取或保存账号密码。</p>
+<p>这套方案面向越来越多能够自主操作浏览器和应用的 AI 产品，包括 ChatGPT Work、Dots、Claude Duet 和 Meta Muse 等。</p>
+<p>与直接向 AI 提供账号密码相比，这种方式能够减少凭据暴露风险，并让用户保留对登录操作的控制权。（来源：The Verge）</p>
+<h1>王腾官宣今日宜休第二款产品智能温控系统，将于 10 月 29 日亮相</h1>
+<p>继智能戒指之后，王腾创办的今日宜休又公布了一款睡眠科技新品。日前，王腾通过社交平台官宣，ISHO iFlow 智能温控系统将于 10 月 29 日召开的今日宜休 AI 睡眠科技生态产品发布会上正式亮相。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/7e/c0/7ec0d5dfd63bb74cb9db671813db9861.jpg"></p>
+<p>根据官宣信息，ISHO iFlow 是今日宜休公布的第二款产品，主打智能温控，面向深睡和精力恢复需求。品牌方以「从无感监测到睡眠干预」介绍其产品方向，并将其作为 AI 睡眠科技生态的重要组成部分。不过，此次预告尚未披露产品的具体形态、温控方式、售价及开售时间。</p>
+<p>从已公布的信息看，今日宜休的产品布局正从穿戴设备延伸至睡眠环境。此前亮相的 ISHO Ring 智能戒指与此次公布的 iFlow 智能温控系统，将如何协同，也是发布会的一大看点。</p>
+<p>今日宜休规划推出覆盖智能穿戴、卧室睡眠干预两大品类的硬件产品，通过穿戴设备感知用户身体状态，由卧室睡眠干预硬件调整睡眠环境，再结合 AI 与用户反馈，提供个性化建议及协同策略，配套 App 作为统一入口。（来源：极目新闻）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8c/06/8c06bfddf0c465d19560a2ecb94dab70.png"></p>
+<h1>利用酒店 Wi-Fi 发送约 48 万条钓鱼邮件，日本警方在酒店客房冰箱后发现隐藏电脑</h1>
+<p>10 月 22 日消息，据 TomsHardware 今日报道，日本兵库县警方 10 月 15 日逮捕了一对外国籍夫妇。两人涉嫌利用酒店 Wi-Fi 发送钓鱼邮件，并被指控盗用他人信用卡。</p>
+<p>警方在涉案电脑中发现约 48 万条钓鱼邮件发送记录，以及约 240 万个电子邮件地址。</p>
+<p>报道称，涉案男子于 2025 年 5 月 15 日涉嫌伪装成酒店住客，将一台电脑藏在神户市一家酒店客房的冰箱后方，并将其连接至酒店 Wi-Fi，然后冒充信用卡公司发送钓鱼邮件，引导收件人访问钓鱼网站，从而获取其信用卡信息。</p>
+<p>警方认为，邮件可能由其他人员远程操控涉案电脑发送。由于电脑使用酒店网络，相关邮件的网络信息指向酒店。直到有收件人联系酒店反映可疑邮件，工作人员才发现藏在冰箱后方的设备，并向警方报案。警方目前仍在调查这对夫妇是否独立实施相关行为，或是受其他人员指使。</p>
+<p>日媒报道显示，警方尚未公布二人对相关指控的具体回应，并怀疑可能还有其他人员参与其中。目前，调查重点包括涉案电脑的远程操控者身份、信用卡信息来源，以及这对夫妇是否与更大规模的诈骗团伙存在联系。（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/c6/4d/c64d09be56ca00490b57a369032ae9de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨]]></title>
+            <link>https://www.geekpark.net/news/372711</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/372711</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:19 GMT</pubDate>
+            <description><![CDATA[《侠盗猎车6》发售或致美国150万人缺勤]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/57/1c/571c62ce4cbbe39a27c100fea865fd08.png"></p>
+<h2>24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI</h2>
+<p>10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的「全天候主动型 AI 助理」大战。</p>
+<p>技能方面，该应用会每天整理跨应用的重要事项、主动提醒需要处理的问题，并在用户离开后继续在后台完成被委托的任务。</p>
+<p>Claude Duet 基于 Claude Opus 5.5 构建，提供 iOS、Android 独立应用及 claude.ai 网页版。首批面向美国 Pro 和 Max 订阅用户开放候补名单；预览阶段与 Claude 其他功能共享套餐用量限制。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/aa/bb/aabb16c5bb9eed7c47e0f42799f87656.png"></p>
+<h2>Meta 2026 财年第三财季归母净利润 98.6 亿美元，同比增长 264%</h2>
+<p>10 月 22 日消息，Meta 发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）及本财年前三财季（2026 年 1 月～2026 年 9 月）报告。</p>
+<p>2026 财年第三季度实现营收 646.01 亿美元，同比增长 26%；归母净利润 98.6 亿美元，同比增长 264%；稀释每股收益 3.83 美元，同比增长 265%。</p>
+<p>核心业务 Family of Apps（Facebook、Instagram 等）营收达到 641.58 亿美元，运营利润 171.17 亿美元；Reality Labs（VR / AR 业务）营收 4.43 亿美元，运营亏损 41.29 亿美元，亏损同比收窄。（来源：IT 之家）</p>
+<h2>微软员工总数十年来首次下降，截至 6 月底雇员约 22.3 万人</h2>
+<p>10 月 22 日消息，微软已经在多个业务部门持续裁员一段时间，如今，一份年度报告披露了确切数据。</p>
+<p>该公司最新年度申报文件显示，截至 2026 年 6 月 30 日，微软员工规模约为 22.3 万人，相比上一年的 22.8 万人有所减少，这是十年来微软员工总数首次出现下降。数据来自微软 2026 财年的 10-K 报表，文件写明公司拥有「约 22.3 万名全职员工」，其中美国本土 12.1 万人，海外 10.2 万人。</p>
+<p>报告显示，产品研发部门受影响最大，员工人数从 2024 年峰值 8.1 万人降至 7.7 万人，连续第二年人员缩减；销售与营销岗位各减少 1000 个，现有 4.3 万人；综合行政岗位缩减至 1.4 万人。虽然员工总数下降，但微软 2026 财年营收上涨 18%，达到 3318 亿美元；仅 6 月所在季度，资本支出就达到 410 亿美元，公司正持续向人工智能数据中心投入大量资金。（来源：网易）</p>
+<h2>黄仁勋 GTC 柏林反驳 AI 终结软件论：工具公司将迎来更多使用者</h2>
+<p>10 月 21 日，英伟达创始人兼 CEO 黄仁勋在 GTC 柏林大会上表示，AI 的发展将增加软件工具的使用者，工具公司也将向 AI 公司和智能体公司转型。</p>
+<p>黄仁勋在演讲中提到，有人认为 AI 的到来意味着软件和工具公司的终结，他对此持相反看法。他认为，随着 AI 智能体承担更多工作，过去开发的软件工具将迎来更多使用者。</p>
+<p>支撑这一判断的原因是，AI 要完成实际工作，仍然需要调用专业工具。黄仁勋以科学家和工程师的工作为例说明，即使具备很强的智能，也需要实验室、模拟器和求解工具。AI 智能体同样需要借助工具开展实验、仿真和数据处理。</p>
+<p>他表示，编程是智能体较早落地的领域，编译器或 Python 环境就能支持其中一些任务。随着智能体进入更多行业，需要调用的工具也将更加丰富，包括流体力学、量子化学和工业设计软件。</p>
+<p>按照黄仁勋的判断，工具公司未来将同时提供软件，以及经过专门优化、擅长使用这些软件的智能体。（来源：凤凰网）</p>
+<h2><strong>沃尔玛开放 AI Agent 购物接口，第三方助手可直接搜索商品并完成交易</strong></h2>
+<p>10 月 21 日，沃尔玛宣布推出 Walmart Agent Gateway，允许第三方 AI Agent 直接连接沃尔玛及 Sam』s Club 的购物系统。 通过这套接口，ChatGPT、Gemini、Muse 等 AI 助手可以在获得相应授权后，搜索商品并帮助用户完成购物。 沃尔玛还宣布将于下个月推出 Agent Profiles。用户可以为不同的 AI Agent 分别设置权限、消费额度，以及是否需要在每次购买前获得确认。 系统还会将 AI Agent 的购物记录与用户本人操作的订单区分开来，并允许用户随时撤销。（来源：路透）</p>
+<h2><strong>英伟达推出模块化 AI 数据中心方案，宣称最快 14 天完成现场部署</strong></h2>
+<p>10 月 21 日，英伟达在 GTC 柏林大会上推出 DSX POD，一套基于 Vera Rubin 平台的模块化 AI 数据中心参考设计。 与传统数据中心建设方式不同，DSX POD 将计算、网络、供电和液冷等系统预先集成在模块化容器中。 相关设备在工厂完成组装、布线和测试后，再整体运输至数据中心现场。 英伟达表示，在场地电力、冷却和网络等配套条件已经准备好的情况下，这种方式可以将现场部署周期从约六个月缩短至最快 14 天。 目前，包括戴尔、HPE、联想、施耐德电气和 Vertiv 在内的多家企业已经加入合作生态。 相关模块化 AI 数据中心预计于 2027 年初开始在全球交付。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/bb/5e/bb5e15920dfc1ad7ed267a0c6153cd32.png"></p>
+<h2>推动 SpaceX 与特斯拉合并，马斯克财富有望增加 1100 亿美元</h2>
+<p>10 月 22 日消息，埃隆 · 马斯克（Elon Musk）在昨日 SpaceX 财报电话会议上引发舆论关注，他证实 SpaceX 与特斯拉公司已各自成立特别委员会，研究两家企业合并的可能性。</p>
+<p>马斯克表示：「我们差不多正处在超级智能奇点阶段，双方合作能收获巨大价值。」</p>
+<p>如果合并落地，马斯克本人也可能获得可观收益。彭博亿万富豪指数测算，若合并交易达成，特斯拉部分股份的归属期限将会提前，可为马斯克的财富增加逾 1100 亿美元，这批股份原本要到 2028 年才完成归属。</p>
+<p>同时，根据交易中特斯拉的估值，他 2025 年的薪酬方案还能解锁更多价值数十亿美元的权益，而无需达成原本要求的经营目标才能拿到这笔报酬。</p>
+<p>受合并谈判消息以及 SpaceX 亮眼的季度财报推动，两家公司股价上涨，马斯克的个人财富在周三暴涨超 600 亿美元。（来源：搜狐）</p>
+<h2>EA 启动大规模重组：裁员 400 人《模拟人生》新项目被搁置</h2>
+<p>美国游戏发行商 EA（Electronic Arts）宣布新一轮业务重组计划，公司将裁减约 400 个工作岗位，约占全球员工总数的 3%。这一调整不仅涉及此前备受关注的 BioWare 关闭事件，还波及《模拟人生》《Skate》等多个知名游戏项目。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ec/8d/ec8dbc693b28661f52d1e3494f19f1d5.png"></p>
+<p>据曝光的内部备忘录显示，本轮裁员规模约为 400 人，其中大约 50 个岗位来自已经被取消的新《质量效应》项目开发团队。EA 管理层表示，此次决定是在对公司业务进行数月评估后作出的，希望将资源集中投入到更具战略意义的项目之中。</p>
+<p>《模拟人生》系列同样受到影响。EA 已暂停代号为「Project Lotus」的开发计划，并将更多资源转移至另一项名为「Project Evergreen」的项目。尽管官方文件使用了「暂停」措辞，但多家媒体报道称，该项目实际上已经被取消。（来源：cnbeta）</p>
+<h2>经济学家估算《GTA6/侠盗猎车 6》发售或致美国 150 万人缺勤</h2>
+<p>经济学家 José García Montalvo 估算，《GTA6/侠盗猎车 6》发售当天可能有多达 150 万名美国员工为体验游戏而缺勤，生产力下降造成的潜在损失约为 10 亿美元。这项估算以 2026 年 11 月 19 日发售为前提，影响可能更多集中在 18 至 30 岁男性和科技行业。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/29/e2/29e2f36a5316c1debbb71b6cd3888890.png"></p>
+<p>作为参照，《侠盗猎车手 5》于 2013 年推出后，美国部分城市 18 至 35 岁员工中曾有多达 6% 请假，但《GTA6/侠盗猎车 6》的实际影响仍难以准确预测。加州 Burger Motorsports 已告知客户，由于部分员工为发售期安排休假，自 11 月 19 日起，其订单处理和支持速度可能放缓。</p>
+<p>Newzoo 分析师还预测，《GTA6/侠盗猎车 6》首周销量至少可达 3700 万份，全球收入可达 45 亿美元。（来源：3DMGame）</p>
+<h2>亚特兰大拟禁止「机器警察」上岗，市议会一致支持限制武装机器人</h2>
+<p>美国佐治亚州亚特兰大市正试图提前阻止现实版「机械战警」出现。当地市议会近日一致通过一项名为「HALT 法案」（Human Authority over Lethal Technology，致命技术的人类控制权法案）的提案，计划禁止市政府采购或使用具备武装能力的自主机器人系统，确保涉及致命武力的决定始终由人类作出。</p>
+<p>该法案由市议员莉莉安娜·巴赫蒂亚里提出。根据法案内容，亚特兰大市政府员工、承包商以及警察部门将被禁止采购、接收或部署配备武器的自主系统、无人机以及远程操控机器人。法案涵盖武装无人机、机器狗以及类似军事用途的机器人等设备，但用于拆除爆炸物的专用机器人不在限制范围之内。</p>
+<p>巴赫蒂亚里表示，这项立法的目的并非反对科技发展，而是确保执法部门利用技术协助警员工作，而不是让机器取代警察作出关键决策。她认为，在致命武力使用问题上，必须始终保持人为控制，不能将相关决定交给人工智能系统。</p>
+<p>推动这项法案的一个重要原因，是美国国防部近期宣布成立「自主作战司令部」（AutoWarCom），旨在加速自主和半自主作战系统的研发与部署。巴赫蒂亚里担心，原本用于军事领域的自主作战技术未来可能逐渐进入地方执法机构，因此有必要提前建立法律边界。（来源：新浪财经）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/55/63/5563f22bda34191228fa5875d4bae963.png"></p>
+<h2>苹果 iPhone Duo 将于今年晚些时候支持「便捷访问」单手模式</h2>
+<p>苹果首款折叠屏手机 iPhone Duo 将在 10 月 23 日发售。《连线》杂志报道称，苹果计划于今年晚些时候，为这款手机推出「便捷访问」单手模式。</p>
+<p>据报道，苹果计划为 iPhone Duo 加入新版「便捷访问」功能，让手比较小的用户只需要轻点屏幕，就能更轻松地触及屏幕左侧 / 右侧边缘。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/0f/47/0f478bc5a9e20939dc96bb496d293e32.png"></p>
+<p>「便捷访问」是苹果 iOS 系统的一项功能，最早于 2014 年随 iPhone 6、iPhone 6 Plus 一同推出，帮助用户单手操作手机时，更轻松地触及屏幕顶部区域。</p>
+<p>在配备主屏幕按钮的 iPhone 上，只需要轻轻地轻点两下主屏幕按钮就能打开「便捷访问」；在配备面容 ID 的 iPhone 上，只需在屏幕底部边缘向下轻扫就能打开。（来源：IT 之家）</p>
+<h2><strong>Recursive 发布 Flint 编程模型：AI 参与几乎全部研发流程，40B 模型可在本地运行</strong></h2>
+<p>10 月 21 日，由前 Salesforce 首席科学家 Richard Socher 创办的 Recursive⁠ 正式发布首款开放权重模型 Flint。 Flint 是一款面向编程 Agent 的混合专家模型，拥有约 398 亿总参数，但每个 Token 只激活约 25 亿参数。 模型主要面向代码库理解、Bug 修复、功能开发、测试编写和多轮工具调用等任务。 Recursive 表示，Flint 的开发过程大量依赖公司内部的自动化 AI 研究系统 Eureka Machine。 从训练方法、模型架构，到针对特定芯片优化的代码，AI 都参与了研发和改进。 公司称，一个规模很小的研究团队，在不到四个月的时间里完成了模型开发。 Flint 已经以 Apache 2.0 许可证开放权重。公司提供针对 NVIDIA 和 Apple Silicon 的量化版本，以支持不同硬件环境下的本地推理。 在 Recursive 公布的测试中，Flint 在 Terminal-Bench 2.1 上取得 54.9% 的成绩。不过，不同模型的测试设置存在差异，相关性能优势仍需要独立验证。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/66/b0/66b05219ad52eb08c32f45cb61fe50c3.png"></p>
+<h2>美航空航天局公布月球车最新研发进展及任务规划</h2>
+<p>美国航空航天局当地时间 20 日公布了其月球车的最新研发进展及任务规划。用于探测月球水资源的「挥发物调查极地探索车」（VIPER）计划于 2027 年运抵月球南极地区开展探测，载人月球地形车则计划于 2028 年前运抵月球南极地区，为未来载人探月和月球基地建设提供支持。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/1f/a7/1fa70bfd1a780da2a0d839ba424365ff.png"></p>
+<p>美航空航天局表示，VIPER 月球车目前处于休斯敦的约翰逊航天中心，已完成组装，正在进行最终测试。该月球车计划于 2027 年由美国蓝色起源公司研制的着陆器运送至月球表面，收集有关月球南极地区的温度、光照条件和地形等数据。这些数据有助于科学家进一步了解月球水资源的来源与分布，评估月球资源未来用于月球基地建设的潜力。</p>
+<p>此外，美航空航天局授予美航天实验室公司和美「月球前哨」公司相关合同，推进首批载人月球地形车研发。两家公司计划于 2027 年年底前向美航空航天局交付载人月球地形车，并计划于 2028 年由蓝色起源公司送往月球南极地区。</p>
+<p>据介绍，载人月球地形车可由地面人员远程操控，在宇航员抵达前开展月面测绘，帮助科学家绘制高精度地图，并收集光照、导航等数据。根据设计指标，车辆每天最多可行驶约 6 公里，单次充电后的行驶里程最多可达 10 公里，并可运输最多约 80 公斤月球样本和工具。未来执行「阿耳忒弥斯」载人登月任务时，宇航员将驾驶月球车探索月球南极地区，采集地质样本并带回地球。（来源：央视）</p>
+<p>&nbsp;</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/10/b5/10b5293e24ebce442784235e60a5b686.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具]]></title>
+            <link>https://www.geekpark.net/news/372650</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/372650</guid>
+            <pubDate>Sat, 31 Oct 2026 16:59:20 GMT</pubDate>
+            <description><![CDATA[DeepSeek 开源大规模云服务推理框架；杨立昆吐槽特斯拉飞行汽车不实用，马斯克回怼；《侠盗猎车手 6》全球预购量突破 600 万份。]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/fd/70/fd70ca324a3f10e86a9d0c331902bd24.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">DeepSeek 开源大规模云服务推理框架</span></h2>
+<p style="text-align: left;">10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。</p>
+<p style="text-align: left;">DeepSeek 称，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，DeepSeek 新模型的推理代码及后续优化也将在此持续更新。</p>
+<p style="text-align: left;">券有商分析师认为，开源模型与 Agent 工具链的持续完善，有望降低应用开发成本，推动 AICoding 向游戏开发、3D 内容制作、企业软件及自动化工作流等场景扩展，具备开发者入口和应用生态的平台有望优先受益。（来源：证券时报）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/d3/66/d366e35d23be3efe0ebe8f4854e0a581.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">上线 40 天，Muse 下载量突破 1000 万</span></h2>
+<p style="text-align: left;">市场情报机构 Sensor Tower 的最新数据显示，Meta 的人工智能助手 Muse 自 9 月推出以来，累计下载量达 1090 万次，其中美国地区下载量为 1020 万次。</p>
+<p style="text-align: left;">迄今为止仅有另外 11 款应用达成过这一上线后的里程碑，上一款实现该成绩的正是 Meta 的 Threads，时间为 2023 年 7 月。</p>
+<p style="text-align: left;">另据数据显示，Muse 的用户留存表现优于 ChatGPT、Claude、Grok 等 AI 竞品。（来源：IT之家）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">华为引望、宁德时代合作换电车型拟 2027 年上市</span></h2>
+<p style="text-align: left;">10 月 20 日，媒体报道称华为引望与宁德时代、时代电服合作正推进首批车型的开发，涉及五款新车，计划 2027 年上市。有报道表示，首款采用巧克力换电的车型为东风与华为合作的奕境品牌旗下产品。</p>
+<p style="text-align: left;">引望成立于 2024 年，承接华为原智能汽车解决方案业务，向车企提供智能驾驶、智能座舱、车控等系统及部件。</p>
+<p style="text-align: left;">而宁德时代正在通过技术合作、股权投资等方式扩大换电业务规模。赛豆科技旗下 AIVA 品牌首款量产车 AIVA ME7 将采用换电模式，宁德时代提供电池技术及充换电体系支持，具体方案还在规划中。（来源：晚点 Auto、财联社）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">曝高通将启动全球裁员</span></h2>
+<p style="text-align: left;">据路透社报道，高通 CEO 克里斯蒂亚诺·安蒙近期在一份内部备忘录中告知员工，公司将在年度员工评估后，开展以绩效为重点的全球裁员，相关通知将于 11 月开始发出。</p>
+<p style="text-align: left;">安蒙表示，此举旨在建立更强的绩效文化，并解决公司持续未能达到预期的情况。备忘录未披露裁员人数，路透社也暂时无法确定此次裁员的规模。</p>
+<p style="text-align: left;">路透社在报道中指出作为全球最大的智能手机芯片制造商之一，高通今年受到消费电子产品销售低迷的冲击，存储芯片价格飙升抑制了关键市场的需求。</p>
+<p style="text-align: left;">随着业务向快速增长的 AI 数据中心市场拓展，高通预计，2027 财年，公司芯片销售收入的大部分将来自智能手机以外的业务。（来源：凤凰网科技）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">C919 大飞机国产发动机将进入取证试飞阶段</span></h2>
+<p style="text-align: left;">日前，网友爆料称，运 20 飞行台上挂载了国产自研大飞机 C919 的国产替代发动机 CJ1000A 开始试飞了，推测应该该发动机进入了取证试飞阶段。</p>
+<p style="text-align: left;">航发科技公司上周在互动平台上回应过 CJ1000A 的进展，表示公司承制的 CJ 1000A 发动机相关零部件设计构型及工艺路线已实现初步冻结，后续不排除根据 TC Only 批次制造符合性检查开展情况、总师单位取证试验结果发生局部调整优化的可能。</p>
+<p style="text-align: left;">CJ1000A 发动机的目标是实现 C919 现有发动机 LEAP-1C 的替代，这就意味着需要在动力、经济、维护等方面看齐 LEAP-1C。</p>
+<p style="text-align: left;">报道表示：考虑到 LEAP-1C 是当前最先进的商用发动机之一，CJ1000A 的难度可想而知，所以这也是这款发动机打磨了 10 多年的原因，需要每个环节都要做到可靠稳定。明年能拿证就很乐观了，正式运营可能还要等到 28-29 年。（来源：快科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c9/49/c94958bb970cd60ae7d3bd35afc739db.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">杨立昆吐槽特斯拉飞行汽车不实用，马斯克回怼：「放屁」</span></h2>
+<p style="text-align: left;">人工智能先驱人物、AMI Labs 创始人兼董事长杨立昆（Yann LeCun）最近在 X 平台点评了特斯拉刚刚发布的「飞行汽车」Roadster，认为这款产品「完全不实用」。</p>
+<p style="text-align: left;">杨立昆表示，这辆汽车用的只是压缩空气，比冲很差（不到 50 秒）。即使假设压缩空气占整车质量的 50%，在推重比大于 1.0 的情况下，有效推力也只能维持不到 10 秒，实际上可能只有 5 秒左右。</p>
+<p style="text-align: left;">因此他表示，这辆车肯定只是一个空心的轻量化外壳，加上大型压缩空气罐。发布会很有意思，但产品完全不实用。</p>
+<p style="text-align: left;">马斯克对此回应称：「我冲着你的方向放了个屁。」</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/64/92/6492582898cfdc116275c1999c0a1946.png" height="664"></p>
+<p style="text-align: left;">而杨立昆则回怼道：「如果腹部压力足够大，放屁确实可能让你飞起来。仔细想想，你的汽车也是靠同样原理驱动的：一个压力高达 700 bar、容量 600 升、持续 3 秒、声音巨大的屁。【希望里面没有甲烷，和那些臭得要死的化合物】。」（来源：IT之家）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">《GTA 6》数字版预购突破 600 万份，销售额接近 6 亿美元</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/27/f9/27f91b42f9a58dd2524a8420be1deee6.png" height="1440"></p>
+<p style="text-align: left;">距离正式发售仍有一个多月时间，Rockstar Games 备受期待的开放世界大作《侠盗猎车手 6》（GTA 6）已经展现出惊人的市场号召力。</p>
+<p style="text-align: left;">根据市场分析机构 Sensor Tower 最新估算，截至 10 月 13 日，该游戏全球数字版预购量已突破 600 万份，预计带来约 5.94 亿美元收入，成为近年来游戏行业最受瞩目的预售产品之一。</p>
+<p style="text-align: left;">报告还显示，高价版本成为玩家购买主力。售价 100 美元的 Ultimate Edition 终极版占据绝大多数预购份额。即便单独统计这一高端版本，其销售曲线依然远高于近年来任何同类游戏产品。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">理想宣布电池保障计划：电池不自燃、碰撞不起火终身保障</span></h2>
+<p style="text-align: left;">10 月 20 日，在理想汽车 Power Day 电动技术发布会上，理想正式发布完整自研三电技术体系「连山」。</p>
+<p style="text-align: left;">同时，理想推出「连山电池保障计划」，提供双重终身保障：一是「电池不自燃终身保障」，因原厂电池质量问题导致自燃且车辆达到报废条件，补偿同等配置新车；二是「碰撞不起火终身保障」，因碰撞或底盘剐蹭导致起火且达到报废条件，补偿车损险保单额与保险实际赔付金额差额。（来源：凤凰网科技）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">马斯克股权薪酬曝光，为员工中位数 250 万倍</span></h2>
+<p style="text-align: left;">据福布斯报道，特斯拉当地时间周一向美国证券交易委员会（SEC）提交的 14A 代理声明文件显示，公司 CEO 马斯克 2025 年从特斯拉获得的薪酬总额约 1,584 亿美元（约合 1.06 万亿元人民币），其中 CEO 绩效奖励最高价值 1,323 亿美元、临时奖励价值 261 亿美元。</p>
+<p style="text-align: left;">基于超过 13 万名符合统计条件员工的数据，2025 年特斯拉非高管普通员工的薪酬中位数为 6.27 万美元（约合 42 万元人民币），该数字高于 2024 年的 5.72 万美元，但和马斯克 2025 年薪酬相比，仅为后者的 250 万分之一还不到。</p>
+<p style="text-align: left;">文件说明，马斯克在特斯拉的薪酬全部为股权形式，只有当公司达成预设业绩目标，他才能全额拿到奖励。（来源：IT之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/29/f4/29f444682bcdf933ce7f9c4adc869457.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ed/66/ed66277240fb7ca809b5c74ca8b8f42a.png" height="900"></p>
+<p style="text-align: left;">OpenAI 于上月发布了 ChatGPT Space，配套包含 Pages、Slides、Sheets 等工具。该公司当时表示，Slides 和 Sheets 会在后续推出。几周之后，OpenAI 终于在 ChatGPT 中上线了 Slides（幻灯片工具）。</p>
+<p style="text-align: left;">ChatGPT 官方账号在 X 平台发文，公布现已可用的多项 ChatGPT Slides 功能。用户现在可以让 ChatGPT 基于对话内容、上传文件或者大纲生成演示文稿，也可以直接选用多款内置模板来创建。</p>
+<p style="text-align: left;">演示文稿生成完成后，用户可以像在谷歌幻灯片（Google Slides）中一样与团队分享。被邀请的用户能够实时协同编辑文稿、修改内容并留下评论反馈。用户还可以指令 ChatGPT，根据团队反馈自动调整幻灯片。</p>
+<p style="text-align: left;">ChatGPT Slides 现已面向 Pro、Business 以及 Enterprise 套餐用户开放，Plus 用户目前无法使用该功能。（来源：IT之家）</p>
+<p>&nbsp;</p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">影翎无人机推出经典遥控器、4G 图传增强模块两款配件</span></h2>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/3f/53/3f536f047de3312374a12994ddcf7ec7.png" height="726"></p>
+<p style="text-align: left;">10 月 20 日，影翎为 A1 全景无人机推出两款全新配件，经典遥控器加上 4G 图传增强模块组合，到手售价 699 元，限时 8 折促销价 559 元。</p>
+<p style="text-align: left;">这套配件里面的经典遥控器采用双摇杆布局，和传统无人机操控手感接近。可以在固定视角、自由视角两种模式来回切换，精细调整飞行轨迹，做复杂运镜拍摄的时候，操控精度会更高。</p>
+<p style="text-align: left;">另一件重点配件是 4G 图传增强模块，内置 eSIM，不用额外插实体 SIM 卡就可以直接使用。</p>
+<p style="text-align: left;">无人机原生无线图传遇到楼房、山体遮挡，信号容易出现卡顿，这个模块会自动切换蜂窝网络补位，在城市高楼或者山谷这类复杂环境，尽可能稳住图传画面，减少卡顿黑屏问题。新品限时赠送 5GB 流量，首年免收服务费。（来源：快科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/78/9f/789f7379956d1f654aca403f90a65574.png" height="392"></p>
+<h2 style="text-align: left;"><span style="font-weight: bold;">部分用户借助 AI 清除智能电视广告及预装应用</span></h2>
+<p style="text-align: left;">根据外媒报道，近日部分开发者和普通用户开始借助 Claude Code 等 AI 工具，对智能电视中的广告和预装软件进行清理、禁用追踪功能，以减少广告干扰并改善操作流畅度。</p>
+<p style="text-align: left;">其中一个名为 CleanYourTV 的项目由开发者 Gathin T. 发起。他将父母使用的电视型号提供给 Claude Code，后者通过 Wi-Fi 连接电视，禁用了 25 个原生软件包，并生成了一个新的启动器，将原本的电视主屏幕替换为更简洁的界面。</p>
+<p style="text-align: left;">Gathin T. 随后公开了相关提示词和项目代码，并称接下来两天有数千名用户尝试在自己的设备上进行类似改造。</p>
+<p style="text-align: left;">除使用现成项目外，还有用户直接让 AI 编程智能体协助修改电视系统。X 用户 Ryan Doyle 于 10 月 17 日分享称，他向 Claude Code 提供电视产品信息并询问能否修改设备，随后按照其引导移除了广告和部分预装软件，调整了屏幕保护程序，并改善了界面响应速度。（来源：IT之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/04/7e/047e176fc179591a04f3e80cdd6d2792.png" height="392"></p>
+<p>&nbsp;</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/1e/f6/1ef685ce1bfbf93cd41139cc33d5beca.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
