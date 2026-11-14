@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>极客早知道</title>
+        <link>https://www.geekpark.net/column/74</link>
+        <description>第一时间掌握最新科技资讯</description>
+        <lastBuildDate>Sat, 14 Nov 2026 16:26:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-CN</language>
+        <item>
+            <title><![CDATA[黄仁勋宣布辞职，特朗普：库克适合接任；微信「看一看」测试短剧入口；《GTA 6》还没发售就狂卖近千万份｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/373907</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373907</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:01 GMT</pubDate>
+            <description><![CDATA[黄仁勋辞职后全球 AI 相关股票震荡，AMD 和博通逆势上涨；美国拟扩大英伟达 AI 芯片出口管制，限制中企通过海外数据中心获取算力；腾讯回应「裁员 50%」传闻：系对内部讲话的误读]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c0/c6/c0c6a3cf557e850bbf25c17c14830352.png"></p>
+<h2>黄仁勋宣布辞职，英伟达股价重挫 13%</h2>
+<header>
+<p>美国时间 11 月 12 日美股开盘前，英伟达官方宣布，黄仁勋辞去总裁、首席执行官和董事会成员职务，即刻生效。</p>
+<p>首席财务官<span class="">科莱特·克雷斯</span>（Colette Kress）出任临时 CEO，同时继续兼管财务；董事哈维·琼斯（Harvey C. Jones）出任董事会主席。董事会已经开始物色正式 CEO，公司内外的人选都会考虑。</p>
+<p>虽然外界众说纷纭，但这份公告中并没有直接写辞职理由，只简单感谢了黄仁勋「对公司和行业不可估量的贡献」。</p>
+<p>黄仁勋 1993 年和两位合伙人创办英伟达，从那时起一直是这家公司的 CEO，到今天 33 年。消息公布后，英伟达股价在盘前下跌 10%。</p>
+<p>美国总统特朗普随后表示，苹果的前 CEO Tim Cook 应取代黄仁勋出任英伟达 CEO。（来源：极客公园）</p>
+</header>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/23/88/2388555a214cc17f24a183d2640997a0.png"></p>
+<h2>美国拟扩大英伟达 AI 芯片出口管制，限制中企通过海外数据中心获取算力</h2>
+<p>11 月 12 日，据 The Information 报道，美国商务部正制定新的出口管制规则，拟对新加坡、马来西亚、泰国、印度尼西亚、巴西、挪威及南非等国家实施更严格的 AI 芯片出口许可要求，以限制中国 AI 企业通过当地数据中心租用英伟达 Blackwell 及更新一代芯片的算力。</p>
+<p>根据拟议规则，相关国家的芯片采购方须披露芯片最终使用者及具体用途，并接受持续监管，以防止中国企业通过远程访问海外数据中心或芯片转运等方式规避美国出口限制。</p>
+<p>目前该措施仍处于拟议阶段，具体实施时间及最终适用范围尚未明确。（来源：TechFlow）</p>
+<p style="text-align: center;">&nbsp;</p>
+<h2>黄仁勋辞职后全球 AI 相关股票震荡，AMD 和博通逆势上涨</h2>
+<p>11 月 12 日，据路透社报道，黄仁勋因婚外情丑闻持续发酵而辞去英伟达 CEO，引发全球 AI 概念股周四大跌。</p>
+<p>英伟达投资的新型云计算服务商 CoreWeave&nbsp;股价下跌 9.1%。就在前一个交易日，CoreWeave 还因财报表现带动 AI 概念股反弹，单日涨幅超过 27%；其他新型云计算服务商也未能幸免，IREN 和 Applied Digital 股价双双走低。Nebius 则在宣布 2026 年营收将接近此前预测区间下限后，股价大跌 16.2%。</p>
+<p>甲骨文也下跌 2.6%，公司正扩大与英伟达在云端 AI 芯片方面的合作。</p>
+<p>其他科技股同样承压。美光科技下跌 2.5%，闪迪和西部数据分别下跌 6% 和 3.7%。光子器件制造商 Lumentum、Coherent，以及 AI 服务器制造商戴尔的跌幅在 3% 至 5.1% 之间。</p>
+<p>与英伟达竞争的另外两家 AI 芯片制造商&nbsp;AMD 和博通逆势上涨，涨幅分别为 3.7% 和 5.6%。投资者预期，英伟达陷入动荡可能为竞争对手创造机会。Alphabet、亚马逊和微软等大型云服务商的股价也上涨了 0.8% 至 2.7%。</p>
+<p>数据分析公司 ORTEX 的数据显示，仅本周以来，做空英伟达的投资者就获得了 96 亿美元（现汇率约合 641.84 亿元人民币）的账面收益。（来源：IT 之家）</p>
+<h2>&nbsp;</h2>
+<h2>腾讯回应「裁员 50%」传闻：系对内部讲话的误读</h2>
+<p>11 月 12 日，针对网上流传的「裁员 50%」「裁员 8000 人」等消息，腾讯公关负责人张军发文称，「裁员 50%」完全不属实。他表示，传闻可能源于前一天腾讯 28 周年内部直播中，管理层讨论 AI 时代组织变革时使用的一组比喻。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f1/c2/f1c215a601fdc67033ddfe442d382072.png"></p>
+<p>按照张军的解释，管理层将做好现有核心业务的人比作「陆军」，将探索 AI 原生业务的人比作「海军」，分别用「50%」说明两类方向；这番话意在讨论资源调度，并非宣布裁员比例。张军同时表示，腾讯希望提高现有业务效率，并让管理层级更加扁平。关于具体岗位将如何调整，腾讯尚未公布方案。（来源：雷科技）</p>
+<h2>&nbsp;</h2>
+<h2>SpaceX 正研发 AI 芯片机架，降低对英伟达配套零部件依赖</h2>
+<p>11 月 12 日，据 SemiAnalysis，SpaceX 正在研发 Kessel，这是一款定制版 Vera Rubin NVL72 机架，它用无源 PCB 中板替代原有的 NVLink 线缆盒。该方案保留 Oberon 的 72 个 GPU 封装、18 个计算托盘与 9 个交换托盘，但将这些托盘围绕中板背靠背排布。</p>
+<p>SpaceX 计划直接向英伟达采购芯片封装，其余零部件自行采购，绕开英伟达 L6 计算板。这将让 SpaceX 在供应商选择与元器件采购上掌握更大自主权。（来源：新浪财经）<span class="Apple-converted-space">&nbsp;</span></p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/70/49/7049333a4bd86115e4921be23ca081ef.png"></p>
+<article>
+<h2>微信「看一看」小范围测试短剧入口，可查看最近看过的剧集</h2>
+<p>11 月 12 日，据《科创板日报》报道，接近腾讯的知情人士称，微信「看一看」正在小范围测试短剧入口。获得测试资格的用户可以在微信「发现」页找到入口，查看最近看过的短剧；目前并非所有用户都能使用。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/0e/e4/0ee404dbddf836036e17deeaf527d54b.jpg"></p>
+<p>腾讯此前已在微信内上线免费短剧小程序「绿泡泡短剧」，通过广告获得收入。此次测试为用户提供了一个从「看一看」返回短剧内容的路径，但入口会否扩大开放、如何展示和推荐剧集，仍要看后续产品安排。（来源：界面新闻）</p>
+<h2>&nbsp;</h2>
+<h2>长鑫 DDR5 产品进展：32Gb 颗粒落地，MRDIMM 速率最高 12800Mbps</h2>
+<p>11 月 12 日，蓝鲸科技从长鑫方面获悉了其 DDR5 RDIMM、MRDIMM 产品线最新进展。</p>
+<ul class=" list-paddingleft-2">
+<li>
+<p>DDR5 颗粒已完成 24Gb 至 32Gb 迭代</p>
+</li>
+<li>
+<p>RDIMM 模组实现 32GB–128GB 主流容量、5600Mbps–8000Mbps 速率全覆盖</p>
+</li>
+<li>
+<p>MRDIMM 则覆盖 128GB、192GB 容量，最高速率可达 12800Mbps</p>
+</li>
+</ul>
+<p>长鑫科技表示，受 AI 应用快速发展带来的需求驱动，四季度公司依然收到服务器客户对产品的强劲需求，DRAM 供不应求的态势仍将延续，预计公司四季度营收继续保持增长趋势。（来源：IT 之家）</p>
+<h2>&nbsp;</h2>
+<h2>马斯克：Cybertruck 生产将延长至 2027 年夏末</h2>
+<p>11 月 12 日马斯克表示，为完成更多 Cybertruck 积压订单，特斯拉将把该车型的生产延长至 2027 年夏末。</p>
+<p>此前，他宣布计划于 2027 年年中逐步结束得州工厂的 Cybertruck 生产，为 Cybercab 无人驾驶出租车扩产腾出空间，并表示部分未能交付的订单将退还定金。（来源：格隆汇）</p>
+<h2>&nbsp;</h2>
+<h2><span style="font-size: 22px;">涨价「劝退」消费者，三季度 iPad 国内销量大跌 45.2%</span></h2>
+</article>
+<p>11 月 12 日，洛图科技发布的数据显示，2026 年第三季度，中国消费级智能平板全渠道销量为 636.1 万台，同比下降 20.1%。在其监测的主流电商平台上，苹果 iPad 销量同比下降 45.2%，销量份额降至 19.1%，但仍位居销售额榜首。两组数据的统计范围不同，不能将 iPad 的跌幅视为其全渠道表现。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/0d/59/0d59978a91f9ecba7161b3a36f3cc03b.png"></p>
+<p>洛图科技认为，苹果 6 月底上调 iPad 售价，是第三季度销量承压的重要原因。其中，贡献苹果超过六成销量的第 11 代 iPad，均价同比上涨 14.2% 至 3468 元。平板市场整体也受到零部件成本上涨、去年补贴提前释放部分购机需求等因素影响；该机构预计，2026 年国内消费级智能平板全渠道销量将同比下降 20.8%。（来源：界面新闻）</p>
+<p>&nbsp;</p>
+<h2>消息称二手交易平台转转已秘密提交香港 IPO 申请，拟募集 5 亿美元</h2>
+<p>11 月 12 日，据彭博社报道，知情人士透露，北京转转精神科技有限公司（二手交易平台「转转」的运营主体）已秘密递交香港 IPO 申请，最快可能于明年上市。</p>
+<p>上述人士表示，这家电子商务公司可能通过此次 IPO&nbsp;募集高达 5 亿美元（现汇率约合 33.43 亿元人民币）。</p>
+<p>转转官网显示，该集团旗下拥有转转、找靓机、采货侠、红布林等多个二手电商品牌，业务覆盖手机、3C 数码、奢侈品、图书、服装鞋帽、母婴用品、家具家电等。到 2025 年，服务超过 5000 万交易用户。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/48/d8/48d879a9f586ef5660f02e4f75499f55.png"></p>
+<h2><strong>谷歌发布 Gemini 4 Hydrogen：主打快速编程，开始接入搜索</strong></h2>
+<p>11 月 12 日，谷歌发布 Gemini 4 Hydrogen，主打日常编程和多步骤智能体任务。谷歌公布的测试显示，在默认「高」思考等级下，Hydrogen 完成任务的速度约为 Gemini 3.8 Flash 的 2.5 倍；在 Terminal-Bench 4.1 中，两者得分分别为 57% 和 18.2%。Hydrogen 在 Artificial Analysis 智能指数上的得分为 51，略高于定位更高的 Gemini 4 Argon 的 50 分。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f2/7e/f27ee852ec48940be0127ba6151242b1.png"></p>
+<p>Hydrogen 正开始面向 Gemini 应用、Google 搜索、AI Studio、Gemini API 和企业服务推出。其 API 支持最高约 100 万 Token 的上下文，输入和输出每百万 Token 分别收费 1.50 美元、7.50 美元。Gemini 应用的免费用户也有机会通过自动模型选择使用 Hydrogen。（来源：Google 官方博客）</p>
+<p style="text-align: center;">&nbsp;</p>
+<h2>字节推出 Seedance 2.5 flash：视频生成提速，720P 约 0.99 元一秒</h2>
+<p>11 月 12 日，字节跳动推出视频生成模型 Seedance 2.5 flash。官方称，新模型的生成速度较 Seedance 2.5 提升一倍；以 720P 文生视频、图生视频为例，生成价格约为每秒 0.99 元，降低约 34%。这一定价对应特定分辨率和生成方式，不能直接用于计算所有任务的费用。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c5/79/c5794900048a02c11cd12b87f8432927.png"></p>
+<p>Seedance 2.5 flash 单次最长可生成 30 秒视频，支持输入图片、视频和音频参考素材，输出分辨率为 480P 或 720P。模型将陆续登陆即梦等创作平台；火山引擎文档显示，在线体验和 API 调用计划于 11 月 15 日 14 时开放。（来源：火山引擎）</p>
+<p>&nbsp;</p>
+<h2>阿斯顿 · 马丁与迪士尼、卢卡斯影业达成合作，共庆《星球大战》50 周年</h2>
+<p>11 月 12 日，2027 年是《星球大战》系列诞生 50 周年，阿斯顿 · 马丁宣布与迪士尼、卢卡斯影业合作，共同庆祝这一里程碑。阿斯顿 · 马丁计划在未来一年举办系列活动，回顾《星球大战》的发展历程，但具体内容尚未公布。</p>
+<p>阿斯顿 · 马丁透露，双方将通过周年庆期间的一系列活动及合作项目，展现英国顶级奢华工艺与电影叙事的艺术魅力。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ce/55/ce55a571fc3ecda07b7179366414e958.png"></p>
+<p>阿斯顿 · 马丁计划在 2027 年初公布更多周年庆活动安排。除了与迪士尼、卢卡斯影业联合举办活动，阿斯顿 · 马丁有望借机推出以太空为主题的特别版车型或配置套件。</p>
+<p>今年 7 月，面临持续资金压力的阿斯顿 · 马丁获得了约 7.35 亿美元（现汇率约合 49.14 亿元人民币）的新债务融资，并称这笔资金将用于支持后续产品计划。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/3f/11/3f11a217ca81adaef6d9ac1b6be5b1da.png"></p>
+<h2>《GTA 6》：还没发售就狂卖近千万份，双双刷新 PS、Xbox 纪录</h2>
+<p>11 月 12 日，索尼和微软分别确认，尚未正式发售的《GTA 6》成为 PlayStation Store 和 Microsoft Store 各自历史上预购量最高的游戏。第三方市场研究机构 Sensor Tower 的数据显示，截至 11 月 10 日，从平台分布来看，PS5 版预计获得 723 万份预购，约占总量 75%；Xbox Series X/S 版约为 246 万份，占比 25%。按该机构估算，两个平台的预购收入分别约为 7.03 亿美元和 2.39 亿美元。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/dc/f3/dcf39281ab4661fb827edcac5b7a728f.jpg"></p>
+<p>《GTA 6》将于 11 月 19 日登陆 PS5 和 Xbox Series X|S，目前两大平台已开放预载，索尼提前 9 天开放下载以缓解发售当日的集中下载压力，微软宣布该作发售当天将支持 Xbox 云游戏，玩家可通过云端在 Xbox One 等设备上游玩。</p>
+<p>索尼表示，考虑到玩家需求旺盛，决定提前 9 天开放下载，希望减少发售当天的集中下载压力。</p>
+<p>微软还宣布，《GTA 6》发售当天将支持 Xbox 云游戏，玩家可以通过云端在 Xbox One 等设备上游玩。（来源：快科技）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/0e/88/0e88827682909bf5b56d5506cb772a10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[苹果突然永久关闭官方「支持社区」；字节即将推出个人 AI 助手；华为新品牌星芒 OSTA 曝光 | 极客早知道]]></title>
+            <link>https://www.geekpark.net/news/373839</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373839</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:03 GMT</pubDate>
+            <description><![CDATA[Claude 最严封号机制 11 月 12 日生效；元宝搜索上线；小米 SU7UltraExtrem 现身]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ed/e8/ede88e60ff58d438a75698365d0818ca.png"></p>
+<h2>苹果官方社区即将永久关闭</h2>
+<p>11 月 11 日，苹果官网突然宣布，Apple 支持社区将于 2026 年 11 月 20 日永久关闭。即日起，社区将不再接受新帖子，并转为只读模式。用户仍可前往官方 Apple 支持网站，获取值得信赖的指导和帮助。</p>
+<p>苹果公告称，我们衷心感谢各位社区成员一直以来贡献宝贵的时间和专业知识，帮助其他用户解决 Apple 产品使用中遇到的问题。（来源：新浪科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/eb/17/eb17034566c0868a5083ff8edcc34bac.png"></p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b6/63/b66371f33019f2fc5cd7fe4151313592.png"></p>
+<h2>消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手</h2>
+<p>11 月 11 日消息，据彭博社报道，字节跳动计划在未来几周内推出一款类似 Meta Muse 的 AI 助手，巩固其在 AI 视频生成领域的领先优势。字节跳动希望借此加快追赶美国顶尖 AI 实验室的步伐，目标是在未来三年左右缩小双方差距。</p>
+<p>知情人士透露，字节跳动联合创始人张一鸣近日在一次面向 AI 团队的全员会议上，向研究人员、工程师及相关支持人员介绍了这一计划，并明确了接下来的重点工作。</p>
+<p>张一鸣认为，字节跳动有能力在 AI 前沿领域与 Anthropic、OpenAI 等行业领先企业展开竞争。不过，他也提醒团队，真正达到这些公司的水平，至少还需要等到 2029 年或 2030 年。</p>
+<p>字节跳动计划推出的新款 AI 智能体，将承担与 Meta 今年 9 月推出的 Muse 类似的角色。Muse 上线后在美国市场获得了不错的反响，它将 Meta 长期积累的 AI 研究成果整合为一款语音交互助手，并配有动画虚拟形象，可以帮助用户完成各种任务。（来源：彭博社）</p>
+<p>&nbsp;</p>
+<h2>OpenAI 第三季度营收升至 100 亿美元</h2>
+<p>美东时间周二，OpenAI 首席财务官萨拉・弗莱尔（Sarah Friar）在接受采访时表示，OpenAI 第三季度营收环比增长近 50%，达到 100 亿美元，年化营收达到约 500 亿美元。</p>
+<p>这一增速显著高于二季度 18% 的环比增幅。弗莱尔称，第三季度的增长主要由前沿模型研发以及企业业务拉动。「我们的企业业务营收环比翻番。」她介绍道，目前 OpenAI 的营收结构中，企业业务与消费者业务各占一半。弗莱尔表示：「增长动力来自代码、网络安全类产品，以及 Dots 这类面向企业的智能助手逐步落地。」Dots 是 OpenAI 面向企业推出的 AI 智能体平台。她补充，公司面向中小企业的业务，三季度增速也超过过去六个季度。</p>
+<p>弗莱尔还透露，OpenAI 的消费者业务持续增长，营收环比提升 20%，订阅用户突破 1 亿，公司周活跃用户达 12 亿。（来源：新浪科技）</p>
+<p>&nbsp;</p>
+<h2>OpenAI 宣布 12 月 11 日停用 ChatGPT 旧版语音模式，全面转向 GPT-Live</h2>
+<p>11 月 11 日消息，早在 2024 年，OpenAI 就推出了 Advanced Voice Mode（高级语音模式），让用户能够与 ChatGPT 进行更加自然的语音交流。不过，这种语音模式采用的是轮流对话机制，即模型必须等用户说完之后才能作出回应。</p>
+<p>今年 7 月，OpenAI 推出了新一代语音模型 GPT-Live，采用全双工架构，允许 ChatGPT 在倾听用户说话的同时进行语音回复，从而实现更加自然、流畅的交流。此外，GPT-Live 还能够处理复杂问题，并在不中断当前语音对话的情况下，将相关任务交由 OpenAI 旗下的前沿文本模型完成。</p>
+<p>OpenAI 表示，自今年 7 月 GPT-Live 发布以来，ChatGPT 的语音功能使用量已接近翻倍。目前，通过语音与 ChatGPT 互动的用户中，大多数已经转向使用 GPT-Live。</p>
+<p>基于这一变化，OpenAI 今天宣布，将于 2026 年 12 月 11 日正式停用 ChatGPT 中的 Advanced Voice Mode 和 Standard Voice Mode，逐步淘汰这两种旧版语音体验，未来将把开发资源集中在 GPT-Live 上。</p>
+<p>OpenAI 淘汰旧版语音模式的决定并未得到所有用户的认可。在 X 平台和 Reddit 社区中，不少 ChatGPT 用户表达了不满。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/3d/be/3dbe9793cbfbe5753d4d5b5af9cb7adb.png"></p>
+<h2>元宝搜索上线</h2>
+<p>11 月 11 日，腾讯全新搜索产品「元宝搜索」正式上线。在任意浏览器地址栏输入网址 so.qq.com，即可使用。也可将 QQ 浏览器升级至最新版本，在引擎设置选项中切换为「元宝搜索」。</p>
+<p>据腾讯介绍，元宝搜索基于元宝的大模型能力，重新构建了从理解、检索、排序到答案组织的整条搜索链路。依托千亿级索引，搜索范围覆盖全网网页、公众号、视频号等腾讯生态内容和学术文献。在结果呈现上，优先展示权威机构与官方来源的内容，并将广告与答案明确区分。</p>
+<p>据悉，「元宝搜索」接入了 157 个权威信源，能搜公众号，也能搜视频号。值得注意的是，「元宝搜索」承诺广告不伪装答案，单独上线广告模块，并标明「相关广告」，与此同时支持「收起广告」。在 AI 交互体验上，「元宝搜索」打字、说话、拍照都能搜，并将按需呈现卡片、图表，答案更直观。（来源：新浪科技）</p>
+<p>&nbsp;</p>
+<h2>消息称黄仁勋已回英伟达上班开会，试图表现得「一切照常」</h2>
+<p>11 月 11 日消息，据 CNBC 今日报道，英伟达知情人士透露，在出轨丑闻曝光后，英伟达 CEO 黄仁勋当地时间周一走进了其位于加利福尼亚州圣克拉拉的总部，并与英伟达高管进行了例行的早会。</p>
+<p>知情人士称，黄仁勋在闭门会议一开始就谈及了自己的不忠，并向工作人员表达了歉意。黄仁勋没有回答任何问题，并将话题迅速转向当天的商业和重点议程。</p>
+<p>黄仁勋当地时间周二也去了办公室，知情人士表示黄仁勋试图表现得「一切照常」。公司内部员工向 CNBC 形容，消息曝光后当时的氛围是「令人难过」的，一名员工表示，他们对黄仁勋的出轨消息感到震惊。</p>
+<p>报道还提到，一些老员工把黄仁勋视为一个永远不会犯错的偶像，把他当作指路明灯。知情人士表示，公司许多员工也在努力接受 CEO 的错误行为。</p>
+<p>当地时间 11 月 8 日，英伟达发言人对外明确，黄仁勋将继续担任公司首席执行官，履职不会中断，相关风波不会打乱英伟达正常经营节奏。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>Claude 最严封号机制 11 月 12 日生效</h2>
+<p>Anthorpic 开启史上最严大清洗。官方同步端出全新风控政策，明令封杀非支持地区。这项新规，将于 11 月 12 日正式生效。就在昨天，Anthropic 又是发布了了 Fable 5.2，又是正式启动 IPO 路演。然而对开发者们来说，真正的震撼弹，是这第三次。</p>
+<p>新规中明确指出，任何未列出的国家或地区均不受支持，包括以下三种情况——</p>
+<p>第一，用户在物理位置处于不受支持地区时的使用，这包含了（即使是）原本受支持实体的用户和人员。</p>
+<p>第二，在不受支持地区注册成立或设立总部的实体，及其用户或人员的使用，无论这些个人在物理位置上是否处于受支持地区。</p>
+<p>第三，被不受支持地区的个人或实体直接或间接拥有多数股权或控制权的实体的使用，包含其用户或人员的使用，无论这些个人在物理位置上是否处于受支持地区。</p>
+<p>另外，新规还明确禁止利用消费级订阅转发请求，全面封杀转卖和代理服务。（来源：新智元）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8f/d4/8fd443f5fec6d98f899ca11a7fda5677.png"></p>
+<h2>小米 SU7UltraExtrem 现身</h2>
+<p>据博主 @ 尊川川 透露，小米 SU7 Ultra Extreme 已现身北京小米汽车超级工厂。</p>
+<p>汽车媒体 Carscoops 此前报道称，其摄影团队已拍下小米 SU7 Ultra Extreme 的无伪装照片。该车有望前往德国纽博格林赛道挑战新的电动车圈速纪录。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/5f/df/5fdfe9bda52db0bfc3eff1c9f52181a0.png"></p>
+<p>这意味着小米可能试图刷新此前由 SU7 Ultra 量产版创造的 7 分 04 秒 957 的纽北量产电动车圈速纪录，该成绩于 2025 年 6 月 11 日设立，比保时捷 Taycan Turbo GT 此前保持的纪录快了 2.6 秒，但该成绩随后又被保时捷反超。</p>
+<p>知情人士此前透露，新款小米 SU7 Ultra 预计 2027 年上市，相比在售版本改动幅度较大。新车将对外观造型进行调整升级，整套空气动力学套件全面优化，并搭载 DRS 鹅颈尾翼。</p>
+<p>消息称该车型将以限量版形式推出，命名为 SU7 Ultra Extreme，配备多项醒目的空气动力学部件，包括巨大的后扰流板以及采用大型鳍片的后扩散器，用于减少底部气流扰动。</p>
+<p>从工厂谍照来看，即便覆盖伪装，超宽轮拱、低趴车身姿态和硕大的尾翼支架都透露出极强的赛道取向。（来源：快科技）</p>
+<p>&nbsp;</p>
+<h2>华为星芒手机官方微博上线：新品牌 11 月 20 日发布，余承东已换上 OSTA O1 Pro 阔直板新机</h2>
+<p>11 月 11 日消息，华为官方今日宣布，鸿蒙智行享界 V8 及星芒品牌发布会定档 2026 年 11 月 20 日 14:30。</p>
+<p>目前 OSTA 星芒手机官方微博已上线，暂未发布相关内容，但背景图率先展示了 OSTA 的品牌字母标识。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/88/06/8806ee00abad09aed1fb54c09b1f5f9d.png"></p>
+<p>此外，抖音、小红书等平台也有相关名称的账号出现，但暂未通过认证，是否为官号存疑。</p>
+<p>11 月 11 日，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发文，宣布全新华为子品牌 OSTA 星芒，将在本次发布会首次和大家见面。余承东的微博小尾巴已经变成了 OSTA O1 Pro，正是此前爆料的星芒阔直板手机。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/7a/4b/7a4bb02453d69028423979c0c135a2b7.png"></p>
+<h2>俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行</h2>
+<p>11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。</p>
+<p>利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在研究 5 种月球核电站方案，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。</p>
+<p>他进一步表示：「这里说的是功率可达 10 千瓦的月球核电站，计划于 21 世纪 30 年代中期开始运行。目前我们正在深入研究 5 种构型，从把核能直接转换为电能，到建造相应的涡轮装置。我们必须在明年选定构型并启动相关工作。」</p>
+<p>参与俄罗斯月球发电站项目的俄库尔恰托夫研究所所长米哈伊尔 · 科瓦尔丘克今年 3 月表示，俄罗斯可能在 5 至 7 年内在月球上建成核电站。</p>
+<p>去年 12 月，俄罗斯国家航天集团宣布与拉沃奇金科研生产联合体签署了一项合同，希望在 2036 年前建成一座月球发电站，合同于同年开始执行。</p>
+<p>当时，俄罗斯国家航天集团强调：「该项目是朝着建立永久运行的月球科研站，并从一次性任务过渡到长期月球探测计划迈出的重要一步。」（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/1e/d3/1ed38701c98f0806803f8edcd97d9d33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[飞行汽车登上 Web Summit 主舞台, 中国科技公司在欧洲讲了一个什么故事?]]></title>
+            <link>https://www.geekpark.net/news/373838</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373838</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:04 GMT</pubDate>
+            <description><![CDATA[带来了分体式飞行汽车「陆地航母」的陆行体和飞行器。]]></description>
+            <content:encoded><![CDATA[<p>11 月 9 日晚, 里斯本。近两万人的体育场里，一位中国创始人用中文讲起了飞行汽车。</p>
+<p>这是 Web Summit 开幕式的主舞台。台上的人是小鹏汇天创始人赵德力, 舞台两侧停着他带来的产品:分体式飞行汽车「陆地航母」的陆行体和飞行器。据小鹏汇天介绍, 这是首个登上 Web Summit 主舞台的飞行汽车企业。</p>
+<p>比产品本身更值得注意的, 是这次出场的方式:中文演讲, 主舞台, 面对全球创业者、投资人和监管从业者。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/29/8b/298b94fdb260ed4f8dd64dda9a7e8d07.jpg"></p>
+<h2>一场不太一样的「出海」</h2>
+<p>Web Summit 创立于 2009 年, 常被称为「科技界的奥林匹克」。马斯克、微软总裁布拉德·史密斯、英国前首相布莱尔都在这里演讲过。今年的参会者来自 150 多个国家和地区, 超过 7 万人,2000 多家媒体到场。</p>
+<p>对创业公司来说, 这里是找钱、找合作、找话语权的地方。</p>
+<p>今年的中国面孔格外多:小米、腾讯、稀宇科技、智元机器人、宇树科技、银河通用、优必选都在里斯本。开幕式入场环节, 各国代表手持国旗进场, 走在最前面的是中国和东道主葡萄牙。</p>
+<p>官方的说法是, 中国企业正在「从走出去到扛大旗」。这个表述有宣传味, 但背后的变化是真实的。早期出海, 卖的是产品, 比的是性价比和渠道。现在的出海, 开始争的是赛道规则、技术路线和叙事权。</p>
+<p>另一个信号来自主办方。据稿件披露,Web Summit 正在布局东亚, 计划在中国内地落地相关峰会活动。顶级科技会议开始「向东看」, 也说明中国企业在前沿赛道上已经是它绕不开的一方。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/65/7d/657de0291cbdbc4eee1c149b58d64902.jpg"></p>
+<h2>陆地航母：先解决「飞行汽车怎么用」</h2>
+<p>飞行汽车喊了很多年, 卡住的往往不是飞起来, 而是飞完以后:飞行器放哪、怎么挪、怎么充能。小鹏汇天把这三件事概括为「移动难、停放难、补能难」,「陆地航母」就是对着它们设计的。</p>
+<p>核心思路是分体:一台车加一台飞行器。</p>
+<p>两部分靠车载自动分合机构连接, 约 5 分钟即可完成自动分离与结合。陆行体采用三轴六轮六驱布局, 搭载 800V 碳化硅增程动力,CLTC 综合续航超过 1000 公里。飞行体用「四轴合一」的单杆操纵方式, 目的是降低驾驶门槛。使用场景上, 它既能满足个人娱乐飞行, 也能用于应急救援、巡逻巡检等公共服务。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/dc/4d/dc4dec128723ede27cfb55d47093b0b6.jpg"></p>
+<p>&nbsp;</p>
+<p>这条路线的逻辑是, 地面部分负责解决路上的问题, 飞行器只在需要的时候升空。它不是让一台机器同时做好两件事, 而是让两台机器配合。至于 5 分钟分合在真实场景里的稳定性和成本, 还有待量产后验证。</p>
+<p>同场介绍的另一款产品 A868, 是高速、长航程的全倾转机型, 瞄准城市之间、交通枢纽之间的跨区域出行。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/2d/19/2d194080d1add066b313205a1bda073a.png"></p>
+<p>两条产品线, 对应赵德力对未来十年的判断:低空出行会沿两个方向推进。传统航空会向智能化、电动化、便捷化发展, 而新时代的汽车最终会进化出「翅膀」进入天空。</p>
+<h2>卖产品之外, 还要卖一套方案</h2>
+<p>这次演讲里, 小鹏汇天强调的不只是产品, 还有「低空飞行解决方案」。</p>
+<p>据介绍, 他们此前已与阿联酋签署战略合作协议, 共建国家级先进空中交通监管沙盒, 并计划逐步在中东、东南亚开展试点, 之后再推进欧美市场准入。</p>
+<p>这个顺序值得留意:先监管, 再市场。飞行汽车的难点不只在技术, 更在空域、适航和运营规则。能先和地方政府在沙盒里跑通规则, 比单纯卖出几台车更有长期价值。反过来看, 欧美准入目前只是「未来将推进」, 离落地还有距离。</p>
+<p>这一晚的意义, 在于一家中国飞行汽车公司, 第一次在全球最密集的科技视线下, 用自己的语言讲了自己的方案。</p>
+<p>接下来要看的, 是它能不能把舞台上的演示, 变成路上和天上的日常。</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/0e/26/0e2649b43455b734e3c684f6d38bfa9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员]]></title>
+            <link>https://www.geekpark.net/news/373796</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373796</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:05 GMT</pubDate>
+            <description><![CDATA[· 任天堂在美国设立新职位：系统性保存、整理经典游戏资料]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/3d/f1/3df158da402c0a8f3382ec375fa0160a.png"></p>
+<h2>英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件</h2>
+<p>11 月 11 日消息，英伟达发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen &amp; Katz，负责开展一项全面、独立的调查。</p>
+<p>此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机构目标的报道，董事会决定启动独立调查。董事会将成立由独立董事组成的委员会，并在外部独立法律顾问协助下监督调查。</p>
+<p>英伟达董事会此前还表示，目前没有理由认为美国国家安全或英伟达的商业机密已经遭到泄露，但调查将审查所有可获得的信息。黄仁勋支持此次调查，并承诺配合相关工作。董事会同时表示，对黄仁勋及其领导团队保持信心。（来源：凤凰网科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/eb/78/eb7808ef05a1f3598deb948580aa37eb.png"></p>
+<h2>Anthropic 启动 IPO 路演，估值目标高达 1.4 万亿美元，七名联创拟套现 17.5 亿美元</h2>
+<p>Anthropic 已正式启动首次公开募股（IPO）的投资者路演。公司计划发行 8.25 亿股股票，每股发行价区间为 70 至 78 美元，最高募资规模可达 643.5 亿美元。若按区间上限定价，其完全稀释估值将接近 1.4 万亿美元，这将是人工智能行业迄今规模最大的上市交易之一。</p>
+<p>根据公司披露的招股文件，本次发行包括公司新发行的 8.01351354 亿股，以及现有股东出售的 2364.8646 万股。公司不会从老股出售中获得任何收益。同时，承销商还获得一项为期 30 天的选择权，可额外认购 1.2375 亿股。</p>
+<p>除公开募股外，Anthropic 还宣布多家科技巨头将通过单独的私募配售方式合计投资 260 亿美元。其中，Google 与英伟达各出资 100 亿美元，领投本轮；AMD 将投入 25 亿美元；微软、博通和美光各投资 10 亿美元；台积电伙伴公司则追加 5 亿美元。按每股 74 美元的中间价计算，IPO 与私募配售合计将为公司带来约 846 亿美元的净募资额。</p>
+<p>Anthropic 向美国证券交易委员会提交的更新文件还披露了其经营数据。2026 年前九个月，公司实现营收 332 亿美元，而去年同期仅为 25 亿美元，增速极为惊人。同期净亏损为 1040 亿美元，其中 943 亿美元来自可转换债券及其他金融工具的公允价值变动，属于非经营性账面影响；该期间的经营亏损实际为 13 亿美元。</p>
+<p>另外，根据招股书，Anthropic 的七名联合创始人将在 IPO 中合计出售价值 17.5 亿美元的股票。按 IPO 发行价区间中点计算，每位联合创始人拟出售价值约 2.5 亿美元的股票。据亿万富翁指数，按这一估值计算，每人的净资产将达到约 180 亿美元。（来源：cnbeta）</p>
+<h2>阿里巴巴：拟分拆平头哥赴港独立上市</h2>
+<p>11 月 10 日，阿里巴巴公告称，拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板独立上市。香港联交所已确认阿里巴巴可进行此次分拆，平头哥已于 2026 年 9 月 11 日以保密形式向港交所递交上市申请（A1 表格）。此次分拆拟通过全球发售 H 股进行，包括香港公开发售及向机构和专业投资者配售。</p>
+<p>分拆完成后，平头哥预计仍将为阿里巴巴子公司。目前，全球发售规模、架构及阿里巴巴持股比例的调整幅度尚未确定。此次分拆仍需获得港交所上市委员会批准及完成中国证监会备案等程序。（来源：凤凰网）</p>
+<h2>OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务</h2>
+<p>11 月 11 日消息，Odessia 创始人弗朗西斯 · 戴维森（Francis Davidson）今天宣布，OpenAI 已收购 AI 旅行智能体公司 Odessia，他本人也已经加入 OpenAI，帮助这家 AI 初创公司探索旅游业务发展方向。</p>
+<p>据悉，Odessia 成立仅一年，就拿到了红杉资本领投的 600 万美元种子前融资，并在大约 5 个月前推出了 AI 旅游智能体服务，帮助早期用户规划价值数百万美元的旅行行程。</p>
+<p>不过，OpenAI 尚未公布任何旅游领域的新产品或计划。目前该公司的同领域合作伙伴有 Booking.com 缤客、Expedia 和 KAYAK。对于未来是否会推出旅游相关产品，OpenAI 发言人没有透露更多信息，仅表示旅游是用户经常向 ChatGPT 咨询的话题之一。（来源：IT 之家）</p>
+<h2>谷歌新模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全</h2>
+<p>当地时间 11 月 10 日，谷歌宣布正式开放 Gemini 4 Carbon 模型，面向开发者、企业、科研人员和消费者提供服务。</p>
+<p>谷歌高级副总裁、DeepMind 首席 AI 架构师 Koray Kavukcuoglu 介绍称，该模型是谷歌目前能力最强的推理模型，重点面向复杂软件工程、多步骤智能体任务、科学研究和网络安全等场景。</p>
+<p>Gemini 4 Carbon 于 10 月 28 日首次公布，此前通过 Fairwind Program（网络安全合作计划）向部分网络安全防御人员开放。此次则进一步扩大使用范围。</p>
+<p>谷歌称，相较于同期推出的 Gemini 4 Argon，Carbon 能够在复杂任务中投入更多推理 Token，进行假设探索、结果验证和边缘情况检查，更适合多步骤编码、复杂调试以及开放式科学研究。</p>
+<p>在开发者工具方面，Gemini 4 Carbon 已通过 Gemini API 和 Google AI Studio 向付费开发者开放，同时面向企业客户提供服务。模型也正在向 Google AI Ultra 订阅用户逐步开放，覆盖 Google Antigravity、Gemini 应用和 Google 搜索中的 AI 模式。</p>
+<p>谷歌此次将 Gemini 4 Carbon 定位为面向长周期复杂任务的高推理模型，与侧重多数日常软件工程和知识工作场景的 Gemini 4 Argon 形成分工。（来源：网易）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/0a/9e/0a9ecb0bdcb32f68454e82f7af1c1593.png"></p>
+<h2>索尼 12 月 10 日起停止提供 PC 版 PlayStation Plus 应用</h2>
+<p>索尼互动娱乐宣布，将从 12 月 10 日起停止向 PC 用户提供 PlayStation Plus 应用。该应用面向符合资格的 PlayStation Plus Premium 会员，但实际使用人数不足合资格会员的 0.4%。</p>
+<p>索尼互动娱乐内容采购与运营高级总监 Adam Michel 表示，公司会定期审视现有服务，将资源集中于会员更加重视的高质量体验，此次调整也是基于这一原则。</p>
+<p>此次关停也引发了外界对索尼 PC 业务策略的讨论。彭博社此前披露，PlayStation 工作室业务集团负责人 Hermen Hulst 曾向员工表示，索尼的大型叙事驱动游戏今后不会继续登陆 PC，而会转为 PlayStation 主机独占。前索尼互动娱乐全球工作室负责人吉田修平也曾认为，公司可能重新强调平台业务。（来源：3DMGame）</p>
+<h2>拼多多送货上门新规 11 月 13 日生效：拒绝履约每单赔付 10 元</h2>
+<p>11 月 11 日消息，拼多多新版《送货上门服务条款》已于 10 月 28 日公示，并将于 11 月 13 日正式生效，昨天突然在微博等平台登上热搜。</p>
+<p>根据新规，针对带有专属标识的订单，商家若违背上门承诺将未履约每单赔付 10 元，且诱导放代收点等行为均被明确界定为违约。</p>
+<p>新规的核心变化不仅在于 10 元 / 单的赔付金额，更在于将「送货上门」从一项模糊的服务描述，变成了附带举证责任转移与经营性处罚的可追责条款。</p>
+<p>适用范围有明确边界：新规只约束商品页面带有「送货上门」绿色标识的订单，没有该标识的包裹仍按原有方式配送。商家在服务模板中自行勾选支持上门的区域，才构成承诺；未勾选的区域不受此条款约束。</p>
+<p>对商家而言，更重的后果来自配套的经营性处罚：违规记录可能触发商品降权、屏蔽、下架、禁售、提高保证金、限制提现，情节严重的可终止合作。（来源：搜狐网）</p>
+<h2>Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程</h2>
+<p>11 月 11 日消息，Anthropic 开始推出 Claude Whiteboards（白板）、Claude Sheets（表格）和 Claude Data（原 Claude Dashboards），把 AI 助手从「聊天问答」进一步推向团队协作工作台，用户可以在白板上梳理计划、在表格中搭建追踪器，并把业务数据变成可共享的仪表盘、数据故事或解说视频。</p>
+<p>三项产品面向所有付费计划提供，支持网页端、桌面端和移动端；其中白板应用 Whiteboards 与表格 Sheets 目前处于测试阶段，Claude Data 则已正式上线。</p>
+<p>官方希望让 Claude 从生成文字、代码或文档，转向直接参与团队的日常协作。Claude Whiteboards 方面，用户可以口头描述一个模糊计划，Claude 会将其整理为包含时间线、负责人和日期的白板，团队成员则可实时在同一块白板上补充想法。会议复盘时，Claude 还能将零散讨论按主题归类，并起草每个人的行动项。（来源：新浪）</p>
+<h2>谷歌最强 VLA 机器人模型：Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗</h2>
+<p>11 月 10 日消息，谷歌推出迄今为止能力最强的视觉-语言-动作（VLA）机器人模型 Gemini Robotics 2.5，大幅提升机器人可学习的技能广度与学习速度。</p>
+<p>该模型增强了机器人的灵巧度、可靠性与安全性，助力机器人走出实验室，进入更非结构化的真实环境，协助人类完成更多类型的任务。</p>
+<p>真实环境非结构化且不可预测，机器人必须同时具备高精度与高可靠性来处理日常物体。借助 Gemini Robotics 2.5，谷歌拓展了模型在任务广度、性能与复杂度上的能力，测试任务达 200 项，例如用夹子分发食物、给礼品盒系蝴蝶结、移液操作液体等。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ca/85/ca855b68cec2dc0c09e8db007e709625.png"></p>
+<p>评估显示，该模型在任务精度、鲁棒性与速度上均有显著提升：相较于此前基线，Gemini Robotics 2.5 按任务类型不同，成功率高出 30% 至 100%，任务完成速度快 20% 至 30%。</p>
+<p>谷歌与 Apptronik、奔驰合作，在匈牙利凯奇凯梅特、德国辛德尔芬根的在用汽车生产线上，部署 Apollo 2 人形机器人测试 Gemini Robotics 2.5。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/8d/fb/8dfb132fc3a7331367b68ca2accf64c3.png"></p>
+<p>在此次概念验证中，Apollo 2 自主完成汽车物料拣配工作：这是一项重复性强、体力消耗大的任务，需要将散料箱中的单个零部件，按照线上每台车辆的精确需求顺序，分拣到规整托盘内。</p>
+<p>谷歌同时在推进长周期智能体任务的安全能力：Gemini 4 Argon 在智能体机器人评估中处于领先水平，评估维度包括危险任务拒绝、不确定性消解、近距离人机协作。</p>
+<p>Argon 可基于真实相机场景生成数千个多样化的模拟练习片段，构建高保真数字孪生。结合真实训练演示数据，机器人能更快泛化适配全新场景与物体。</p>
+<p>Argon 还可帮助研究人员从视频片段中推演任务失败原因，在仿真环境与真实机器人上同步测试最优改进方案。（来源：cnbeta）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/00/67/0067767b13e6d682505c826ca8ec1c13.png"></p>
+<h2>技嘉推出 RTX Spark 迷你主机 AI Top Aero，最高 128GB 统一内存</h2>
+<p>11 月 11 日消息，技嘉推出 AI TOP AERO 迷你主机，采用英伟达 RTX Spark 平台。这款产品拥有 Blackwell 架构 GPU、最高 128GB 统一内存和紧凑型设计，将端侧 AI 开发、内容创作和游戏体验带入个人工作空间。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/08/b6/08b6b64e4aeebd0bd36f3f59f3afd356.png"></p>
+<p>据介绍，这款迷你主机搭载英伟达 RTX Spark N1X 超级芯片，整合 20 核 Grace CPU 和 Blackwell 架构的 RTX GPU，最高可选 128GB LPDDR5X 统一内存，以及 4TB PCIe Gen 5 SSD，为端侧 AI 模型和 AI 应用程序提供充足计算资源。（来源：快科技）</p>
+<h2>再迎「iPhone X 时刻」：20 周年款苹果手机前瞻，整机如一块玻璃、按键将全固态</h2>
+<p>11 月 11 日消息，科技媒体 MacRumors 昨日（11 月 10 日）发布博文，梳理、验证和汇总多条供应链消息和可靠信源爆料，认为苹果为庆祝 iPhone 问世 20 周年，会在 2027 年 9 月推出 20 周年版 iPhone（上市后可能名为 iPhone 20 Pro），有望迎来外观、屏幕、交互、影像与芯片等全方位升级。</p>
+<p>外观方面，这款旗舰 iPhone 20 Pro 将成为自 2017 年 iPhone X 以来最彻底的一次设计革新，机身正面或呈现为一块几乎无边界、四边弯曲的玻璃，金属边框在正常使用时被隐藏，视觉上更接近「一整块玻璃」。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/19/cd/19cdd83a861f0b3eb3c469470a0a1579.png"></p>
+<p>面板方面，苹果公司预估推迟部署 CoE 和 LTPO+ 两项显示技术，不过依然会采用无边四曲面弯折屏幕方案。</p>
+<p>CoE 是 Color Filter on Encapsulation 的缩写，直译为封装彩色滤光片，指将显示屏所需的彩色滤光结构整合至封装层附近或面板内部，可减少部分传统光学结构占用的空间。</p>
+<p>交互方面，消息称苹果正在测试无实体位移的固态按键，侧边键、音量键、操作按钮及相机控制键或均改由压力感应与触觉马达反馈实现；按键位置保留，但不再有传统机械行程，机身开孔减少后，有望进一步提升密封性与一体感。</p>
+<p>固态按键（Solid-state button）是一种没有机械活动部件、靠传感器识别按压的按键。它看起来可能仍是一个按键区域，但按下去时并不会真的「沉下去」，而是由压力 / 触摸传感器识别动作，再由线性马达模拟出类似实体按键的震动和「咔哒」反馈。</p>
+<p>屏幕方面，苹果据称在测试屏下 Face ID 和前置摄像头，希望取消正面可见开孔；不过屏下光学方案能否在 2027 年达到量产成像标准仍不确定，灵动岛也可能因此保留。（来源：IT 之家）<img src="https://imgslim.geekpark.net/uploads/image/file/8c/76/8c76f870967d5cae78ad543add3509d6.png"></p>
+<h2>任天堂在美国设立新职位：系统性保存、整理经典游戏资料</h2>
+<p>11 月 11 日消息，任天堂美国公司近日设立新职位，负责保存、整理公司庞大的经典游戏资料。</p>
+<p>据官方招聘信息，该职位工作地点位于华盛顿州雷德蒙德市，应聘者将负责任天堂历史硬件和软件信息的保存、整理和访问工作，为任天堂设计、建立一套结构化管理体系，用于整理旧平台相关的技术记录、工程文档、源材料及企业知识。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f8/a8/f8a8d834a61ce04abc5107138b7bcc94.png"></p>
+<p>对于热爱电子游戏历史的人来说，这份工作颇具吸引力。任天堂希望应聘者具备档案管理、元数据管理、信息架构专业知识。应聘者入职后需要和工程、产品开发、法律和业务团队专家密切合作，确保经典史料能够长期保存，方便后代直接使用。</p>
+<p>该职位采用 12 个月一期的合同工形式，时薪 35 美元-55 美元。任天堂优先考虑图书馆与信息科学、档案学、博物馆研究、信息管理、历史学、技术传播或相关本科专业的应聘者，但具备同等专业工作经验的人士也可能获得考虑（来源：IGN）</p>
+<p>&nbsp;</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/fc/fc/fcfc00a8c2286875a45f7aa851f014ad.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/373736</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373736</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:06 GMT</pubDate>
+            <description><![CDATA[研究与增长营销公司 Graphite 的一项研究显示，目前 ChatGPT 占全球主要 AI 聊天机器人工具总流量的比例已超过 81%，没有任何一家竞争对手的市场份额达到 10%。]]></description>
+            <content:encoded><![CDATA[<p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/7b/2c/7b2c010317e63dbbba73fc8f86462c90.png"></p><h1>8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%</h1><p>11 月 10 日消息，<strong>Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，</strong>两款模型基于同一底层模型，前者面向普通用户并内置网络安全与生物安全防护，后者则面向通过审核的网络安全和生命科学机构开放，用于高风险的专业应用。</p><p>定价方面，Claude Fable 5.2 每 100 万词元（Token）输入费用为 8 美元（IT 之家注：现汇率约合 53.4 元人民币），每 100 万词元（Token）输出费用为 40 美元（现汇率约合 267.2 元人民币）。作为对比，Claude Fable 5.1 的每 100 万词元输入 / 输出价格分别为 10 美元（现汇率约合 66.8 元人民币）和 50 美元（现汇率约合 334 元人民币），<strong>按此计算 5.2 版本的 API 调用费用下调 20%。</strong></p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/db/bd/dbbdc890c95ee3c2d32ecb0c88bf05a0.png"></p><p>生成速度方面，官方表示相比 Claude Fable 5.1，最新 Claude Fable 5.2 模型生成速度最高提升 30%，而且在可选「快速模式」下，生成速度最高再提升至 2.5 倍，但价格相应更高。</p><p>在预发布测试中，Fable 5.2 完成了多项引人注目的任务：设计出三款可实际运行的电子设备，包括语音助手中枢、USB 会议音箱和手持虚拟宠物；协调逾 1,000 个子智能体，<strong>在 8 天内从零构建出可在笔记本电脑启动的原型操作系统</strong>；并以约 1,000 个代理在 30 小时内完成费马大定理的 Lean 形式化证明，远快于此前 11 天的纪录。</p><p>科学研究也被列为重点。Anthropic 表示，Fable 5.2 解决了两个与黑洞物理及全息对偶相关的开放问题；Mythos 5.2 则提出预测腺相关病毒衣壳整体结构的新方法，在测试中对 34 个衣壳成功建模 28 个，可能为基因治疗研发提速。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/89/3a/893a592c4ef960f4a78ca2cc222be807.png"></p><p>目前，Fable 5.2 已在 AWS、Google Cloud 和 Microsoft Azure 等平台开放；Mythos 5.2 则需通过 Cyber 或 Life Sciences 验证计划申请使用。（来源：网易科技）</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/47/6a/476ab5ac41a18bc42dcb672e1d368d28.png"></p><h1>研究显示 OpenAI ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑</h1><p>11 月 9 日消息，今年早些时候，随着谷歌和 Anthropic 等竞争对手势头渐起，ChatGPT 在 AI 市场的主导地位一度显现出松动迹象。不过，一项最新研究显示，OpenAI 旗下这款旗舰产品正在意外反弹。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/f1/97/f1972d57831284d6c99558f226fce383.png"></p><p>研究与增长营销公司 Graphite 的一项研究显示，目前 ChatGPT 占全球主要 AI 聊天机器人工具总流量的比例已超过 81%，没有任何一家竞争对手的市场份额达到 10%。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/79/28/792856cbdee6f44b08404414d39dd171.png"></p><p>考虑到谷歌 Gemini 和 Anthropic Claude 近期备受关注，并被普遍视为 OpenAI 越来越强劲的竞争威胁，这一数据颇为让人意外。（来源：IT 之家）</p><h1>微软 AI 高管拉曼纳推动 Office 与 Copilot 组织扁平化，核心员工每周需到办公室四天</h1><p>10 月 29 日消息，微软负责 Copilot 平台、智能体以及如今 Office 业务的高管正在兑现他重塑团队工作方式的承诺。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/82/00/8200355b9607430d7e1b093f32613dbf.jpg"></p><p>「我的团队今年最重要的工作，不是推出某一款产品或者某项功能，而是改变我们的工作方式。」查尔斯 · 拉曼纳（Charles Lamanna）这位微软核心业务部门的新任负责人在 8 月写道。</p><p>据 Businessinsider 报道，了解相关调整的人士透露，拉曼纳已经要求高级员工每周四天到办公室办公，同时为员工提供搬迁至主要办公中心的机会。他管辖下的多个团队也已完成组织架构调整，走向扁平化，裁撤中层管理者，这契合拉曼纳的观点—— 智能体 AI 正在改变软件工程的工作模式。</p><p>微软一名发言人表示：「我们正在重新思考，哪些管理层级是必不可少的，哪些场景下扁平化架构可以加快决策速度、明确权责归属、赋予员工更高自主权。」</p><p>这些举措，让外界得以窥见微软为适配 AI 时代改造软件业务版图的早期思路。拉曼纳原本就掌管微软 Copilot 与 AI 智能体平台，现在又接手了数百万职场人使用的 Office 办公软件以及 Teams 办公通讯服务。微软一直在整合 AI 产品的权责，一批资深高管离职，为新一代管理者腾出位置。（来源： 腾讯数码）</p><h1>马斯克：特斯拉 Cybertruck 的订单量远超我们的产量，但生产该车的机会成本太高</h1><p>11 月 9 日消息，特斯拉 CEO 埃隆 · 马斯克刚刚在 X 平台发文称，「Cybertruck 的订单增速远远超过我们的产能。我们会尽量多生产，这条产线大约 8 个月后停产，但届时不得不给大量客户退还定金。这并非像传统媒体不实报道所说的 Cybertruck 不盈利，真实原因是：Cybertruck 工艺复杂带来的机会成本，已经远远高于增产 Cybercab 所能创造的价值。」（来源：IT 之家）</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/3e/af/3eafc6ea42f8cf34b9f63c2fc45ca594.png"></p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/4e/ac/4eac7a7768148a9af570984def5c9431.png"></p><h1>苹果 iOS 27.3 代码曝光 Siri「个人记忆系统」，可记录用户各类信息</h1><p>11 月 9 日消息，根据代码研究人员 pdfu 分享的最新代码发现，苹果正在开发一套个人记忆系统，有望帮助 Siri 记住用户生活中的各种信息。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/ce/7c/ce7c5e595d9078f05d989ece976000e3.jpg"></p><p>根据相关发现，在苹果 iOS 27.3 测试版中，这套系统包含一个名为「记忆图谱」（Memory Graph）的组件，旨在整理用户的人际关系、常去地点、日常习惯、健康状况、锻炼情况，以及激励用户或阻碍用户实现目标的因素。</p><p>系统还设计了名为「记忆原子」（Memory Atoms）的数据单元，用于记录事实、观点、意图和事件，并关联相关人物、地点、时间及话题等具体信息。</p><p>据 pdfu 介绍，这套图谱通过两种处理机制收集信息。其中一种负责将结构化数据转化为洞察，例如读取用户个人联系人名片中的姓名字段。另一种则借助设备端 AI 模型或苹果私有云计算（Private Cloud Compute），从 Siri 对话、信息、照片和健康数据等来源提取信息。</p><p>目前，代码中似乎只出现了其中一种由 AI 驱动的信息处理机制。pdfu 认为，这套机制旨在通过一组内置问题识别用户的动机、面临的障碍以及可利用的资源。系统内置了 60 个问题，其中包括询问哪些日常习惯可能影响用户获得充足睡眠。（来源：CnBeta）</p><h1>美国 AI 数据中心反对声浪高涨，软银考虑转向其他国家寻找增长机会</h1><p>11 月 9 日消息，据彭博社今天（9 日）下午报道，面对美国 AI 数据中心需求可能放缓的局面，软银集团旗下的电信运营商软银公司 CEO 宫川润一开始考虑<strong>转向其他国家寻找增长机会</strong>。</p><p>软银公司原本计划<strong>在美国开展新型 AI 云计算业务</strong>，但民主党上周在中期选举中大获全胜，加上当地反对数据中心建设的声音日益高涨，公司不得<strong>不重新评估美国市场的前景</strong>。</p><p>宫川润一在东京举行的业绩说明会上告诉投资者：「美国发生的重大变化恐怕对<strong>我们不太有利</strong>。不过，全球 AI 数据中心需求依然旺盛，如果美国形势恶化过于严重，我们可能会<strong>先在其他国家开展业务</strong>。」</p><p>作为日本第三大移动通信运营商，软银公司也是孙正义旗下软银集团最重要的现金来源之一。宫川润一掌舵以来，软银公司积极拓展数据中心和 AI 服务业务，以把握日本企业日益增长的需求。</p><p>截至 9 月的六个月内，软银公司的云计算和 AI 业务收入增长 37%，推动公司上调全年营业利润预期。</p><p>按照软银公司的规划，其美国数据中心建设规模<strong>最高可达 10GW</strong>。与此同时，公司还在日本推进大型电芯量产设施建设，以满足日本因 AI 算力需求增长而不断增加的电力需求。日本本身资源匮乏。</p><p>投资者对 AI 云计算服务能否带来足够的经济回报，以及数据中心巨额投资能否持续，抱有越来越多的疑虑。研究机构 Gartner 估计，到 2030 年，<strong>超过 3.5 万亿美元</strong>（注：现汇率约合 23.38 万亿元人民币）的 AI 基础设施投资可能面临资产减值风险。（来源：CnBeta）</p><h1>Google AI 主管展示将《塞尔达传说：时之笛重制版》移植到苹果 iPhone Duo 上运行，招致版权争议最终删帖</h1><p>11 月 9 日消息，Google AI Studio 产品与设计主管 Ammaar Reshi 近期在 X 平台发文，展示其利用 AI 成功将任天堂《塞尔达传说：时之笛重制版》移植至 iPhone Duo 平台。</p><p>Ammaar Reshi 此次原本是想借此展示 Google 自家 Gemini 4 AI 模型能力，不过这种未经授权便对游戏进行逆向移植的做法本身严重侵犯任天堂版权，视频发布后引发大量用户批评，为了避免争议进一步升级，Ammaar Reshi 随后悄悄删除了相关贴文。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/e6/dc/e6dcf8a00a9ac4bad346897b94d99a4e.png"></p><p>近期，业界已经出现多起利用 AI 对游戏进行逆向工程的案例，甚至有相关成果被用于勒索原开发者，进一步加剧了玩家群体对 AI 逆向工程行为的反感。随着 AI 技术逐渐融入各行各业，围绕版权保护、技术伦理乃至法律责任的争议也开始不断浮现。如何界定 AI 技术的合理使用范围，以及如何平衡技术创新与知识产权保护，已经成为行业和社会需要面对的问题。（来源：CnBeta）</p><h1>欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元</h1><p>11 月 9 日消息，当前，欧洲政策制定者希望汽车电池更多地在本土生产。然而由于欧洲制造的电池成本更高，<strong>增加的费用最终很可能由购车者承担</strong>。</p><p>当地时间 7 日，据外媒 insideevs 报道，布鲁塞尔智库布鲁盖尔今年 9 月发表的一份报告提出，旨在保护欧洲现有汽车制造商的政策，可能最终<strong>让消费者和纳税人为此买单</strong>。</p><p>如果规定汽车必须使用欧盟生产的电芯，每千瓦时的成本可能<strong>从 50 欧元（IT 之家注：现汇率约合 372.3 元人民币）上涨至 85 欧元</strong>（现汇率约合 632.9 元人民币）。一辆配备 60kWh 电池的汽车，仅电池成本就<strong>可能增加 2,100 欧元</strong>（现汇率约合 15,637 元人民币）。如果再加上拟议中的低碳钢使用要求，成本还可能增加 200 欧元（现汇率约合 1,489 元人民币）。</p><p>相比之下，简化车辆型式认证程序预计只能让车企每辆车<strong>节省 61 欧元</strong>（现汇率约合 454.2 元人民币）。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/5b/77/5b770b230cf08f2ca9577b6a26e9bc46.jpg"></p><p>数据显示，欧盟汽车产量<strong>较 2019 年下降 19%</strong>，2025 年新车销量也比 2019 年<strong>少了 220 万辆</strong>，而整个汽车产业仍提供约 1400 万个就业岗位。（来源：IT 之家）</p><h1>丰田计划通过扩大本地采购「重夺中国市场份额」</h1><p>11 月 9 日消息，据日经亚洲上周报道，丰田汽车表示，<strong>准备通过拥抱本地供应商并摆脱传统的采购结构</strong>，扭转其在中国市场份额下降的局面。</p><p>丰田正通过本地化采购举措，把握中国竞争激烈的汽车市场机遇。此举正值丰田上调 2027 财年利润预期。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/fb/14/fb14db8f80c2aec27c7db73a7f9c5a44.png"></p><p>丰田汽车 11 月 5 日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）半年报（2026 年 4 月 1 日～2026 年 9 月 30 日）报告：</p><ul><li>营业总收入：26.96 万亿日元（注：现汇率约合 1.14 万亿元人民币），同比增长 9.5%</li><li>归母净利润：2.24 万亿日元（现汇率约合 944.74 亿元人民币），同比增长 26.1%</li><li>基本每股收益：185.97 日元（现汇率约合 7.8 元人民币），同比增长 36.67%</li><li>稀释每股收益：185.97 日元（现汇率约合 7.8 元人民币），同比增长 36.67%</li><li>合并结算区间全球销量 475.8 万台，同比减少 0.5%；日本国内销量同比增长 5.6%，海外销量同比减少 2.1%</li></ul><p>据彭博社于当地时间 10 月 16 日报道，丰田汽车公司计划在其斥资 20 亿美元（现汇率约合 133.6 亿元人民币）打造的中国雷克萨斯工厂引入自主研发的一体化压铸设备生产电动汽车，以此提振销量表现。</p><p>在被问及丰田是否会向中国本土供应商采购一体化压铸设备时，丰田首席技术官中岛裕树（Hiroki Nakajima）表示，该厂所用的相关技术完全由这家日本车企自主研发。该上海工厂目前正处于建设阶段，预计将于 2027 年正式投产。（来源：IT 之家）</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/c6/c0/c6c09a4317541306e8853fa3548092e2.png"></p><h1>Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch</h1><p>11 月 10 日消息，据科技媒体 MacRumors 昨天报道，Meta 现已更新 iOS 版 Muse 应用，新增 Apple Watch 支持。这意味着苹果 Apple Watch 用户现在可以使用这款个人 AI 智能体，<strong>在腕上完成各种任务</strong>。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/f3/04/f304984b0ac5348a30ccb3326ac8fcee.jpg"></p><p>据介绍，Apple Watch 版 Muse 的主界面带有吉祥物元素。用户可以选择打字、语音输入、拨打语音电话等交互方式，支持表盘。</p><p>Muse 是 Meta 推出的一款个人 AI 智能体，能够帮助用户完成各种任务。它提供独立应用，并已集成至 Instagram、Facebook 等 Meta 应用中。</p><p>Meta 为 Muse 设计的雪怪形象已经颇受欢迎，此次也成为 Apple Watch 应用的核心视觉元素。</p><p>此外这款应用的界面设计，看起来和 Meta 今年 9 月公布的 Muse Charm 设备类似。（来源：CnBeta）</p><h1>消息称玛莎拉蒂与尊界新车外观确认，属华为、江淮和 Stellantis 三方合作项目</h1><p>11 月 9 日消息，据第一财经报道，<strong>玛莎拉蒂与尊界的合作项目名为「玛莎拉蒂 Design」</strong>，该项目为华为、江淮和 Stellantis 的三方合作。目前，<strong>新车外观已确认</strong>，规划明年第四季度有进一步量产动态。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/3e/07/3e0713c47642a0662308a4a1e11e6893.png"></p><p>知情人士表示：「由于玛莎拉蒂国内生产资质问题，该项目将通过江淮进行制造，华为赋能的形式进行。」同时，该合作将分国内、国外两条路径走，<strong>国内以「尊界」为销售主体，国外则仍以玛莎拉蒂标识出售</strong>。</p><p>据财联社今日早些时候报道，知情人士透露，尊界或将推出一个全新子品牌，定价区间在 40-50 万左右，车型主打 SUV。尊界与玛莎拉蒂的合作分属于两个项目，目前（子品牌）具体细节尚未正式确定。（来源：IT 之家）</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/e3/1e/e31e7066384f39e93c613f6dd85eadbb.png"></p><h1>《GTA 6》预载即将开启，代码暗藏多人游戏线索</h1><p>11 月 9 日消息，随着《GTA 6》预载即将开启，数据挖掘者开始从游戏文件中寻找这款 Rockstar 备受期待的新作的更多线索。PlayStation Game Size 发现，《GTA 6》发售版本的代码中已经出现了与在线功能有关的痕迹。虽然多人游戏模式不会随游戏在 11 月 19 日同步推出，但其上线时间可能早于此前预期。</p><p style="text-align:center"><img src="https://imgslim.geekpark.net/uploads/image/file/70/db/70db73463fd538553fa0b61318a4700c.jpg"></p><p>对 PlayStation 后台数据的分析发现，游戏代码中出现了「joinSession」「launchActivity」和「launchMultiplayerActivity」等字符串。这些信息暗示，玩家未来可能可以创建或加入游戏会话，并启动以多人游戏为核心的活动。</p><p>不过，即便《GTA 6》发售版本的代码已经出现相关线索，《GTA Online》的续作仍可能需要数月时间才能推出。开发团队或许已经为未来无缝加入多人游戏功能做好了准备。</p><p>在《GTA 5》发售后，其在线模式《GTA Online》仅过了两周便正式上线。而《荒野大镖客：救赎 2》则在这款开放世界西部题材游戏发售约一个月后，推出了在线模式测试版。（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/04/aa/04aaaf349228c2b10ac1e5ddb3f58ecf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层]]></title>
+            <link>https://www.geekpark.net/news/373687</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373687</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:06 GMT</pubDate>
+            <description><![CDATA[特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍；亚马逊成立新团队专攻家用机器人；三名男子涉嫌利用 AI 行骗，涉案金额超 1 亿美元]]></description>
+            <content:encoded><![CDATA[<p style="text-align: left;"><img src="https://imgslim.geekpark.net/uploads/image/file/00/ea/00eac58e58610d574fce85c596f85521.png"></p>
+<h1>黄仁勋承认「婚外情」，英伟达启动调查</h1>
+<p>11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。</p>
+<p>黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此承担全部责任，并接受外界批评。他表示家人不应为其个人选择负责，恳请公众给予家人隐私空间，希望能有机会重新赢回家人信任。他强调自己对英伟达始终坚定，将努力重新赢得团队与投资方的信赖。</p>
+<p>针对近期报道带出的国家安全相关质疑，黄仁勋确认董事会已启动独立调查，本人将全力配合。</p>
+<p>此前据《纽约时报》报道，美国政府认为黄仁勋与一家名为 Megaspeed 的新加坡科技公司前高管 Alice Huang（黄乐）存在密切关系。（来源：DoNews）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/2c/c1/2cc1e846912b71d077050641095c7c14.png"></p>
+<h1>特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署</h1>
+<p>11 月 8 日消息，特斯拉公布了更新后的 AI 加速器路线图，进一步揭示了公司未来几年的芯片研发方向。根据这份路线图，特斯拉第六代推理加速器的算力预计将达到现有第四代芯片的 80 倍；而用于训练任务的 Dojo D3 将放弃以 SRAM 为核心的架构，转向采用多芯粒设计，并搭载堆叠式 HBM 高带宽内存。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/61/74/6174660db9a3a8fde06e2f6b7e45dcb2.png"></p>
+<p>此外，特斯拉还开始用「超级智能」（Super Intelligence，SI）取代「人工智能」（Artificial Intelligence，AI）这一名称，为旗下 AI 加速器启用 SI 系列命名。出于相同原因，马斯克近期也确认，SpaceXAI 将更名为 SpaceXSI。</p>
+<p>这份路线图中最值得关注的变化，或许是特斯拉重新启动了自主研发的 Dojo 训练加速器项目。</p>
+<p>马斯克曾在 2025 年 8 月取消整个晶圆级 Dojo 项目，并于 2026 年 8 月表示，SpaceX 和 xAI 将在其地面及太空数据中心中全部采用英伟达硬件。不过，第三代 Dojo D3 与前两代 Dojo D1、Dojo D2 将有明显不同。</p>
+<p>特斯拉将下一代 Dojo D3 描述为一款基于芯粒（Chiplet）的训练加速器，采用 2.5D 和 3D 封装技术，并搭载堆叠式 HBM 内存。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h1>亚马逊成立新团队专攻家用机器人，剑指「前所未有」的新产品</h1>
+<p>11 月 8 日消息，分析亚马逊的招聘信息发现，过去几个月，亚马逊组建了一支新团队，准备开发<strong>一款前</strong>所未有的机器人产品。</p>
+<p>亚马逊近期发布的一则工程师招聘信息写道：「机器人即将走出电影，进入我们的家中。」这条被撤掉的招聘信息透露，新产品能够适应不断变化的家庭环境，并在人类家庭成员身边自主活动。</p>
+<p>亚马逊一向愿意押注长期项目，即便短期内不被外界理解，只要能够帮助公司抢占新市场的先机，就值得投入。此前的 Alexa 语音助手和 Kindle 电子书阅读器，都采用了这种发展策略。</p>
+<p>亚马逊 CEO 安迪 · 贾西在最近的年度股东信中重申了这一思路，认为人工智能和机器人技术将带来人们一生中最重大的变革之一。「我们努力预判什么能让客户每天的生活更轻松、更美好，并创造下一个重大转折点。」</p>
+<p>LinkedIn 个人资料显示，今年早些时候，亚马逊将 Astro 项目的大部分成员调往其他岗位，还聘请了一名麻省理工学院的机器人专家参与家用机器人研发。</p>
+<p>至于新团队究竟打算开发什么样的家用机器人、能让机器人完成哪些任务，目前还没有明确消息。不过，亚马逊 6 月的一则招聘信息透露，研发目标不仅是让机器人具备实用功能，还要让用户在使用过程中感到愉悦。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h1>苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人</h1>
+<p>11 月 8 日消息，马克 · 古尔曼在刚更新的《Power On》时事通讯中爆料，曾主导 Vision Pro 头显开发、同时负责新版 Siri AI 项目的迈克 · 罗克韦尔，仍在认真考虑离开现有岗位。</p>
+<p>古尔曼披露，罗克韦尔或将于明年卸任 Siri 工程副总裁，甚至彻底离开苹果。新版 Siri 跳票了两年才得以上市，考虑到罗克韦尔在其中发挥的作用，他的离开将给苹果造成重大损失。</p>
+<p>如果罗克韦尔最终离职，或在苹果内部转任其他岗位，更多工作预计将交给两名高管：去年从谷歌加入苹果、负责加强 AI 业务的阿马尔 · 苏布拉马尼亚，以及费德里吉的副手塞巴斯蒂安 · 马里诺。</p>
+<p>苹果内部一些人认为，马里诺未来有望接替费德里吉出任软件工程主管，而且他对 AI 发展的态度更加积极。据悉，马里诺负责的团队主要承担将 AI 技术整合到 iOS 系统中的工作。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h1>ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃</h1>
+<p>近日，多名用户在 Reddit 及 OpenAI 官方开发者社区反映，自己的 ChatGPT 账号突然遭到停用，其中包括每月订阅费用为 200 美元的 Pro 用户。部分用户表示，账号被封前没有收到任何通知，长期积累的聊天记录和工作资料也因此无法访问。</p>
+<p>11 月 7 日，一名用户在 OpenAI 官方开发者社区发帖称，自己的 ChatGPT Pro 账号当天突然被停用，系统显示错误代码「account_deactivated」，但没有收到任何预警或封禁通知邮件。</p>
+<p>该用户表示，自己不仅是 ChatGPT Pro 订阅用户，还加入了 OpenAI 的网络安全相关访问计划，账号启用了需要实体安全密钥验证的高级安全设置。他怀疑，封号可能与自己近期通过不同地区的 VPN 节点访问 ChatGPT 和 Codex 有关。不过，这只是用户个人的推测。</p>
+<p>OpenAI Support 账号随后在帖子下作出回复，表示由于涉及具体账号信息，无法在公开社区论坛处理账号停用申诉。用户应通过封禁通知邮件中的链接提出申诉；如果没有收到邮件，可以通过官方申诉表单或帮助中心联系客服。该回复并未解释该用户账号被封的具体原因。（来源：凤凰网科技）</p>
+<p>&nbsp;</p>
+<h1>消息称 Anthropic 拟感恩节前上市 寻求募资至多 1000 亿美元</h1>
+<p>尽管科技股近期遭遇大幅抛售，人工智能公司 Anthropic 仍在推进首次公开募股（IPO），计划在美国感恩节前上市，寻求融资 800 亿至 1000 亿美元，目标估值为 1.25 万亿至 1.75 万亿美元。</p>
+<p>《金融时报》援引多名 Anthropic 投资者的消息称，上述估值区间低于部分最乐观投资者此前期望的 2 万亿美元，但高于该公司最近一轮融资时的 9650 亿美元估值。美国今年的感恩节为 11 月 26 日。</p>
+<p>Anthropic 是 AI 助手 Claude 的开发商。报道指出，摩根大通计划于 11 月 13 日为潜在投资者举行一场信息说明会。IPO 的最终估值、募资规模及上市时间仍有待确定。</p>
+<p>Anthropic 推进上市之际，投资者正重新评估科技公司庞大的 AI 支出及其回报。纳斯达克 100 指数周四下跌超过 6%，周五虽有所反弹，全周仍下跌 4.9%。</p>
+<p>财务数据显示，Anthropic 第三季度营收约为 170 亿美元，环比增长近 50%，但增速有所放缓。该公司此前公布的年化营收约为 810 亿美元。年化营收是根据近期收入推算的全年水平，并不等同于已经实现的全年营收。（来源：cnBeta）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/a5/51/a551a1f0598c297bf3bf4e694c52edea.png"></p>
+<h1>腾讯姚顺雨谈「AI 模型公司护城河」：更多存在于产品层，而不是模型层</h1>
+<p>11 月 8 日消息，据第一财经报道，在 2026 未来科学大奖的一场对话中，清华大学讲席教授、中国工程院外籍院士张亚勤向腾讯首席 AI 科学家姚顺雨抛出了一个尖锐的商业问题，模型公司的护城河究竟是什么？</p>
+<p>姚顺雨的回答是，AI 护城河更多存在于产品层，而不是模型层。真正难以替代的，不一定是最聪明的模型，而是能够理解用户背景、利用专有数据和上下文，并获得用户信任的 AI 产品。</p>
+<p>姚顺雨以微信为例，如果用户可以直接在微信中使用 AI，这个 AI 未必需要拥有最强大的模型能力，但它了解用户的日程安排、朋友关系和各种活动信息。这些信息能够帮助 AI 更好地理解用户需要什么，也使其他模型难以直接替代它。即使竞争对手推出了一个更聪明的模型，也不意味着它能够提供同样的服务，因为后者未必知道用户是谁。</p>
+<p>听完这一回答，张亚勤调侃道，按照姚顺雨的逻辑，Anthropic 未来或许不值一万亿甚至两万亿美元，因为模型终有一天可能走向商品化。随后，张亚勤又笑着提醒现场的学生，千万不要听自己的建议去买股票。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h1>蚂蚁集团：旗下 AI 助手灵光用户数量已突破 2000 万</h1>
+<p>11 月 8 日消息，蚂蚁集团旗下 AI 助手灵光宣布：自今年 10 月 27 日灵光 2.0 上线以来，一周内已帮助用户管理超 116 万项事务，执行超 360 万次任务。灵光用户已突破 2000 万。</p>
+<p>蚂蚁集团于 10 月 27 日发布灵光 2.0，其最大特性是 AI 介入任务的起点进一步前移。</p>
+<p>过去，用户需要先发现问题、提出需求，再由 AI 执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。AI 不再只是等待指令的工具，而开始成为能够持续管理事务的助手。</p>
+<p>除此之外，灵光 2.0 还接入了蚂蚁 APASS，作为 AI 时代跨智能体、跨设备、跨应用与服务场景的统一账号和安全管理基础设施，APASS 将身份认证、意图安全和隐私保护纳入 Agent 执行流程，通过授权密钥与 Agent 分离托管等机制，让智能体在不直接接触授权密钥的情况下执行任务。用户可随时查看、调整或撤销授权，让智能体在授权范围内办事。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h1>华强北显卡价格一天两变，RTX 5080 从近 2 万元跌至 1.6 万元</h1>
+<p>经历此前一轮持续上涨后，近期华强北显卡市场行情出现明显反转，RTX 50 系列显卡价格开始大幅回落，部分型号短时间内出现数千元的降幅。据央视财经报道，此前受海外停产传闻刺激，RTX 50 系列显卡价格连续上涨 11 个交易日。</p>
+<p>不过，从 10 月 28 日开始，市场行情突然掉头向下。其中，RTX 5080 价格从最高时的近 2 万元回落至 1.6 万元左右，较高点下跌约 20%。</p>
+<p>对于近期价格波动，有华强北商户表示，由于代理商和商户提前囤货，导致市场价格出现较大浮动，甚至早上和下午的报价都可能发生变化。</p>
+<p>尽管近期显卡价格有所回落，但整体市场价格依然处于高位。</p>
+<p>目前，RTX 50 系列主流显卡均价仍达到建议零售价的 1.7 倍，此前较大幅度的价格涨幅尚未完全消化。（来源：快科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/08/0b/080bff217022c92106463ab59bb18e37.png"></p>
+<h1>208 万元！比亚迪超豪华行政旗舰轿车「仰望鼎曜」全球首秀</h1>
+<p>11 月 8 日消息，比亚迪仰望鼎曜全球首发亮相，该车定位超豪华行政旗舰轿车，共有行政版与山河鼎韵限量版两个版本。目前两个版本的正式价格都未公布，不过山河鼎韵限量版已正式开启预定，定金 30 万，有消息称，该版本或限量 399 台，选配后总价格或达 208 万，预计 2027 年二季度交付。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b2/9f/b29f2b3abf6865851719b3679954a596.png"></p>
+<p>鼎曜车长超过 5 米 6，轴距超过 3 米 5，24K 真金打造的甲骨文黄金车标、超百颗宝石、钻切大灯上车，新车搭载第二代刀片电池与闪充技术，CLTC 纯电续航超 1000km。</p>
+<p>此外，新车还搭载比亚迪的易四方系统、云辇新一代全主动车身控制系统，支持四电机独立驱动，可实现原地掉头、横向移动、爆胎稳行、应急浮水等功能。</p>
+<p>智驾方面，新车首搭比亚迪自主研发的 4nm 璇玑 A3 智驾芯片，搭载天神之眼 A 智能辅助驾驶系统。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h1>Fotorgear Campix 相机现身众筹：一次只能拍 36 张照片的数码相机</h1>
+<p>11 月 8 日消息，据摄影媒体 Photo Rumors 报道，一款名为 Fotorgear Campix 的相机最近显示 Kickstarter 众筹，号称能够在数码相机时代还原胶片的拍摄体验。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/41/02/41029028acbfc230a15ff9680820e933.png"></p>
+<p>据介绍，这款相机重量 192g，搭载 1/3.06 英寸的索尼 IMX258 CMOS 传感器，可输出 1300 万像素照片。搭配等效 26mm f/2.2 广角镜头，最近对焦距离 0.9m，无自动对焦。该机支持更换镜头，初期将有 8mm、16mm、60mm、75mm Macro 微距镜头，以及 1.55x Anamorphic 变形宽荧幕镜头。</p>
+<p>同时，这款相机一次只能拍摄 36 张照片，完成后需要在「数字暗房」（手机 App）冲洗「胶片」，才能开始新一轮拍摄。该机配备腰平取景器，可让用户获得胶片相机的拍摄体验。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/11/63/116333403134f975679a2d9bb1f76b3e.png"></p>
+<h1>三名男子涉嫌利用 AI 冒充企业高管和律师行骗，涉案金额超 1 亿美元</h1>
+<p>11 月 8 日消息，美国司法部近日公布的一份起诉书显示，三名外国男子涉嫌利用 AI 冒充企业 CEO 和律师，诈骗金额超过 1 亿美元（约合 6.69 亿元人民币），目前均被逮捕并受到起诉。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/86/36/8636314fc56b1ad1e08d4570e2268c87.png"></p>
+<p>美国纽约南区联邦检察官办公室发布的新闻稿称，三名嫌疑人分别为雅各布 · 索尔、沙龙 · 哈赞和盖伊 · 谢特里特。他们涉嫌利用 AI 伪造多家企业高管和律师的声音、影像，诱骗企业员工汇出大额资金。</p>
+<p>索尔和哈赞今年夏天在西班牙被捕，谢特里特于 9 月在英国落网。检方指控，三人的诈骗活动从 2024 年持续至 2026 年。</p>
+<p>根据起诉书，三人先利用 AI 冒充企业高管，联系不同公司的员工，谎称有敏感财务交易需要员工协助处理，再让员工与大型国际律师事务所的律师联系。随后，他们又冒充律师事务所的律师，指示员工汇出大笔资金。</p>
+<p>美国司法部称，三人涉嫌从全球多家企业骗取超过 1.29 亿美元（约合 8.63 亿元人民币）。（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/4a/5f/4a5f0ddf8bc6645ce6ec841b4245198f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案]]></title>
+            <link>https://www.geekpark.net/news/373649</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373649</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:08 GMT</pubDate>
+            <description><![CDATA[特斯拉将增加 Cybertruck 生产班次；Meta将Muse Wonder专用AI模型面向所有用户开放；Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c0/3c/c03ce0b97f0bce50d35f59c869fc2303.png"></p>
+<h2>收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity</h2>
+<p>据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，Unity 正在认真考虑这一报价，并已聘请一家投资银行提供咨询。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/30/82/30827da3443a08e58681b9f46a09cca3.jpg"></p>
+<p>据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，Unity 正在认真考虑这一报价，并已聘请一家投资银行提供咨询。（来源：cnBeta）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/12/ce/12ced61993fb325505a81dd2c44f6302.png"></p>
+<h2>Meta 重大人事变动！扎克伯格的首席战略官也走了</h2>
+<p>11 月 7 日，Meta 首席战略官戴夫·韦纳确认将从 Meta 离职，转而出任 AI 推理初创企业 Fireworks 的首席财务官。戴夫·韦纳 2012 年加入 Meta，曾于 2014 年升任首席财务官并任职逾八年，其任职该岗位期间，2018 年总薪酬达 1970 万美元，2019 年增至 2130 万美元。</p>
+<p>此次离职是 Meta 近两年高管持续变动的最新事件，近年已有多位重量级核心高管先后离场。当前 Meta 正持续加码 AI 投入，外界将领导层调整视作其为 AI 商业化路线进行组织洗牌的信号。</p>
+<p>Meta2026 年第三季度财报显示，当期其营收 646.01 亿美元同比增长 26%，净利润 98.60 亿美元同比增长 264%，营业利润则同比下降 37% 至 129.88 亿美元。（来源：快科技）</p>
+<p>&nbsp;</p>
+<h2>Meta 将 Muse Wonder 专用 AI 模型面向所有用户开放</h2>
+<p>Meta 宣布，从 11 月 6 日起，旗下个人智能助理应用 Muse 以及 Meta AI 平台将全面启用一批基于旗舰模型 Muse Wonder 训练而成的新型专用模型。与此同时，更强大的 Muse Wonder 模型仍将保留给付费订阅用户，用于处理更复杂和更高难度的任务。</p>
+<p>根据 Meta 介绍，这批新模型属于现有模型体系的「专用版本」，通过 Muse Wonder 进行训练而来。虽然 Meta 并未公开这些模型的具体名称，但它们继承了 Wonder 系列率先引入的两项核心能力，即「主动记忆」（Active Memory）和「主动聚焦」（Active Focus）。</p>
+<p>Muse Wonder 及性能更强的 Wonder Full 最初于 2026 年 10 月发布。其中，Wonder 已被整合到 Meta Model API 和 Muse Code 编程助手中，而 Wonder Full 目前仅向 Muse Code 的高端付费用户开放。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2>苹果：超 10 万款应用已适配 iPhone Duo</h2>
+<p>11 月 7 日，苹果公布相关信息：上市仅两周的折叠屏 iPhone Duo 已有超过 10 万款应用完成优化，这类适配应用均基于 iOS 27.1 及以上版本 SDK 开发，可完整适配内外屏全宽显示，在 App Store 带有专属「Made for iPhone Duo」标识。过去一个月苹果已在全球 19 座城市举办超过 50 场线下开发者工坊协助适配，当前每天仍有数千款优化后的应用上架 App Store。</p>
+<p>iOS 27.2 版本已为 iPhone Duo 新增 Apple Pencil（USB-C）支持，目前仍有大量热门头部应用尚未完成适配，应用适配程度按所用 SDK 版本分为三档，苹果称适配本身并不复杂。（来源：快科技）</p>
+<p>&nbsp;</p>
+<h2>Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年</h2>
+<p>11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划，入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件，期限为 12 个月。</p>
+<p>据介绍，Adobe for Startups 计划面向成立时间不超过 5 年，且融资总额低于 1,500 万美元（IT 之家注：现汇率约合 1 亿元人民币）的企业。在免费使用的软件中，Firefly Pro Plus 是一款创意型 AI 工具，可帮助用户将创意构思转化为图像、视频和音频内容。</p>
+<p>Semrush 则为企业提供搜索情报和营销相关工具，帮助企业了解自身在互联网上的曝光情况，以及如何进一步优化线上表现。Acrobat Studio 将提供 AI 助手和 Adobe Express Premium，方便企业整理 PDF 文档。</p>
+<p>Adobe 表示，该计划旨在帮助初创企业尽快建立品牌形象，以较低成本获得更好的软件体验，减轻预算压力。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/35/da/35da2e4ad57f3a24c8f7022d6cfcac05.png"></p>
+<h2>微软申请「实时改写发言」AI 专利, 可修改直播内容并同步调整口型</h2>
+<p>微软近日公开的一项专利申请引发广泛关注。根据专利文件描述，公司正在研究一种能够在直播过程中实时修改发言内容，并同步调整说话者嘴部和面部动作的人工智能系统，从而让观众看到经过修改后的自然视频画面。</p>
+<p>这项专利名为「实时人工智能增强视频或增强现实直播呈现技术」，最初于 2025 年 4 月提交，并于 2026 年 10 月正式公开。文件显示，该系统不仅能够修改直播中的语音内容，还能够利用生成式人工智能对视频画面进行处理，使人物口型与修改后的语音保持一致。</p>
+<p>按照专利描述，系统会持续监听直播音频流，通过 AI 代理自动识别需要调整的词汇或短语。当发现目标内容后，生成式人工智能会对音频进行替换、删除或重写，同时修改相关视频帧中的面部动作、嘴唇形状以及口部运动轨迹，从而让最终画面看起来像是演讲者原本就说出了修改后的内容。</p>
+<p>值得注意的是，目前公开的仅是一项专利申请，并不代表微软已经推出相关产品，也不意味着相关技术一定会最终商业化。科技行业长期存在大量未被实际应用的专利构想，因此该系统是否会出现在未来产品中仍有待观察。(来源：cnBeta)</p>
+<h2>&nbsp;</h2>
+<h2>谷歌高管哈里森辞去 SpaceX 董事会职务，任职已超十年</h2>
+<p>11 月 8 日消息，SpaceX 当地时间周五披露，谷歌高管唐纳德 · 哈里森（Donald Harrison）已辞去该公司董事会职务，其在该职位任职已超过十年。</p>
+<p>哈里森于 11 月 4 日通知 SpaceX 自己的辞职决定，并立即生效。</p>
+<p>由埃隆 · 马斯克（Elon Musk）领导的 SpaceX 表示，哈里森辞职并非因为他与公司在运营、政策或实践相关事务上存在任何分歧。</p>
+<p>哈里森是谷歌的资深高管，目前担任全球合作与企业发展总裁。伦敦证券交易所集团（LSEG）的数据显示，谷歌母公司 Alphabet 是 SpaceX 最大的单一机构股东。</p>
+<p>IT 之家注意到，马斯克表示，哈里森辞职是因为他在 Alphabet 公司的职务与 SpaceX 董事会工作之间存在过多利益冲突。马斯克周五在 X 平台发文称：「唐一直是一位非常出色的董事会成员，非常感谢他所作出的贡献。」</p>
+<p>谷歌周五披露，其持有的 SpaceX 股份小幅增加，目前约为 5.55 亿股，此前为 5.512 亿股。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送</h2>
+<p>当地时间 11 月 5 日，GitHub 发布博文，称上周在 GitHub Universe 大会上，正式公布了全新的 Git 存储架构，代号「Rubicon」。</p>
+<p>官方表示，该架构不仅具备每秒处理数千次写入的能力，还能实现读取按需水平扩展。经内部压力测试验证，新架构能够在保持极低读取延迟的同时，支持单个代码仓库容纳 5000 个智能体（Agent）并发协作，并承受每秒高达 7200 次的代码推送。</p>
+<p>据悉，该架构目前已经开启小范围定向内测（limited private preview），并计划于明年初逐步扩大开放范围。</p>
+<p>据介绍，如今 GitHub 上最繁忙的代码仓库，其单秒写入峰值最多也不过数十次，且往往呈现短暂脉冲式的突发状态。然而，随着越来越多的研发工作交由全天候高并发运行的 AI 智能体处理，预计在未来一年内，这种瞬时突发将演变为常态化的持续高吞吐负载。</p>
+<p>每一次代码推送（Push）都会级联触发更多的读取请求：CI 流水线即刻启动、部署系统拉取最新提交，其他协同智能体也会同步获取代码作为上下文。这种读操作的扇出扩散（Read Fan-out），随着写入频率的攀升，对平台整体流量产生了极为显著的放大效应。</p>
+<p>在流量分布曲线最顶端的头部仓库中，这一趋势已然显现。下方图表展示了 GitHub 上某个典型代码仓库在 3 月至 5 月期间的日请求量变化——短短两个月内，其流量便激增了约 4 倍；此后至今，其访问增长更始终维持着陡峭的指数级上升轨迹。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单</h2>
+<p>11 月 8 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）当地时间周六表示，为了在明年拆除生产线、转而扩大 Cybercab 产能之前完成现有 Cybertruck 订单，特斯拉将为 Cybertruck 增加一个额外生产班次。</p>
+<p>马斯克在社交平台 X 上发文称：「目前 Cybertruck 的积压订单量远超特斯拉在明年 6 月至 7 月左右拆除生产线、为 Cybercab 扩产之前所能完成的数量。」</p>
+<p>他补充说：「我们将增加一个额外班次，尽可能确保按时完成所有订单。」（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/2b/d0/2bd08b88f77199f817e41ead99466117.png"></p>
+<h2>韩国初创公司 Lutra 推出 HOA A1 相机：独特形态，可令摄影师与模特保持眼神交流</h2>
+<p>据外媒 PetaPixel 报道，韩国初创公司 Lutra 推出了新品牌 Humans of Authenticity（HOA），旗下的新品是一款采用大型开放式取景框的数码相机，无需通过屏幕取景。</p>
+<p>其镜头和传感器位于取景窗中央附近，摄影师构图时既能与被摄者保持眼神交流，也能摆脱屏幕的干扰，专注于眼前的画面。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/bc/35/bc35f3a4f587d4fc081fc79ead97e60d.jpg"></p>
+<p>HOA A1 首发版计划于 12 月 1 日上市，首批仅生产 100 台。目前尚未开放预订，售价 36 万韩元（IT 之家注：现汇率约合 1,773 元人民币），该相机搭载 1600 万像素、1/2.53 英寸索尼传感器和 26mm f/1.75 镜头。机身背面保留了一块小型 LCD 屏幕，只显示剩余电量、可拍张数等信息，不承担取景功能。操作也十分简单，机身顶部设有快门按钮，拿起相机即可拍摄。</p>
+<p>HOA 官网尚未详细披露 A1 的功能，也没有公布实拍样张。按照官网的说法，公司仍在与摄影师合作调整相机的色彩和影调。</p>
+<p>连接方面，该相机无需联网即可拍照，同时也可通过连接 Wi-Fi 来查看和下载照片。用户将手机轻触相机背面，就能无线获取拍摄的照片。同时，照片传输不需要插入 USB 数据线或取出存储卡。</p>
+<p>该相机还配备了名为 ShootProof 的照片认证系统，每张照片都会生成一份匿名认证凭证，并记录在公共区块链上。其另外提供可自行开关的「签名模式」，用户可以通过配套 App 签名，让自己的名字出现在每张照片的一角。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>索尼全球首发养老黑科技！不靠摄像头 Wi-Fi 信号即可检测老人跌倒</h2>
+<p>2026 年 11 月 5 日至 10 日，第九届中国国际进口博览会在上海举行，展会期间索尼（中国）有限公司全球首发面向居家养老的隐私友好型无线感知跌倒检测系统。</p>
+<p>该系统依托 Wi-Fi 信号感知人体活动变化，采集信道状态信息结合深度学习算法识别跌倒事件并触发告警，无需用户佩戴额外设备、不采集影像，可从根源消除影像隐私风险，部署简便无需复杂调试，适配居家、社区、养老机构、医疗机构等多元照护场景。</p>
+<p>目前该系统已在上海开展试点落地，由索尼中国研究院本土自研，研发过程中与北京科技大学有合作。（来源：快科技）</p>
+<p>&nbsp;</p>
+<h2>谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature</h2>
+<p>当地时间 11 月 5 日，谷歌发布博文，介绍在《自然》（Nature）发表的最新研究成果。</p>
+<p>谷歌推出了名为 AI-PPG-ACC-HTN 的多模态 AI 系统。该系统无需袖带校准，使用普通消费级智能手表便能被动检测高血压迹象。</p>
+<p>官方表示，与常规方案试图估算极易受瞬时环境噪声干扰的单次瞬时收缩压与舒张压不同，新系统转变了解决思路：通过聚合连续多天采集的被动生理特征，专注于识别个体潜在且持续存在的高血压状态。</p>
+<p>自监督预训练：使用超 49 万小时无标注数据训练 1D-CNN，通过对比学习让模型自主挖掘复杂的心血管生理特征。</p>
+<p>多天聚合与分类：将多天 15 秒特征向量取均值平滑瞬态噪声，结合身高（表征动脉路径长度），经逻辑回归模型输出持续高血压概率评分。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/01/45/0145ac7b61fef2938ad862a65a92fa81.jpg"></p>
+<p>为评估其性能，研究团队在全美 5 个临床中心开展了前瞻性、多中心临床试验，纳入 196 名无心血管病史且未服降压药的受试者，并以临床金标准——24 小时动态血压监测为参照基准。试验结果显示：</p>
+<p>初步筛查：特异度达 90.0%，阳性预测值（PPV）为 80.6%，灵敏度为 65.8%（优于门诊单次初筛的 55.3% 灵敏度与 77.8% PPV）。</p>
+<p>确诊性检测（针对初筛偏高人群）：PPV 高达 96.7%，特异度达 90.9%，灵敏度达 78.4%，优于门诊复测，更可比肩需佩戴数天的家庭连续袖带监测。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/9e/ee/9eeed9d30934de3dba3599244b9d9787.png"></p>
+<h2>美国再发生 NVIDIA AI 硬件失窃案：价值 1140 万美元设备运输途中神秘消失</h2>
+<p>美国加利福尼亚州警方正在调查一起重大货运盗窃案，一批价值约 1140 万美元的英伟达设备在从奥克兰运往得克萨斯州沃思堡的途中失踪，至今仍未找到，警方也尚未宣布任何逮捕行动。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/2e/36/2e36b1a89a8df740e2a0bdac94e66372.jpg"></p>
+<p>根据警方掌握的信息，这批货物共装载在六个托盘上，于 2026 年 8 月 29 日在奥克兰按照原定计划完成提货。负责运输的卡车外观带有一家食品运输公司的标识，看起来与正常商业物流车辆并无明显区别。然而，货物买方直到 9 月初才发现设备始终没有送达，随即向警方报告。</p>
+<p>调查人员随后尝试追踪运输车辆的行踪，但发现卡车在提货后曾多次长时间停留，最终在加利福尼亚州圣贝纳迪诺县附近失去踪迹。奥克兰警方于 9 月 13 日正式收到重大盗窃案件报告，目前调查仍在进行中。</p>
+<p>值得注意的是，警方和媒体均未披露失窃设备的具体型号，也没有说明货物究竟包含英伟达 GPU、AI 服务器还是其他数据中心硬件。尽管如此，1140 万美元的货值已经足以说明这批货物的规模相当可观。（来源：cnBeta）</p>
+<p>&nbsp;</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/9a/d4/9ad42a22ef969937b5e7ff8103c09dc5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/373639</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373639</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:09 GMT</pubDate>
+            <description><![CDATA[豆包工作个人版取消 5 小时额度限制；中国移动：AI 生成内容带动流量增长 5 倍；Perplexity 推出 Teammate 功能]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/21/04/21047975149590e4f7bf53a13d6d4efa.png"></p>
+<h1><strong>电动皮卡中道崩殂！马斯克宣布 Cybertruck 明年逐步停产：销量仅达预期一成</strong></h1>
+<p>11 月 6 日消息，特斯拉 CEO 马斯克在社交平台 X 发文表示，公司将于明年年中前后，逐步收尾得州超级工厂的 Cybertruck 电动皮卡生产，为 Cybercab 车型扩产腾出产能空间。</p>
+<p>Cybertruck 首席工程师随后回应称，Cybertruck 是特斯拉研发新技术的重要载体，其线控转向等技术已应用于 Cybercab，产品技术生命将在新车型上延续。</p>
+<p>市场表现方面，Cybertruck 实际销量与规划目标差距悬殊，<strong>马斯克曾在 2023 年股东大会上预计，产能完全爬坡后该车年销量可达 25 万至 50 万辆。</strong></p>
+<p>特斯拉未单独披露该车型交付数据，据行业估算，今年三季度 Cybertruck 交付量约 7000 至 8000 辆，<strong>折合年销量约 3 万辆，仅为原规划年产能 25 万辆的 12%左右。</strong></p>
+<p>美国市场数据显示，Cybertruck 2025 年在美销量为 20237 辆，同比下滑 48%，今年一季度更是跌至 3519 辆的历史低点。（来源：快科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/3c/e1/3ce1e1468f20eb4ca9281e9f1dd1d956.png"></p>
+<h1>消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元</h1>
+<p>11 月 7 日，据彭博社报道，知情人士称，OpenAI 新一轮融资已完成大约 110 亿美元的首期款项，对公司的估值为 1.25 万亿美元。</p>
+<p>据知情人士透露，截至周五，这笔资金已汇入 OpenAI 账户。其中一位知情人士称，本轮融资的剩余部分预计将在未来几周内完成，融资总额最高可能达到 200 亿美元。</p>
+<p>在推迟首次公开招股 (IPO) 计划后，OpenAI 已与投资者就大规模融资进行了一个多月的谈判。彭博社此前报道称，OpenAI 最初计划以 1.4 万亿美元的估值融资至少 300 亿美元。但随着 AI 股票在公开市场遭遇大幅抛售，该公司随后缩减了融资计划。</p>
+<p>知情人士表示，参与首期融资的投资者包括寇图资本管理和普信集团。本轮融资的其他投资者还包括软银集团、红杉资本、Founders Fund 和安德森 · 霍洛维茨基金。彭博社此前报道称，一个来自阿联酋的投资者财团也参与了本轮融资。</p>
+<p>知情人士称，OpenAI 还在与投资银行合作，计划向高净值个人投资者和散户投资者募集资金。OpenAI 最近一次融资是在今年 3 月，当时该公司完成了 1220 亿美元融资，估值达到 8520 亿美元。（来源：IT 之家）</p>
+<h1>李飞飞 World Labs 团队发布「游戏掌机」Frameboy：用网页实时探索 AI 生成世界，每秒最高 15 帧</h1>
+<p>「AI 教母」李飞飞的创企 World Labs 于今年 9 月发布了「全球首个多模态世界模型」—— Atlas，宣称该模型能够以像素级精确的相机控制生成图像和视频帧，并将其在 3D 中重建。</p>
+<p>时隔两个月，World Labs 端出了一款名为<strong>Frameboy</strong>的演示项目，可以让网友直接在网页端体验，用高度优化的 Atlas 版本实时探索多模态世界，并以最高 15 帧每秒的云 GPU 流媒体传输。</p>
+<p>Frameboy 是一个类似游戏机的模拟项目，<strong>网友可点击不同的「游戏卡带」来选择不同的模拟世界</strong>，经过十几秒加载后就可以自由探索模拟的世界。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c2/5d/c25df6e72e7acb52178b0a5fafe2152f.png"></p>
+<p>Frameboy 的按键和摇杆支持通过<strong>触屏、键盘按键</strong>操控，十字键是进行移动，摇杆是调整视角，整体操作稍微有些卡顿，毕竟最高只有 15 帧。</p>
+<p>此外，Frameboy 目前必须运行在云端强大的 GPU 服务器上，成本与本地渲染方法相比并不便宜。</p>
+<p>不过这个演示相当于一个起点，如果未来帧数更高、运行成本更低，是否意味着人人都可以创建一个虚拟世界，然后直接在网页上进行浏览游玩。（来源：IT 之家）</p>
+<h1>小米汽车架构调整：成立国际业务部，副总裁于立国兼任国际业务部总经理</h1>
+<p>11 月 6 日消息，小米汽车近日宣布迎来架构调整，成立国际业务部，任命汽车部副总裁于立国兼任国际业务部总经理，向集团 CEO、汽车部总裁雷军和集团总裁卢伟冰双线汇报。</p>
+<p>另外，小米汽车国际业务部下设汽车国际市场部，相关工作向国际业务部总经理于立国和集团副总裁、CMO 许斐双线汇报；下设 GTM 部、销售部、 网络发展部、交付物流部、用户服务部、综合管理部、海外各地区部，相关工作向国际业务部总经理于立国汇报。</p>
+<p>今年 5 月，小米汽车成立了海外业务筹备组，由汽车部副总裁于立国兼任海外业务筹备组组长。此次正式成立国际业务部，以及下设多个子部门，意味着小米汽车出海的进程进一步加快。</p>
+<p>根据小米集团合伙人兼总裁卢伟冰在今年小米投资者日上公布的信息，小米汽车预计将在 2027 年下半年正式开启全球化进程，首站选定欧洲市场，随后在 2028 年上半年进入右舵车市场。（来源：新浪科技）</p>
+<h1><strong>摩尔线程完成 Kimi K3.1 Pro 适配，国产 GPU 支持 3 万亿级模型推理</strong></h1>
+<p>11 月 6 日，摩尔线程宣布，基于 MTT S5000 智算卡及 MUSA 软件栈，完成月之暗面 Kimi K3.1 Pro 模型的 Day-0 适配。此次适配打通模型加载、服务启动，以及文本和图像基础推理链路。针对模型采用的稀疏注意力机制、KV Cache 和低精度专家权重，摩尔线程进行了相应的计算路径适配。Kimi K3.1 Pro 的完整模型权重已于 11 月 4 日公开，因此今天的新进展是国产 GPU 平台完成适配，而不是 Kimi 发布了新模型。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b0/57/b057c341e65c3fa210adcf3e04d80bdc.png"></p>
+<h1>Meta 为 Muse 智能体推出 Spaces，可自动构建追踪器、规划器和项目看板</h1>
+<p>Meta 最近推出了 Muse 智能体，新一代可爱的智能体助手。如今，该公司又推出了 Spaces，一种与这些智能体沟通和协作的新方式。</p>
+<p>据了解，Spaces 本质上就是围绕特定主题展开的独立对话，尽管 Meta 将其称为「定制体验」。它们位于你与 Muse 智能体交互界面的侧边栏中。点击某个 Space 即可打开该对话，Muse 会在其中代表你朝着特定目标推进工作。Meta 表示，Spaces 还可以轻松集成第三方应用和信息。</p>
+<p>例如，如果你想规划一次度假，可以新建一个专门针对该项目的 Space，每当你想与 Muse 一起推进时，点击打开该标签页即可。或者，如果你正专注于为即将到来的家庭活动收集食谱，也可以为此新建一个 Space。</p>
+<p>Meta 给出的其他例子还包括节日礼物追踪、婚礼策划，或 DIY 项目空间。「在聊天中描述一个想法，Muse 就会为你构建一个空间，无论是追踪器、规划器还是项目看板，」Meta 表示。（来源：新浪科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f4/18/f41834fbd790bf002a86fe533a406888.png"></p>
+<h1><strong>Airbnb 计划明年推出 AI 旅行 Agent，从搜索住宿转向规划完整行程</strong></h1>
+<p>Airbnb 在最新业务交流中表示，计划于 2027 年上半年推出 AI 旅行 Agent，让用户能够通过自然语言规划旅行，并逐步把住宿、体验和行程安排整合在一个交互流程中。相比传统住宿搜索，AI Agent 的目标是理解用户的预算、时间和旅行偏好，帮助用户完成更多决策和操作。目前该产品仍处于规划阶段，尚未正式向用户开放。（来源：IT 之家）</p>
+<h1>豆包工作个人版取消 5 小时额度限制</h1>
+<p>11 月 6 日消息，据报道，11 月 6 日起，豆包工作个人版取消 5 小时额度限制。</p>
+<p>调整后，<strong>个人用户不再受到 5 小时短周期额度限制</strong>，可以在周额度范围内，根据实际工作节奏灵活安排使用时间。<strong>周额度及其他使用规则仍以对应套餐为准</strong>。</p>
+<p>用户可在豆包工作个人版「设置-订阅与额度管理」中查看当前套餐、剩余额度及具体使用规则。</p>
+<p>豆包工作是豆包面向生产力场景打造的 AI 产品及品牌。用户可以使用自然语言描述任务，并提供相关资料或工作上下文；豆包工作会根据任务目标自主拆解任务、调用工具，完成调研分析、内容创作、数据处理、应用搭建等复杂工作，并在执行过程中根据补充要求调整任务，生成可继续修改和分享的结果。（来源：IT 之家）</p>
+<h1>中国移动：今年手机上网流量增长 18% 增速达去年两倍，AI 生成内容带动流量增长 5 倍</h1>
+<p>在 11 月 6 日的 2026 移动网络大会上，中国移动表示人工智能驱动移动网络流量快速增长。</p>
+<p>根据中国移动内网实测数据，今年手机上网流量增长 18%，增速是去年的两倍；其中，<strong>AI 生成的内容带来流量增长 5 倍</strong>，成为互联网新的源头模式，是驱动流量加速增长的主要引擎。</p>
+<p>此外，AI 引发数据传送结构显著变化，全网的平均上下行流量是 1:9，<strong>而 AI 应用的流量上下行是 1:6，未来部分应用可能是 1:1 甚至更高</strong>。</p>
+<p>中国移动官方坦言，目前网络资源以保障下载为主，不能很好地匹配数据传送的结构性变化。此外，<strong>人工智能目前还面临网络时延瓶颈</strong>，目前首 Token 的调用平均时延为几百毫秒，其中移动网络侧的试验只有 35 毫秒，云端平台侧的时延是 665 毫秒，因此需要网络与平台侧深度融合协同。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/a7/86/a786367b32efbb6043aed05d808ccbea.png"></p>
+<h1>Perplexity 推出 Teammate 功能：可执行持续性复杂工作的智能体</h1>
+<p>人工智能企业 Perplexity 宣布推出一项名为 "Teammate" 的功能。作为使用者的「团队成员」，<strong>Teammate 是一款能执行持续性复杂工作的智能体</strong>，简化了使用 Perplexity Computer 时的规划工作。</p>
+<p>Perplexity Teammates 负责规划和协调项目，根据优先级变化灵活调整工作方向，并提交成果供审核。一位 Teammate 会协调 Computer 会话以及其它 Teammate，确保项目持续推进。用户可以在整个过程中检查并指导其工作。</p>
+<p>Teammates 需要 Perplexity Max 订阅，这项功能最初将在网页端推出，随后扩展至 iOS 端。Perplexity 将在未来数周扩展其访问权限和功能。（来源：IT 之家）</p>
+<h1>消息称徕卡 Q3 43 Monochrom 相机下月推出，仅支持拍摄黑白照片</h1>
+<p>消息源 Leica Rumors 发文称，徕卡 Q3 43 Monochrom 相机将于下个月发布。这款相机的 CMOS 传感器移除了拜耳滤色镜，<strong>只能拍摄黑白照片</strong>。</p>
+<p>徕卡 Monochrom 系列相机通常不会在机身正面配备红色 Logo。作为参考，已发布的 Q3 Monochrom 顶盖上的「Monochrom」等刻字采用低调的黑色或灰色，相机正面隐去了红色徕卡标志，官方称「彰显了其简约的设计风格」。</p>
+<p>同时，Q3 Monochrom 搭载专用黑白传感器，仅捕捉亮度信息。其 6000 万像素黑白感光元件搭载三倍分辨率技术，ISO 范围为 100 至 20 万，支持以 6000 万、3600 万或 1800 万像素分辨率拍摄照片，还可录制最高 8K 的视频。（来源：IT 之家）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/e3/d6/e3d6a0165516cb52f9d61f20df4a8a0e.jpg"></p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/cc/ef/ccef503a468e65a5f58f076c637bc02f.png"></p>
+<h1><strong>R 星谈《GTA6》开放世界设计：弱化地图图标引导，鼓励玩家自然发现事件</strong></h1>
+<p>据游戏媒体 GameRant 报道，《GTA6》里最有趣的事件，可能永远不会以地图图标形式出现。玩家驾车穿过街道时，可能突然遇上街头赛车；沿着人行道散步时，警察可能恰好在抓捕犯人。</p>
+<p>Rockstar North 工作室联合负责人兼开发主管 Rob Nelson 谈到这部分设计时表示，<strong>他们特别参考了《荒野大镖客：救赎 2》</strong>，<strong>将部分探索内容留给玩家自行发现</strong>。</p>
+<p>他对此解释称：「游戏中有大量内容需要玩家在游玩过程中自行发现，我们并不一定会通过任务目标、地图标记或图标来引导玩家找到它们。」</p>
+<p>原报道获悉，《GTA6》游戏内将会有完整的公共交通系统。如果玩家想要欣赏雷奥奈达州风景，可以选择坐巴士慢悠悠地逛上一天，而不是亲自开车。至于为何这么设计，Nelson 表示：「你不会希望把各种事情强加给玩家，让他们产生抗拒心理。我们更希望让玩家按照自己喜欢的方式来体验游戏。」（来源：IT 之家）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/cf/2a/cf2a03536be80f864e5824960ca2fa2e.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber]]></title>
+            <link>https://www.geekpark.net/news/373554</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373554</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:09 GMT</pubDate>
+            <description><![CDATA[蓝牙迎来近四倍速度提升；Google 发布 Gemini Omni 1.2 Flash 视频模型]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/73/d2/73d26ad66e000a0ce14f0e2a25ff0a38.png"></p>
+<h1>芯片股惨遭重挫，华尔街迎来 1896 年以来中期选举后表现最差的第二个交易日</h1>
+<p>据路透社报道，美国民主党在国会中期选举中大胜，引发投资者对 AI 监管加强、数据中心建设放缓的担忧。</p>
+<p>当地时间周四，美国科技股遭遇大规模抛售，<strong>华尔街股票市值单日蒸发约 3.2 万亿美元（约合人民币 22.7 万亿元）</strong>。纳斯达克综合指数暴跌 5.52%，创下自 2025 年 4 月以来最大单日跌幅，较 10 月初创下的历史高点累计下跌近 12%，进入技术性回调区间。</p>
+<p>此次抛售席卷整个 AI 产业链。费城半导体指数暴跌约 12.3%，英伟达下跌约 9.3%，基本抹去 2026 年以来的累计涨幅；闪迪（SanDisk）暴跌约 22%，美光科技、西部数据和 AMD 跌幅均在 17% 左右。此前受到资金追捧的 AI 芯片、存储及数据中心相关股票成为重灾区。</p>
+<p>这轮抛售与美国中期选举结果密切相关。民主党赢得国会控制权，并在多个关键州取得胜利，使投资者担心美国未来可能对 AI 基础设施建设实施更严格的监管。</p>
+<p>随着 AI 数据中心规模不断扩大，其庞大的电力和水资源需求正引发越来越多当地居民的反对。部分社区担心，新建数据中心将推高电费、增加电网负担，并对当地基础设施造成压力。</p>
+<p>Meta 总裁迪娜·鲍威尔·麦考密克（Dina Powell McCormick）指出，数据中心已经成为公众感知 AI 发展的直接载体，也因此成为社区反对 AI 扩张的集中目标。（消息来源：环球市场播报、凤凰网科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/a4/10/a410eb1677331274965953a4fff400e3.png"></p>
+<h1>美国民主党提出超级 AI 禁令：个人违规 20 年监禁、企业直接强制解散！</h1>
+<p>快科技 11 月 5 日消息，<strong>美国民主党宣布推动《禁止人工超级智能法案》，全面封杀超级 AI 研发，明文禁止任何个人或企业机构研发及部署人工超级智能（ASI）。</strong></p>
+<p>根据法案草案，ASI 为具备以下特征的系统：一是在广泛领域与任务中达到或超越人类认知表现与能力的 AI 架构，或可轻易被修改以展现出该能力的系统；二是具备足以策划并执行削弱人类主导权、甚至推翻或破坏美国政府体系的 AI 系统。</p>
+<p>法案要求全面暂停所有先进 AI 的研发进程，直至联邦层级的专属监管机构正式运作，并建立清晰的法规与模型审查机制。</p>
+<p>为确保禁令落实，法案提议设立全新内阁级别的人工智能部，专责监管前沿 AI 模型的全生命周期，并有权强制技术团队消除系统内的高风险功能，包括忽视人类关机指令、未经授权进行网络攻击或自我递归升级等潜在失控行为。</p>
+<p><strong>违规罚则方面，涉案企业将面临被强制解散处分，违规个人最高可被判处 20 年联邦监禁，量刑标准堪比现行非法研发核武器的重大罪行。</strong></p>
+<p>此外管辖范围不限于美国境内，法案明确将「全球禁止超级智能」列为美国外交政策目标，要求美国政府积极寻求国际协定、强化盟友合作，并实施严格的出口管制措施，阻断全球任何地区研发人工超级智能的可能性。（消息来源：快科技）</p>
+<h1>Google 发布 Gemini Omni 1.2 Flash 视频模型，可对话编辑最长 15 秒钟</h1>
+<p>11 月 6 日，Google 公司在周四正式推出了视频生成模型 Gemini Omni 1.2 Flash，该模型支持原生 15 秒视频生成，支持通过多轮对话进行编辑，价格较上一代降低 30%。</p>
+<p>Google 表示，Gemini Omni 1.2 Flash 正通过 Gemini API、Google AI Studio、Google Cloud Console、Flow、Google Vids、面向 Google AI Ultra 订阅用户的 Gemini 应用以及 Google Ads 陆续推出。每个生成的视频都带有不可感知的 SynthID 水印，以标明其来源。</p>
+<p>现在，该模型生成的视频片段时长可设定为 3 至 15 秒，此前最长为 10 秒。同时，720p 视频的生成价格下调 30%，降至每秒 0.07 美元。用户还可以通过持续对话的方式对已生成的视频进行编辑。</p>
+<p>它的一项突出功能是 Google 所称的「对话式编辑」(Conversational Editing)。用户可以通过多轮对话逐步调整生成的视频，例如更换背景、调整光线或修改画面比例，而无需重新生成整个视频。Google 表示，这项功能支持对完整的 15 秒视频进行编辑。</p>
+<p>再结合上分层工作流，这项功能还有望降低生成成本。用户首先以 360p 或 720p 分辨率生成初稿，再通过后续编辑修正个别细节，最后仅对最终成片进行升频处理，将分辨率提升至 1080p 或 4K。（消息来源：凤凰网科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b1/45/b14593139d4a39c72fd62b35dee2efc3.gif"></p>
+<h1>OpenAI 推出 GPT-6 Cyber：漏洞挖掘能力大幅提升 越权攻击风险显著降低</h1>
+<p>OpenAI 正式推出新一代网络安全人工智能模型 GPT-6 Cyber，重点提升软件漏洞发现、网络安全防御以及自主执行安全测试的能力。与此前版本相比，新模型不仅在网络安全相关基准测试中取得更高成绩，还显著降低了执行任务时偏离授权范围、擅自攻击其他平台的概率。</p>
+<p>OpenAI 表示，GPT-6 Cyber 在内部测试中，未经授权越界执行操作的比例已经降至 1% 以下，而此前的 GPT-5.6 Cyber 这一比例约为 5%。这意味着新模型在执行网络安全任务时，能够更加严格地遵循用户设定的目标和权限范围。</p>
+<p>为了评估这一问题，OpenAI 采用了一项名为 ExploitGym HoneyPot 的测试。OpenAI 网络安全准备与安全团队负责人福阿德·马丁表示，GPT-6 Cyber 在这项评估中取得了明显进步，超过 99% 的情况下都能够按照用户要求执行任务。</p>
+<p>不过，研究人员仍然关注另一种潜在风险，即所谓的「评估意识」（Evaluation Awareness）。当人工智能模型意识到自己正在接受测试时，可能会刻意改变行为，以便获得更好的测试结果，而不一定反映其在真实环境中的表现。（消息来源：cnBeta）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/83/3e/833e7126f06c95820b98ee1d0e7c58ab.png"></p>
+<h1>前 Anthropic Claude Code 产品负责人 Cat Wu 跳槽加入 OpenAI</h1>
+<p>11 月 5 日消息，前 Anthropic Claude Code 产品负责人 Cat Wu 今日宣布加入 OpenAI，担任核心产品（Core Products）产品管理负责人。</p>
+<p>她将参与 OpenAI 核心产品及智能体相关工作，与企业产品负责人 Nick Turley、消费级产品负责人 Ashley Alexander 等人协作，并向 Tibo Sottiaux 汇报。（消息来源：IT 之家）</p>
+<h1>OpenAI 宣布收购 Pierre，扩充 Codex 第一方代码编写、理解、审查工具</h1>
+<p>11 月 5 日消息，OpenAI 当地时间本月 4 日宣布将收购企业 Pierre。该公司开发了 Code Storage 大规模分布式存储系统，此外还有 Trees、Diffs 功能库以及 Highlights 实时更新高亮工具。</p>
+<p>Pierre 的 Trees 让开发者能快速浏览和定位项目文件，Diffs 则让代码变更一目了然。这两款工具都能让开发者轻松审查和浏览大量代码，同时保持出色的性能。（消息来源：IT 之家）</p>
+<h1>蓝牙迎来近四倍速度提升 HDT 技术，为高品质音频和高速传输铺路</h1>
+<p>蓝牙技术即将迎来自诞生以来最重要的性能升级之一。</p>
+<p>蓝牙技术联盟（Bluetooth SIG）日前正式宣布推出「高数据吞吐量」（High Data Throughput，简称 HDT）技术，这项新标准将显著提升蓝牙低功耗（Bluetooth LE）的传输能力，为未来无线耳机、智能穿戴设备、电脑及移动设备带来更快的数据交换速度和更丰富的应用场景。</p>
+<p>蓝牙技术联盟表示，HDT 并不仅仅意味着更高的速度，同时还带来了更大的数据容量、更优异的传输效率以及更高的可靠性。随着设备传输的数据量不断增长，单纯提高速率已无法满足未来需求，因此新标准特别强调速度、容量、能耗和稳定性的全面提升。</p>
+<p>在实际应用层面，更快的数据吞吐能力意味着设备能够在相同时间内完成更多信息传输。对于用户而言，文件同步、设备配对、内容共享和固件更新等任务将明显缩短等待时间，整体使用体验也会变得更加流畅。</p>
+<p>音频领域被认为将成为 Bluetooth HDT 最重要的受益者之一。目前蓝牙 LE Audio 主要依赖 LC3 编码技术，而更高规格的无损音频和高分辨率音频传输长期受到带宽限制。HDT 提供的大幅度性能提升有望让未来无线耳机和音箱能够更轻松地支持无损和高解析度音乐播放，从而进一步缩小无线音频与有线音频之间的差距。（消息来源：cnBeta）</p>
+<h1>华为全新英文子品牌名 Osta 曝光，首批两款旗舰机型浮出水面</h1>
+<p>华为正在筹备一个全新的手机子品牌，其英文名称及首批产品信息近日陆续曝光。根据 GSMArena 11 月 5 日的报道，此前传出的中文名称为「星芒」，如今有两名消息人士透露，该品牌最终采用的英文名称将是「Osta」，这一名称据称也会直接印在产品零售包装盒上。</p>
+<p>按照目前曝光的信息，Osta 品牌预计将以两款手机作为首发产品，分别为 Osta O1 和 Osta O1 Pro，产品定位并非此前传闻中的中端机型，而是直接瞄准旗舰市场。（消息来源：cnBeta）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/37/db/37db247f30bdde5f9cd19ba64fb11cad.png"></p>
+<h1>苹果推出升级版「全球旅行转换器套件」：299 元，兼容 70W 和 140W 电源适配器</h1>
+<p>11 月 6 日消息，除了新 Mac 之外，苹果官网还上架了新版全球旅行转换器套装（World Travel Adapter Kit），售价 39 美元，国行 299 元。</p>
+<p>新版转换器套装包含 5 种可更换交流电插头，适配苹果最新款 70W 和 140W 电源适配器。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/65/ac/65ac613761f6a114998ae9f6ea932749.png"></p>
+<h1>22999 元起！苹果首款触屏 MacBook Pro 正式开售：首搭灵动岛，发光 Logo 回归</h1>
+<p>11 月 6 日消息，今日，<strong>苹果首款触屏 MacBook Pro 正式开售，国行售价 22999 元起，提供 14 英寸和 16 英寸两种尺寸。</strong></p>
+<p>作为苹果首款支持屏幕触控的 MacBook Pro，新机不仅打破了 Mac 笔记本长期不支持触控操作的传统，还首次引入灵动岛设计，并让经典的发光苹果 Logo 重新回归。</p>
+<p>入门版本搭载 M5 Pro 芯片，拥有 15 核 CPU 和 16 核 GPU，标配 24GB 统一内存及 1TB 固态硬盘。</p>
+<p>新机还提供性能更强的 M5 Max 芯片可选，最高支持 128GB 统一内存和 16TB 固态硬盘，可满足视频剪辑、3D 渲染等专业需求。</p>
+<p>屏幕是此次升级的重点，新款 MacBook Pro 采用全新 PROLED XDR 显示屏，<strong>首次引入双层串联 OLED 技术，HDR 峰值亮度高达 2000 尼特，对比度达到 10000000:1，支持 10Hz-120Hz 自适应刷新率。</strong></p>
+<p>触控功能的加入也让 MacBook Pro 拥有了更加灵活的交互方式，用户可直接在屏幕上滑动网页、缩放照片、调整窗口，不再局限于键盘和触控板操作。</p>
+<p>值得一提的是，苹果在增加触控功能、升级屏幕的同时，还进一步降低了机身重量。（消息来源：快科技）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/9b/d5/9bd5440ce806e34983ef1295385e14be.png"></p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/ff/f0/fff0ea06ec6cd2d97b0522dfab80a50f.png"></p>
+<h1>打车怕遇到臭车！上海新规征求意见：明确臭车最高罚 5000 元</h1>
+<p>11 月 5 日消息，据解放日报报道，上海正在推进出租汽车行业立法更新，《上海市出租汽车条例（草案）》目前面向社会征集意见，意见征集周期从 10 月 24 日持续到 11 月 7 日。</p>
+<p>这份草案计划替换施行多年的旧条例，统一覆盖巡游出租车与网约车两类业态，针对日常打车里的诸多痛点设置明确监管规则。</p>
+<p><strong>乘客吐槽较多的车内异味问题，在草案里有了硬性约束。草案要求车辆运营期间，车厢与后备箱保持干净整洁、不能存在异味，一旦达不到标准，交通管理部门可责令整改，并处 500 元至 5000 元罚款。</strong></p>
+<p>在驾驶员服务规范方面，拒载、中途甩客、私自换车等违规行为的处罚力度明显加大。出现拒载情况，驾驶员除罚款外还要停运 15 天，情节严重会直接吊销从业和车辆运输证件。</p>
+<p>甩客、擅自更换车辆的行为，直接吊销相关证件。同时，如果平台和企业对这类违规驾驶员负有管理责任，同样会被追责，最高可罚 5 万元。（消息来源：快科技）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/31/3e/313e70f5c04f85184262155bef40846f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道]]></title>
+            <link>https://www.geekpark.net/news/373494</link>
+            <guid isPermaLink="false">https://www.geekpark.net/news/373494</guid>
+            <pubDate>Sat, 14 Nov 2026 16:26:10 GMT</pubDate>
+            <description><![CDATA[OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画；Anthropic 向 IPO 投资者大谈 Claude 的芯片设计能力；700 亿美元英伟达显卡订单排长队，中国客户四个月预计只能拿到 1%]]></description>
+            <content:encoded><![CDATA[<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b4/c6/b4c689b750a8ac9c0bbe1b572d57c57f.png"></p>
+<h2>Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一</h2>
+<p>11 月 4 日，Apple 智能伴随 iOS 27.3 的 Developer Beta 向中国大陆用户开放测试，并计划于 12 月随 iOS 27.3 正式版推出。与此同时，苹果也确认与阿里巴巴达成合作，将千问接入 Siri、写作工具及视觉智能，让中国用户能够通过系统直接调用国内大模型的能力。</p>
+<p>不过，这一次上线的并不是完整版 Apple 智能。首批功能主要包括实时翻译、写作工具、视觉智能、照片消除、智绘表情、通知摘要等，而苹果此前展示的新一代 Siri AI，以及 WWDC26 公布的部分下一代 AI 能力，仍然不在此次更新范围内。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/c6/fc/c6fcb6ebb41b2cdbf05f49d8d7752fd3.png"></p>
+<p>当日，苹果 (AAPL.US) 大涨超 6%，报 353.05 美元，总市值再度突破 5 万亿美元，重返美股市值第一。(来源：格隆汇)</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/fc/d8/fcd8d4c992219872a56584ff10db1510.png"></p>
+<h2>OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画</h2>
+<p>11 月 5 日，据 The Verge 报道，ChatGPT 现在可以通过提示词或上传到人工智能聊天机器人的照片来创建 GIF。此次更新与 OpenAI 的新 Images 2.6 模型同步推出，允许用户调整 GIF 的动画速度，编辑单个帧，并与他人分享。</p>
+<p>在此之前，ChatGPT 无法单步原生生成 GIF。公司分享的一个示例展示了 ChatGPT 如何根据「你能制作一只猫跳舞的 GIF 吗？」的提示生成 GIF，同时还提供切换播放速度和逐帧观看的选项。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f5/c5/f5c584b82a84ad778a8060d35499c8be.jpg"></p>
+<p>OpenAI 表示，除了支持 GIF 制作外，Images 2.6 更新还使 ChatGPT 能够更快地生成图像。公司表示，用户目前每周通过 ChatGPT 及其 API 生成超过 40 亿张图片，较其 9 月份报告的每周 30 亿张大幅增长。（来源：IT 之家）</p>
+<h2>&nbsp;</h2>
+<h2>Anthropic 向 IPO 投资者大谈 Claude 的芯片设计能力</h2>
+<p>11 月 4 日，Anthropic 的人工智能模型此前已帮助发现严重的网络安全漏洞，并改变了软件编程行业。如今，该公司正在探索其模型在陌生领域能够带来多大优势：设计自己的 AI 芯片。</p>
+<article>
+<p>据知情人士透露，Anthropic 正准备于本月晚些时候启动首次公开募股（IPO），届时公司估值可能达到 1.5 万亿美元。在近期与投资者举行的会议上，该公司表示，其新成立的 15 人芯片设计团队已经开始使用自家的 Claude 模型，开展定制芯片的工程和设计工作。Anthropic 的工程师发现，与他们估计的英伟达和超威半导体（AMD）等大型芯片设计公司的传统工作流程相比，Claude 能够显著缩短芯片设计所需的时间。（来源：The Information）</p>
+</article>
+<h2>&nbsp;</h2>
+<h2>700 亿美元英伟达显卡订单排长队，中国客户四个月预计只能拿到 1%</h2>
+<p>11 月 4 日，据外媒报道，阿里、腾讯、字节等中国科技巨头累计订购约 600 万张英伟达 RTX PRO 5500 显卡，总价值约 700 亿美元。但受产能限制，未来四个月预计只能拿到数万张，约占订单量的 1%。</p>
+<p>这批订单早在 10 月就已曝光。当时英伟达预计只能满足 5%–10% 的需求，如今短期交付情况更加严峻：2026 年底前可能只有数千张到货，明年 2 月再交付数万张。</p>
+<p>RTX PRO 5500 原本是配备 84GB 显存的工作站显卡，性能不及 H200、B300 等数据中心 GPU。但在美国出口管制下，中国企业只能退而求其次，大量订购这款显卡。</p>
+<p>偏偏英伟达正优先把台积电产能留给利润更高的下一代 Rubin 芯片，RTX PRO 5500 明年全球产量可能不足 300 万张，连中国订单的一半都满足不了。</p>
+<p>部分中国客户估计，到 2027 年底可能累计拿到约 70 万张，也只占订单量的 12%。（来源：Blockbeats）</p>
+<p>&nbsp;</p>
+<h2>谷歌确认自愿离职补偿计划已扩大至加拿大、法国、德国、日本、瑞士等国</h2>
+<p>11 月 4 日，据路透社今日报道，面对人工智能领域的巨额支出，Alphabet 旗下谷歌正力求遏制不断攀升的成本，并于今年将员工自愿离职买断方案扩展至多个国家。</p>
+<p>谷歌向该媒体证实，公司已于 6 月开始向加拿大、法国、德国、日本和瑞士的部分员工提供自愿离职补偿方案。</p>
+<p>「在 2025 年，我们的一些团队推出了附带遣散补偿的自愿离职计划，」一位谷歌发言人在声明中表示。「刚刚过去的今年夏天，也就是 6 月，我们在全球少数几个国家扩大了该计划，以支持我们接下来的重要工作。」</p>
+<p>目前无法确定有多少员工接受了这轮此前未被报道过的最新要约。此前，该公司已针对美英两国部分部门的员工推行了自愿离职计划。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>OpenAI：印度反超美国，成 ChatGPT 最大消费者市场</h2>
+<p>11 月 4 日，据印度《经济时报》报道，OpenAI 印度区董事总经理普拉布吉特 · 辛格（Prabhjeet Singh）表示，印度目前的 ChatGPT 周活跃用户数已超过包括美国在内的任何国家，而且自 1 月以来，印度用户数量已翻了一番。</p>
+<p>据 Indian Startup News 报道, 他还表示，印度是全球 ChatGPT 学生用户最多的国家。辛格另外对《印度时报》表示，印度已经是 ChatGPT 全球最大的消费者市场。为满足这一需求，OpenAI 正在印度境内扩充算力。它与 TCS 旗下的数据中心业务 HyperVault 达成合作，起步容量为 100 兆瓦，未来可扩展至 1 吉瓦。</p>
+<p>Singh 表示，下一批用户能否增长，取决于语言和使用门槛。他说:「印度大部分地区其实并不把英语作为主要语言，所以我们真正的重点是印地语和各种地方语言。」他还提到了语音功能，以及面向低端手机、以安卓优先的产品。（来源：DoNews）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/b4/44/b44481414857d4d83dc0795f88880dae.png"></p>
+<h2>豆包工作接入抖音生活服务经营等官方插件</h2>
+<p>11 月 4 日，豆包工作宣布接入抖音生活服务经营、巨量本地推、TikTok for Business 三款官方插件。</p>
+<p>据介绍，完成相应账户授权后，用户可用自然语言查询门店数据、做经营复盘、拿建议，减少报表搬运和重复整理，也无需在多个后台之间反复切换。(来源：新浪财经)</p>
+<p>&nbsp;</p>
+<h2>宇树王兴兴：2027 年或成为机器人行业发展的临界点</h2>
+<p>11 月 4 日，宇树科技创始人王兴兴在世界互联网大会乌镇峰会上表示，2027 年大概率会成为机器人行业或机器人模型发展的「临界点」。他认为，当前机器人采集的数据尚未得到充分利用；如果模型能在仿真训练、实机测试和结果反馈之间持续迭代，数据利用效率有望提高。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/55/c3/55c3a030881b618687fdaa9fc7951738.jpg"></p>
+<p>王兴兴也指出，机器人距离在陌生场景中完成多种任务仍有技术障碍。经过充分训练，机器人在固定工位执行单一任务的成功率可以接近 100%；但拆装手机、穿针引线等精细操作的成功率仍较低，关键在于模型对接触和触觉信息的理解还不够准确。他预计相关问题有望在未来一至三年改善，这仍是对技术进展的判断。</p>
+<p>王兴兴还在会上分享了自己的预测，称未来世界最核心的资源是数据、算力、芯片产能、能源和矿。（来源：第一财经）</p>
+<p>&nbsp;</p>
+<h2>SpaceX 选用高通平台建设星链移动美国全国 5G 网络</h2>
+<p>11 月 4 日，据高通官网消息，高通宣布 SpaceX 选择其 Dragonwing 蜂窝基础设施平台，为星链移动（Starlink Mobile）美国全国 5G 地面网络提供技术支持。双方已签署一项多年期协议，高通将为 SpaceX 的 5G 网络建设数万个基站，相关部署将于 2027 年启动。消息宣布后，高通股价盘前上涨 4%。（来源：第一财经）</p>
+<p>&nbsp;</p>
+<h2>字节限制员工使用个人 Claude、Codex 账号，洪定坤：不靠禁竞品推广自家 AI</h2>
+<p>11 月 3 日，据媒体报道，字节跳动计划从 11 月起，大范围限制 Claude、Codex 等外部 AI 工具访问内部数据。根据内部流传的通知，全公司 L4 级代码仓库和飞书文档将禁止外部 AI 访问。员工个人购买的 AI 账号，也将无法继续用于访问这些受限内容。</p>
+<p>新规在内部引发讨论。字节技术副总裁洪定坤回应称，「L3 及以上内容一旦有泄露，后果是非常严重的」。但他同时强调，推广自家产品不需要靠禁止其他选择来强迫员工使用，「因为这样效果很差」。</p>
+<p>这并非字节第一次收紧外部 AI 工具。2025 年 5 月，公司就曾因员工使用个人账号、导致业务数据沉淀在个人账户，限制 Cursor、Windsurf 等第三方工具的使用。（来源：Blockbeats）</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/36/63/3663af5fc1b5b54a1f2966341531aff3.png"></p>
+<h2>腾讯混元团队发布 Hy4，称跻身最强开源模型队列</h2>
+<p>11 月 4 日，混元发布最新一代大语言模型 Hy4，该模型参数量 770B（B 为十亿），提升了指令遵循、长文理解、长程智能体能力，将于近期开源模型权重，下一代 Hy5 模型参数量规模将进一步扩大。混元团队称，Hy4 是目前最强的开源模型之一，但与顶尖闭源模型仍存在较大差距。</p>
+<p>在 ProgramBench、FrontierCode2.0、Agents' Last Exam v1.1 等多项基准测试中，Hy4 得分超过 DeepSeek-V4.1-Flash-1017，部分得分与 Kimi K3.1 Pro 接近，部分得分超过 GPT6.1 Sol，但多数基准测试分数仍低于 GPT6.1 Sol 和 Claude Opus 5.5。（来源：第一财经）</p>
+<p>&nbsp;</p>
+<h2>iPhone 18e 爆料：升级或集中在芯片，其他变化有限</h2>
+<p>11 月 4 日，据博主「定焦数码」爆料，iPhone 18e 目前较明确的升级方向是更换芯片，其他方面预计不会有太大变化。他还称，标准版 iPhone 18 与 iPhone 18e 在部分制造工艺上可能有共通之处，但没有说明具体环节。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/be/d8/bed8b3c3bccd16b40fd9c1af6114733f.png"></p>
+<p>另一名博主「数码闲聊站」此前称，iPhone 18e 可能搭载 A20 芯片，继续采用 6.12 英寸、60Hz 的 OLED 屏幕和后置 4800 万像素单摄。关于新机是否保留刘海屏，目前没有明确说法。苹果尚未公布 iPhone 18e 的配置和发布时间，2027 年春季发布也仍是市场传闻。（来源：cnBeta）</p>
+<p>&nbsp;</p>
+<h2>Netflix 测试 AI Discover：按心情和空闲时间推荐影视作品</h2>
+<p>11 月 4 日，据 Netflix 官方消息，平台开始在电视端测试 AI Discover 标签页。用户可以从「来点轻松的」「吓吓我」「家庭电影之夜」「快速观影」等主题入手，查看相关作品片段和推荐结果；选定主题后，还能继续缩小范围，或选择「换点别的」重新寻找。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/f1/b5/f1b53a855f99baf978fca97169d6b394.png"></p>
+<p>每部推荐作品旁还会出现「调整推荐」按钮，用户可以保留感兴趣的内容，也可以要求 AI Discover 不再推荐某部作品。Netflix 称，这一标签页是测试新选片方式的空间，用户反馈将决定哪些功能继续改进或进入主界面。目前，它仅向美国部分使用英语版 Netflix、且设备受支持的电视用户开放，未来几周将逐步扩大范围。（来源：IT 之家）</p>
+<p>&nbsp;</p>
+<h2>理想官方电动踏板上线：适用于 24、25 款的理想 L7、L8、L9，售价 6999 元</h2>
+<p>11 月 4 日，理想汽车宣布，理想官方电动踏板现已上线，适用于 24、25 款的理想 L7、L8、L9，售价 6999 元。官方还预告，适用于 24、25 款的理想 L6 的理想官方电动踏板 11 月即将上线，敬请期待。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/97/92/979256c3958c050d62a6d3f499358df1.png"></p>
+<p>据介绍，这款电动踏板通过全套车规验证（通过 EMC、高低温、振动、盐雾、耐久等多项车规级测试），融入原车系统，支持中控屏控制踏板伸缩，兼容原车通讯协议。</p>
+<p>理想汽车表示，从改制流程到安装辅料，全程遵循理想官方标准。安装涉及的所有卡扣、螺栓、螺母等辅料，全部使用理想官方全新件，保障安装规范与长期使用可靠性。（来源：IT 之家）</p>
+<p><img src="https://imgslim.geekpark.net/uploads/image/file/94/51/9451233ce445351c80bb1e1aee6d3853.png"></p>
+<h2>宝闪购到家餐饮项目「家宴」在北京开启内测</h2>
+<p>11 月 4 日，据媒体报道，淘宝闪购高端到家餐饮项目「家宴」已于 10 月中旬在北京开启灰度测试，首批覆盖 6 个品牌、18 家门店。继上海、杭州、成都、深圳之后，北京成为「家宴」灰测的新城市，项目覆盖范围也随之扩大至全国 27 个品牌、50 余家门店。</p>
+<p style="text-align: center;"><img src="https://imgslim.geekpark.net/uploads/image/file/00/2e/002e6cf56580827437b273b5a15f80c4.png"></p>
+<p>北京首批灰测名单中，北京宴、湘上湘、粤界、鲁上鲁 4 个品牌为首次加入；此前已参与灰测的鲁采、许家菜，此次将北京门店一并接入。与此前几城一致，北京灰测目前面向部分特邀用户开放体验，需至少提前一天预约。菜品由合作餐厅现制出品，使用定制餐具包材，由专属骑手以恒温餐箱配送并全程温控。</p>
+<p>在产品形态上，家宴按正式宴席设计——冷盘、热菜、主菜、汤品、甜品，连同酱菜味碟一应俱全。淘宝闪购为此专门研发了一整套专属包装和餐具，覆盖多种标准尺寸。在履约端，家宴为骑手取餐设置了独立动线和交接流程，每单由经过专项培训的骑手一对一配送。（来源：电商报）</p>]]></content:encoded>
+            <author>极客早知道</author>
+            <enclosure url="https://imgslim.geekpark.net/uploads/image/file/d6/af/d6afd9f37d8f9c2cc040fe92a4b62d28.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
